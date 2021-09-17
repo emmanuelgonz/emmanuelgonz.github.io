@@ -17,7 +17,7 @@ repository               : "emmanuelgonz/emmanuelgonz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : emmanuelg_p
 facebook:
   username               :
   app_id                 :
@@ -84,9 +84,9 @@ author:
   avatar           : "DSC05727_2.jpg"
   bio              : "Plant Science Graduate Student" #focused on leveraging data science and computation to understand plant growth dynamics."
   location         : "Tucson, AZ, USA"
-  employer         : #"Pauli lab at the University of Arizona"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=emmanuel+gonzalez"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=VHqrBQsAAAAJ"
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=VHqrBQsAAAAJ"
   email            : "emmanuelgonzalez@email.arizona.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
