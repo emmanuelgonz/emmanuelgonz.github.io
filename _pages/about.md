@@ -24,7 +24,7 @@ I have an interest in photography, which often interesects my interest in plant 
 </video> -->
 
 <figure class="video_container">
-  <video width="640" height="480" controls="true" allowfullscreen="true">
+  <video width="640" height="480" controls="true" frameborder="0" allow="autoplay" allowfullscreen="true">
     <source src="files/DJI_0159.MP4" type="video/mp4">
   </video>
 </figure>
