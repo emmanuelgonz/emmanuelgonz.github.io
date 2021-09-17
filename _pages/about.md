@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "From stargazer to plant scientist"
+title: "Emmanuel Gonzalez"
 excerpt: "From stargazer to plant scientist"
 author_profile: true
 redirect_from: 
