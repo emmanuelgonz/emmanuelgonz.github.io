@@ -2,7 +2,6 @@
 title: "StarBLAST: a scalable BLAST+ solution for the classroom"
 collection: publications
 permalink: /publication/2021-StarBLAST
-date: 2019-10-01
 venue: 'Journal of Open Source Education'
 paperurl: 'http://academicpages.github.io/files/2021-StarBLAST.pdf'
 link: 'https://doi.org/10.21105/jose.00102'
