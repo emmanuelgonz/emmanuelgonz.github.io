@@ -17,4 +17,4 @@ My work has been [published](publications) in the *Journal of Open Source Educat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/da2gKRdMeXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I enjoy photography, which intersects with my passion for plant science. On my free time, I shoot a Sony α6000 and fly a DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the American Southwest. I post my photography on social media to share nature's beautiful complexity!
-<center><iframe width="1120" height="630" src="files/DJI_0159.MP4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="745" height="419" src="files/DJI_0159.MP4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
