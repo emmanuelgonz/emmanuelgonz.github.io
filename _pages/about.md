@@ -19,7 +19,7 @@ My work has been [published](publications) in *Journal of Open Source Education*
 
 My hobbies include photography & videography, reading, and drinking copious amounts of coffee! On my free time, I fly a DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the American Southwest to share the beauty of nature with people on social media! For more drone images and videos, check out my Instagram. 
 <figure class="video_container">
-  <video width="640" height="480" controls="true" frameborder="0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
+  <video width="640" height="480" controls="true" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
     <source src="files/DJI_0159.MP4" type="video/mp4">
   </video>
 </figure>
