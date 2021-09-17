@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "From stargazer to plant scientist"
 excerpt: "From stargazer to plant scientist"
 author_profile: true
 redirect_from: 
