@@ -20,5 +20,5 @@ My work has been [published](publications) in *Journal of Open Source Education*
 I have an interest in photography, which often interesects my interest in plant science. On my free time, I fly my DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the United States.
 
 <video width="640" height="480" controls>
-  <source src="files/DJI_0159.MP4" type="video/mp4">
+  <source src="files/DJI_0159.MP4" type="video/mp4" style="text-align:center;">
 </video>
