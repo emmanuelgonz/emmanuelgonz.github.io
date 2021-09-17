@@ -17,11 +17,7 @@ Biology from [Pacific Lutheran University](https://www.plu.edu/).
 
 My work has been [published](publications) in *Journal of Open Source Education*. My [research](research) explores the variation, temporal basis of stress-adaptive traits and using a broad variety of methods such as machine learning, computer vision, distributed computing, container technology, big data, and geospatial. I have [teaching](teaching) experience in both cyberinfrastructure, computing technologies, and applied machine learning.
 
-My hobbies include photography & videography, reading, and drinking copious amounts of coffee! On my free time, I fly a DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the American Southwest to share the beauty of nature with people on social media! 
-## Photography
-
-## Videography
-
+My hobbies include photography & videography, reading, and drinking copious amounts of coffee! On my free time, I fly a DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the American Southwest to share the beauty of nature with people on social media! For more drone images and videos, check out my Instagram. 
 <figure class="video_container">
   <video width="640" height="480" controls="true" frameborder="0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
     <source src="files/DJI_0159.MP4" type="video/mp4">
