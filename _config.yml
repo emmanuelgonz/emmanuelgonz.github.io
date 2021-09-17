@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Emmanuel Gonzalez"
   avatar           : "DSC05727.jpg"
-  bio              : "Plant Science Graduate Student focused on leveraging data science and computation to understand plant growth dynamics."
+  bio              : "Plant Science Graduate Student" #focused on leveraging data science and computation to understand plant growth dynamics."
   location         : "Tucson, AZ, USA"
   employer         : #"Pauli lab at the University of Arizona"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=emmanuel+gonzalez"
