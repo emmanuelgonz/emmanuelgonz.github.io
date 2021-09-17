@@ -20,4 +20,4 @@ I enjoy photography, which intersects with my passion for plant science. On my f
 <center><iframe width="560" height="315" 
 src="files/DJI_0159.MP4" type="video/mp4" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></center>
+gyroscope; picture-in-picture" allowfullscreen></iframe></center>
