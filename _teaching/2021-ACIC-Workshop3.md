@@ -1,9 +1,9 @@
 ---
-title: "As easy as 1-2-3: Machine learning in real-world projects" 
+title: "Terminal, GitHub, and iRODS Essentials" 
 collection: teaching
 type: "Grad/Undergrad Hands-on Workshop"
-permalink: /teaching/2021-ACIC-Workshop2
+permalink: /teaching/2021-ACIC-Workshop3
 venue: "University of Arizona, Applied Concepts in Cyberinfrastructure"
-date: 2021-09-17
+date: 2021-09-20
 location: "Tucson, AZ, USA"
 ---
