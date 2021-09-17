@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Novice astronomer turned plant scientist"
-excerpt: "Novice astronomer turned plant scientist"
+title: "About me"
+excerpt: "From stargazer to plant scientist"
 author_profile: true
 redirect_from: 
   - /about/
