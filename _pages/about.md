@@ -15,7 +15,7 @@ Welcome! I am a Graduate Research Assistant in the
 in Drought Stress, Plant Phenomics, and Applied Machine Learning. I earned my B.S. in
 Biology from [Pacific Lutheran University](https://www.plu.edu/).
 
-My work has been [published](publications) in *Journal of Open Source Education*. My [research](research) explores the variation, temporal basis of stress-adaptive traits and using a broad variety of methods such as machine learning, computer vision, distributed computing, container technology, big data, and geospatial. I have [teaching](teaching) experience in both cyberinfrastructure, computing technologies, and applied machine learning.
+My work has been [published](publications) in *Journal of Open Source Education*. My [research](research) explores the variation, temporal basis of stress-adaptive traits and using a broad variety of methods including machine learning, computer vision, distributed computing, container technology, big data, and geospatial analysis. I have [teaching](teaching) experience in cyberinfrastructure, computing technologies, data processing pipelines, and applied machine learning.
 
 My hobbies include photography & videography, reading, and drinking copious amounts of coffee! On my free time, I fly a DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the American Southwest to share the beauty of nature with people on social media! For more drone images and videos, check out my Instagram. 
 <figure class="video_container">
