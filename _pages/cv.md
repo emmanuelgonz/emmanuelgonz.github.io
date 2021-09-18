@@ -18,7 +18,7 @@ Work experience
 ======
 * Fall 2019 - current: Graduate Research Assistant
   * University of Arizona
-  * Duties included: Data processing of phenomic data for biological insights
+  * Duties included: Phenomic data processing for insights into stress-resilient traits
   * Supervisor: Dr. Duke Pauli
 
 * Summer 2018: Summer Research Intern
