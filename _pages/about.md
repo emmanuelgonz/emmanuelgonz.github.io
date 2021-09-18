@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/7EF74AEA-5854-4E94-A89F-AB60B398446F.JPG" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+#
+
+<p align="center">
+    <img src="images/7EF74AEA-5854-4E94-A89F-AB60B398446F.JPG" />
+<p>
 
 ## Background
 Bienvenido/a! I grew up in the small desert city of El Centro, CA. My grandfather emigrated from Mexico to the United States at a young age. He worked in agricultural fields until the age of 60, providing for his family back home. Shortly after moving to the United States, my mother earned an A.S degree and started a daycare center, without knowing much English. I was lucky to have such amazing, influential role models, and today, I truly stand on the shoulders of giants. My mother and grandfather always taught me to reach for the stars, so as a child, I inevitability developed an interest in astronomy. My mother saved up money and bought me a telescope, and boy was I thrilled. I would gaze up at the stars with a stargazer's handbook in hand wondering how far I could gaze. Although I did not end up pursuing astronomy, I now use a different lens with the same amount of curiosity.
