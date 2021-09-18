@@ -18,7 +18,7 @@ Work experience
 ======
 * Fall 2019 - current: Graduate Research Assistant
   * University of Arizona
-  * Duties included: Code development, distributed framework development, and leading machine learning projects.
+  * Duties included: Data processing of phenomic data for biological insights
   * Supervisor: Dr. Duke Pauli
 
 * Summer 2018: Summer Research Intern
