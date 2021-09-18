@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, Pacific Lutheran University, 2019
+* Ph.D in Plant Science, University of Arizona, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019 - current: Graduate Research Assistant
+  * University of Arizona
+  * Duties included: Code development, distributed framework development, and leading machine learning projects.
+  * Supervisor: Dr. Duke Pauli
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Summer Research Intern
+  * Boyce Thompson Institute
+  * Duties included: Design and completion of research project focused on cold stress in *Solanum lycopersicoides*
+  * Supervisor: Dr. Jim Giovannoni
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative Genetics
+* Scientific Programming 
+  * Python
+  * Distributed computing
+  * Container technology
+* Applied Machine Learning
 
 Publications
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Onboarding and mentoring incoming graduate students and undergraduate students 
