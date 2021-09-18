@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,7 +83,7 @@ author:
   name             : "Emmanuel Gonzalez"
   avatar           : "DSC05727_2.jpg"
   bio              : "Plant Science Graduate Student" #focused on leveraging data science and computation to understand plant growth dynamics."
-  location         : "Tucson, AZ, USA"
+  location         : "Tucson, AZ"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VHqrBQsAAAAJ"
