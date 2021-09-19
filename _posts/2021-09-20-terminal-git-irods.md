@@ -9,7 +9,7 @@ tags:
   - github
   - git 
   - irods
-  -cyverse
+  - cyverse
 ---
 
 Learn how to leverage the terminal for GitHub version control and iRods data management!
