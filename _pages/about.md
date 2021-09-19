@@ -23,3 +23,6 @@ My grandfather emigrated from Mexico to the United States at the start of the [B
 I enjoy photography & videography, which intersects my passion for plant science. On my free time, I shoot a Sony α6000 and fly a DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the American Southwest. I post my photography on social media to share nature's beautiful complexity!
 
 <center><iframe width="560" height="315" src="files/DJI_0159.MP4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+I also use my drone to generate point clouds of wild and agricultural plants. Below is an example of a point cloud generated from images collected on my Mavic Mini 2. 
+<iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed' height='480px'></iframe>
