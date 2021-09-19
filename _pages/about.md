@@ -26,4 +26,4 @@ I enjoy photography & videography, which intersects my passion for plant science
 
 I also use my scientific programming and image processing skills to generate point clouds of wild and agricultural plants for scientific communication. Below is an example of a point cloud generated from images collected on my Mavic Mini 2. 
 
-<iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed' height='480px'></iframe>
+<center><iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed' width="560px" height='315px'></iframe></center>
