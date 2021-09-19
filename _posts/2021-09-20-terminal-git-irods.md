@@ -7,3 +7,6 @@ tags:
   - references
   - bash
 ---
+
+# Testing header 
+This is a test of the header. 
