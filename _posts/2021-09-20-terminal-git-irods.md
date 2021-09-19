@@ -59,6 +59,7 @@ wsl --set-default-version 2
 ---
 
 # GitHub 
+## Account Set Up
 You need to set up an SSH key to easily push changes to your repos. 
 1. On your terminal, run and click enter for all prompts:
 ```
@@ -75,5 +76,11 @@ vim ~/.ssh/id_rsa.pub
 4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
 
 5. Paste the contents of your file which you previously copied into the Key field and add a descriptive title.
+
+6. Click "Add SSH Key"
+
+## Clone a repo 
+
+
 
 # Data management with iRODS
