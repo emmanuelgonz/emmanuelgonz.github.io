@@ -4,9 +4,19 @@ date: 2021-09-18
 permalink: /posts/2021/09/terminal-git-irods/
 excerpt_separator: <!--more-->
 tags:
-  - references
+  - terminal
   - bash
+  - github
+  - git 
+  - irods
+  -cyverse
 ---
 
-# Testing header 
-This is a test of the header. 
+# Terminal
+Your terminal will look and act differently depending on your operating system (OS). Most scientific computing is done on [Linux](https://www.linux.org/), so we will be using that today. 
+
+
+
+# GitHub 
+
+# Data management with iRODS
