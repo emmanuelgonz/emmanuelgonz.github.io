@@ -79,8 +79,9 @@ vim ~/.ssh/id_rsa.pub
 
 6. Click "Add SSH Key"
 
-## Clone a repo 
-
+## Fork & clone a repo
+1. Fork the [Academic Pages](https://github.com/academicpages/academicpages.github.io) repo. 
+2. Clone your own repo by clicking on 
 
 
 # Data management with iRODS
