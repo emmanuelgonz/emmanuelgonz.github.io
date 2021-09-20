@@ -26,6 +26,8 @@ This tutorial is split into three parts:
 3. **Part C**: iRODS
    * Set up iRODS within your terminal and upload/download data.  
 
+We may run into errors, but that's just part of the workspace set up time sink. It is painful at first, but once you are set up, it is worth it! 
+
 # Part A: Terminal
 
 Your terminal will look and act differently depending on your operating system (OS). Most scientific computing is done on [Linux](https://www.linux.org/), so that will be the focus of this tutorial.
