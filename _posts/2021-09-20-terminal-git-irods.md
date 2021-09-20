@@ -48,7 +48,11 @@ You are ready to proceed. Just open your terminal! I strongly suggest you pay at
 
 ## Windows users
 
-We need to download and install WSL 2. I use this as my go-to workspace, as it allows me to run my code on Linux but have my computer run Windows 10. Let's get this set up on your computer by following the steps below:
+We need to download and install WSL 2. I use this as my go-to workspace, as it allows me to run my code on Linux but have my computer run Windows 10. You will have a Linux terminal running on the subsystem, but your main OS will be Windows! Isn't that cool?
+
+![](/images/wsl2_example.png)
+
+Let's get this set up on your computer by following the steps below:
 
 1. Open Powershell as Admin and run:
 
