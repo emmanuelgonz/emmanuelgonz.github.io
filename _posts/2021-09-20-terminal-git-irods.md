@@ -15,7 +15,7 @@ tags:
 
 Learn how to leverage the terminal for GitHub version control and Integrated Rule-Oriented Data System (iRODS) data management!
 <!--more-->
-# Terminal
+# Part A: Terminal
 
 Your terminal will look and act differently depending on your operating system (OS). Most scientific computing is done on [Linux](https://www.linux.org/), so that will be the focus of this tutorial.
 
@@ -57,7 +57,7 @@ You will need to download and install the Windows Subsystem for Linux 2(WSL 2). 
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
 7. Open the newly installed Ubuntu app, and you should now see a Linux terminal on your screen! You will be asked to create a username and password.
 
-# GitHub
+# Part B: GitHub
 
 ## Account Set Up
 
@@ -90,3 +90,5 @@ You need to set up an SSH key to easily push changes to your repos.
     ```
     git clone <insert link here>
     ```
+
+# Part C: iRODS Data Management
