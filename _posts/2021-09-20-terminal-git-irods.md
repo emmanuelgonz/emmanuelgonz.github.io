@@ -78,13 +78,13 @@ vim ~/.ssh/id_rsa.pub
 
 ![](/images/fork_repo.png)
 
-2. Click on the green "Code" button and copy the link to clone your own repo.
-
-![](/images/clone_repo.png)
-
-3. Rename the repo to your GitHub username:
+2. Rename the repo to your GitHub username:
 
 ![](/images/rename_repo.png)
+
+3. Click on the green "Code" button and copy the link to clone your own repo.
+
+![](/images/clone_repo.png)
 
 4. On your terminal, run: 
 ```
