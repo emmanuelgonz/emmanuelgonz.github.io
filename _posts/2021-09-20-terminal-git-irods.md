@@ -32,11 +32,11 @@ Your terminal will look and act differently depending on your operating system (
 
 ## MacOS & Linux users
 
-You are ready to proceed. Just open your terminal!
+You are ready to proceed. Just open your terminal! I strongly suggest you pay attention to the Windows Subsystem for Linux 2 (WSL 2) set up, as you may find this useful when you develop for other OS. 
 
 ## Windows users
 
-You will need to download and install the Windows Subsystem for Linux 2(WSL 2). Follow the steps below:
+We need to download and install WSL 2. Follow the steps below:
 
 1. Open Powershell as Admin and run:
 
@@ -72,7 +72,7 @@ You will need to download and install the Windows Subsystem for Linux 2(WSL 2). 
 
 ## Account Set Up
 
-You need to set up an SSH key to easily push changes to your repos.
+We need to set up an SSH key to easily push changes to your repos.
 
 1. On your terminal, run and click enter for all prompts:
 
