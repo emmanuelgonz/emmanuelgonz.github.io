@@ -11,6 +11,10 @@ tags:
   - git 
   - irods
   - cyverse
+  - data
+  - science
+  - computing
+  - soft skills
 ---
 
 Learn how to leverage the terminal for GitHub version control and Integrated Rule-Oriented Data System (iRODS) data management!
