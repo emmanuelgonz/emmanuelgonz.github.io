@@ -87,8 +87,17 @@ You need to set up an SSH key to easily push changes to your repos.
 ## Fork & clone a repo
 
 1. Fork the [Academic Pages](https://github.com/academicpages/academicpages.github.io) repo.
+
+    ![](/images/fork_repo.png)
+
 2. Rename the repo to your GitHub username:
+
+    ![](/images/rename_repo.png)
+
 3. Click on the green "Code" button and copy the link to clone your own repo.
+
+    ![](/images/clone_repo.png)
+
 4. On your terminal, run:
 
     ```
