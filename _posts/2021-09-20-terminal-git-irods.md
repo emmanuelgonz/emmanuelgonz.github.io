@@ -35,14 +35,11 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 2. Right-click on the Windows Start icon, click on Run, type ```winver```. Confirm that you meet the requirements below.
 
----
-
-**WSL 2 requirements**
-
-x64 systems: Version 1903 or higher, with Build 18362 or higher.
-ARM64 systems: Version 2004 or higher, with Build 19041 or higher.
-  
----
+> **WSL 2 Requirements**
+> >
+> x64 systems: Version 1903 or higher, with Build 18362 or higher.
+>
+> ARM64 systems: Version 2004 or higher, with Build 19041 or higher.
 
 1. Enable the Virtual Machine feature by running:
 
