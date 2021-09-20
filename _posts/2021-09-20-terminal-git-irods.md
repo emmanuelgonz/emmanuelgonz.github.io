@@ -28,6 +28,7 @@ You will need to download and install the Windows Subsystem for Linux 2(WSL 2). 
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
+
 2. Right-click on the Windows Start icon, click on Run, type ```winver```. Confirm that you meet the requirements below.
 
 ---
@@ -43,11 +44,13 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
+
 4. Download and install the Linux kernel update by [clicking here](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi). 
 5. Set WSL 2 as your default version by running:
 ```
 wsl --set-default-version 2
 ```
+
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
 7. Open the newly installed Ubuntu app, and you should now see a Linux terminal on your screen!
 
@@ -81,19 +84,23 @@ vim ~/.ssh/id_rsa.pub
 
 ## Fork & clone a repo
 1. Fork the [Academic Pages](https://github.com/academicpages/academicpages.github.io) repo. 
-
 <p align="center">
     <img src="images/fork_repo.png" />
 <p>
 
 2. Click on the green "Code" button and copy the link to clone your own repo.
-
 <p align="center">
     <img src="images/clone_repo.png" />
 <p>
 
-3. On your terminal, run: 
+3. Rename the repo to your GitHub username:
+<p align="center">
+    <img src="images/rename_repo.png" />
+<p>
+
+4. On your terminal, run: 
 ```
 git clone <insert link here>
 ```
+
 # Data management with iRODS
