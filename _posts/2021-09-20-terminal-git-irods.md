@@ -18,6 +18,14 @@ tags:
 
 Learn how to leverage the terminal for GitHub version control and Integrated Rule-Oriented Data System (iRODS) data management!
 <!--more-->
+This tutorial is split into three parts: 
+1. Part A: Terminal 
+   * Set up a Linux workspace for scientific computing. 
+2. Part B: GitHub
+   * Build a website to share this with employers, network connections, etc. 
+3. Part C: iRODS
+   * Set up iRODS within your terminal and upload/download data.  
+
 # Part A: Terminal
 
 Your terminal will look and act differently depending on your operating system (OS). Most scientific computing is done on [Linux](https://www.linux.org/), so that will be the focus of this tutorial.
@@ -130,7 +138,7 @@ You need to set up an SSH key to easily push changes to your repos.
     ```
     wget https://files.renci.org/pub/irods/releases/4.1.10/ubuntu14/irods-icommands-4.1.10-ubuntu14-x86_64.deb && apt-get install ./irods-icommands-4.1.10-ubuntu14-x86_64.deb
     ```
-    
+
     ```
     apt-get update && apt-get install -y && apt-get install apt-transport-https gcc gnupg htop less libfuse2 libpq-dev libssl1.0 lsb nano nodejs python-requests software-properties-common vim
     ```
