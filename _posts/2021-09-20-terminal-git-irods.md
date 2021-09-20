@@ -104,3 +104,33 @@ You need to set up an SSH key to easily push changes to your repos.
     ```
 
 # Part C: iRODS Data Management
+
+## MacOS users 
+
+1. Download the MacOS installer [here](https://cyverse.atlassian.net/wiki/download/attachments/241869823/cyverse-icommands-4.1.9.pkg?version=3&modificationDate=1472820029000&cacheVersion=1&api=v2).
+2. Follow the installation steps. 
+3. You're now ready to start downloading some data! 
+
+## WSL2 & Linux users 
+
+1. Download and install iRODS:
+   
+    ```
+    wget https://files.renci.org/pub/irods/releases/4.1.10/ubuntu14/irods-icommands-4.1.10-ubuntu14-x86_64.deb && apt-get install ./irods-icommands-4.1.10-ubuntu14-x86_64.deb
+    ```
+    apt-get update && apt-get install -y && apt-get install apt-transport-https gcc gnupg htop less libfuse2 libpq-dev libssl1.0 lsb nano nodejs python-requests software-properties-common vim
+    ```
+
+2. Run:
+   
+    ```
+    iinit
+    ```
+
+3. Fill in the prompts with:
+    
+    |Host name|Port #|Username|zone|Password|
+    |:--------------:|:--:|:-------------:|:----:|:--------------:|
+    |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
+
+4. You're ready to start downloading some data!
