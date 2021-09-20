@@ -93,9 +93,7 @@ vim ~/.ssh/id_rsa.pub
 <p>
 
 3. On your terminal, run: 
-
 ```
 git clone <insert link here>
 ```
-
 # Data management with iRODS
