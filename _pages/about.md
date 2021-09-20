@@ -10,7 +10,7 @@ redirect_from:
 
 Bienvenido/Welcome!
 
-
+<img title="Emmanuel on truck load of lettuce" alt="Alt text" src="images/7EF74AEA-5854-4E94-A89F-AB60B398446F.JPG">
 
 I am a Graduate Research Assistant in the [School of Plant Sciences](https://cals.arizona.edu/spls/home) at the [University *of* Arizona](https://www.arizona.edu/). I am part of the [Pauli lab](https://thepaulilab.com/). We are responsible for collecting, storing, and processing data from the [Field Scanalyzer](https://news.arizona.edu/story/world-s-largest-robotic-field-scanner-now-place). I specialize in Drought Stress, Plant Phenomics, and Applied Machine Learning. Throughout my graduate studies, I, along with an interdisciplinary team of computer scientists, engineers, and other plant scientists, have developed [PhytoOracle](https://phytooracle.readthedocs.io/en/latest/contents.html), a suite of modular, scalable phenomic data processing pipelines. I earned my B.S. in Biology from [Pacific Lutheran University](https://www.plu.edu/). My interest in plant science began in the forests of Washington state and strengthened during a summer internship in [Dr. Jim Giovannoni's lab](https://btiscience.org/jim-giovannoni/) at the [Boyce Thompson Institute](https://btiscience.org/).
 
