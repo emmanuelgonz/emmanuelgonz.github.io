@@ -10,9 +10,6 @@ tags:
   - git 
   - irods
   - cyverse
-  - data
-  - version control 
-  - data science
 ---
 
 Learn how to leverage the terminal for GitHub version control and iRODS data management!
