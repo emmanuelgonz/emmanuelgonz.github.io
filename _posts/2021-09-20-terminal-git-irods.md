@@ -34,7 +34,7 @@ This tutorial is split into three parts:
 > 
 > * GitHub account, get one [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
-We may run into errors during this workshop. Do not be discouraged, this is part of the workspace set up. It is painful at first, but once it's over, it's worth it! 
+***Note: We may run into errors during this workshop. Do not be discouraged, this is part of the workspace set up. It is painful at first, but once it's over, it's worth it!***
 
 ---
 
