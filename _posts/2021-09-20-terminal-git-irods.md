@@ -39,12 +39,12 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 **WSL 2 requirements**
 
-- x64 systems: Version 1903 or higher, with Build 18362 or higher.
-- ARM64 systems: Version 2004 or higher, with Build 19041 or higher.
+x64 systems: Version 1903 or higher, with Build 18362 or higher.
+ARM64 systems: Version 2004 or higher, with Build 19041 or higher.
   
 ---
 
-3. Enable the Virtual Machine feature by running:
+1. Enable the Virtual Machine feature by running:
 
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
