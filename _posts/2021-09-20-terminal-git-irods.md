@@ -134,16 +134,16 @@ You need to set up an SSH key to easily push changes to your repos.
 ## WSL2 & Linux users 
 
 1. Download and install iRODS:
-   
-    ```
-    wget https://files.renci.org/pub/irods/releases/4.1.10/ubuntu14/irods-icommands-4.1.10-ubuntu14-x86_64.deb && apt-get install ./irods-icommands-4.1.10-ubuntu14-x86_64.deb
-    ```
 
     ```
     apt-get update && apt-get install -y && apt-get install apt-transport-https gcc gnupg htop less libfuse2 libpq-dev libssl1.0 lsb nano nodejs python-requests software-properties-common vim
     ```
 
-2. Run:
+    ```
+    wget https://files.renci.org/pub/irods/releases/4.1.10/ubuntu14/irods-icommands-4.1.10-ubuntu14-x86_64.deb && apt-get install ./irods-icommands-4.1.10-ubuntu14-x86_64.deb
+    ```
+
+2. Log in to iRODS:
    
     ```
     iinit
