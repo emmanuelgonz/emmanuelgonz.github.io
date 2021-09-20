@@ -26,6 +26,12 @@ This tutorial is split into three parts:
 3. **Part C**: iRODS
    * Set up iRODS within your terminal and upload/download data.  
 
+> Tutorial requirements: 
+> 
+> Computer, either Windows, Linux, or Mac OS
+> CyVerse account, get one [here](https://user.cyverse.org/register)
+> GitHub account, get one [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+
 We may run into errors, but that's just part of the workspace set up time sink. It is painful at first, but once you are set up, it is worth it! 
 
 ---
