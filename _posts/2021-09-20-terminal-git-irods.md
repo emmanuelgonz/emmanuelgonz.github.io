@@ -35,7 +35,7 @@ You will need to download and install the Windows Subsystem for Linux 2(WSL 2). 
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
 
-2. Right-click on the Windows Start icon, click on Run, type ```winSver```. Confirm that you meet the requirements below.
+2. Right-click on the Windows Start icon, click on Run, type ```winver```. Confirm that you meet the requirements below.
 
 ---
 **WSL 2 requirements**:
