@@ -32,15 +32,15 @@ We may run into errors, but that's just part of the workspace set up time sink. 
 
 # Part A: Terminal
 
-Your terminal will look and act differently depending on your operating system (OS). Most scientific computing is done on [Linux](https://www.linux.org/), so that will be the focus of this tutorial.
+Your terminal will look and act differently depending on your operating system (OS). There are a variety of OSs out there including Ubuntu, Windows, Mac OS, etc. Since the majority of scientific computing is done on [Linux](https://www.linux.org/), that will be the focus of this tutorial. 
 
 ## MacOS & Linux users
 
-You are ready to proceed. Just open your terminal! I strongly suggest you pay attention to the Windows Subsystem for Linux 2 (WSL 2) set up, as you may find this useful when you develop for other OS. 
+You are ready to proceed. Just open your terminal! I strongly suggest you pay attention to the Windows Subsystem for Linux 2 (WSL 2) set up, as you may find this useful when you develop for other OSs. 
 
 ## Windows users
 
-We need to download and install WSL 2. Follow the steps below:
+We need to download and install WSL 2. I use this as my go-to workspace, as it allows me to run my code on Linux but have my computer run Windows 10. Let's get this set up on your computer by following the steps below:
 
 1. Open Powershell as Admin and run:
 
@@ -63,7 +63,7 @@ We need to download and install WSL 2. Follow the steps below:
     ```
 
 4. Download and install the Linux kernel update by [clicking here](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi).
-5. Set WSL 2 as your default version by running:
+5. Go back to your admin Powershell window and set WSL 2 as your default WSL version by running:
 
     ```
     wsl --set-default-version 2
