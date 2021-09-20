@@ -41,7 +41,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 >
 > ARM64 systems: Version 2004 or higher, with Build 19041 or higher.
 
-1. Enable the Virtual Machine feature by running:
+3. Enable the Virtual Machine feature by running:
 
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
