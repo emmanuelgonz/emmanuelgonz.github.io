@@ -28,8 +28,8 @@ I enjoy photography & videography, which intersects my passion for plant science
 
 I also use my scientific programming and image processing skills to generate point clouds of wild and agricultural plants for science and technology communication. Below are point clouds generated from images collected with a [Mavic Mini 2](https://www.dji.com/mini-2/specs).
 
-## Prickly pear cactus
+### Prickly pear cactus
 <center><iframe src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed' width="560px" height='315px'></iframe></center>
 
-## Sorghum
+### Sorghum
 <center><iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed' width="560px" height='315px'></iframe></center>
