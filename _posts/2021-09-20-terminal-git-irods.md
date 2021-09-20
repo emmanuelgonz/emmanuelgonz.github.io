@@ -27,7 +27,6 @@ You will need to download and install the Windows Subsystem for Linux 2(WSL 2). 
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
-
 2. Right-click on the Windows Start icon, click on Run, type ```winver```. Confirm that you meet the requirements below.
 
 ---
@@ -43,13 +42,11 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
-
 4. Download and install the Linux kernel update by [clicking here](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi). 
 5. Set WSL 2 as your default version by running:
 ```
 wsl --set-default-version 2
 ```
-
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
 7. Open the newly installed Ubuntu app, and you should now see a Linux terminal on your screen!
 
@@ -67,30 +64,21 @@ You need to set up an SSH key to easily push changes to your repos.
 ```
 ssh-keygen
 ```
-
 2. Open the file: 
 ```
 vim ~/.ssh/id_rsa.pub
 ```
-
 3. Copy the file contents. 
-
 4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
-
 5. Paste the contents of your file which you previously copied into the Key field and add a descriptive title.
-
 6. Click "Add SSH Key"
 
 ## Fork & clone a repo
 1. Fork the [Academic Pages](https://github.com/academicpages/academicpages.github.io) repo. 
-
 2. Click on the green "Code" button and copy the link to clone your own repo.
-
 3. Rename the repo to your GitHub username:
-
 4. On your terminal, run: 
 ```
 git clone <insert link here>
 ```
-
 # Data management with iRODS
