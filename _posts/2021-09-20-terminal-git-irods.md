@@ -32,7 +32,7 @@ This tutorial is split into three parts:
 > CyVerse account, get one [here](https://user.cyverse.org/register)
 > GitHub account, get one [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
-We may run into errors, but that's just part of the workspace set up time sink. It is painful at first, but once you are set up, it is worth it! 
+We may run into errors during this workshop. Do not be discouraged, this is part of the workspace set up. It is painful at first, but once it's over, it's worth it! 
 
 ---
 
