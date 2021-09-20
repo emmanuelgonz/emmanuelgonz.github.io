@@ -78,11 +78,8 @@ vim ~/.ssh/id_rsa.pub
 
 ## Fork & clone a repo
 1. Fork the [Academic Pages](https://github.com/academicpages/academicpages.github.io) repo. 
-
 2. Rename the repo to your GitHub username:
-
 3. Click on the green "Code" button and copy the link to clone your own repo.
-
 4. On your terminal, run: 
 ```
 git clone <insert link here>
