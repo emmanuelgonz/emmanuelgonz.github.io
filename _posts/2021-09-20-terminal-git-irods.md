@@ -39,7 +39,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
   
 ---
 
-1. Enable the Virtual Machine feature by running:
+3. Enable the Virtual Machine feature by running:
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
@@ -49,13 +49,7 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 wsl --set-default-version 2
 ```
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
-7. Open the newly installed Ubuntu app, and you should now see a Linux terminal on your screen!
-
----
-**Note**:
-  The first time you open the Ubuntu app, you will be asked to create a username and password.
-
----
+7. Open the newly installed Ubuntu app, and you should now see a Linux terminal on your screen! You will be asked to create a username and password.
 
 # GitHub 
 ## Account Set Up
