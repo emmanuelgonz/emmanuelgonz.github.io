@@ -18,7 +18,6 @@ Learn how to leverage the terminal for GitHub version control and iRods data man
 # Terminal
 Your terminal will look and act differently depending on your operating system (OS). Most scientific computing is done on [Linux](https://www.linux.org/), so that will be the focus of this tutorial.
 
-
 ## MacOS & Linux users
 You are ready to proceed. Just open your terminal! 
 
@@ -86,17 +85,17 @@ vim ~/.ssh/id_rsa.pub
 1. Fork the [Academic Pages](https://github.com/academicpages/academicpages.github.io) repo. 
 <p align="center">
     <img src="images/fork_repo.png" />
-<p>
+</p>
 
 2. Click on the green "Code" button and copy the link to clone your own repo.
 <p align="center">
     <img src="images/clone_repo.png" />
-<p>
+</p>
 
 3. Rename the repo to your GitHub username:
 <p align="center">
     <img src="images/rename_repo.png" />
-<p>
+</p>
 
 4. On your terminal, run: 
 ```
