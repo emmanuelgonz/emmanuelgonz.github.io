@@ -104,16 +104,18 @@ We need to set up an SSH key to easily push changes to your repos.
     ssh-keygen
     ```
 
-2. Open the file:
+2. Print and copy contents of the file:
 
     ```
-    vim ~/.ssh/id_rsa.pub
+    cat ~/.ssh/id_rsa.pub
     ```
 
-3. Copy the file contents.
-4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
-5. Paste the contents of your file which you previously copied into the Key field and add a descriptive title.
-6. Click "Add SSH Key"
+3. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
+4. 
+    ![](/images/ssh_setup.png)
+
+5. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
+    ![](/images/add_ssh.png)
 
 ## Fork & clone a repo
 
