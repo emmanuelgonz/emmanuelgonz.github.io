@@ -76,7 +76,7 @@ We need to download and install WSL 2. I use this as my go-to workspace, as it a
 
 # Part B: GitHub
 
-## Account Set Up
+## Setting up SSH keys
 
 We need to set up an SSH key to easily push changes to your repos.
 
