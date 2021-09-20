@@ -19,11 +19,11 @@ tags:
 Learn how to leverage the terminal for GitHub version control and Integrated Rule-Oriented Data System (iRODS) data management!
 <!--more-->
 This tutorial is split into three parts: 
-1. Part A: Terminal 
+1. **Part A**: Terminal 
    * Set up a Linux workspace for scientific computing. 
-2. Part B: GitHub
+2. **Part B**: GitHub
    * Build a website to share this with employers, network connections, etc. 
-3. Part C: iRODS
+3. **Part C**: iRODS
    * Set up iRODS within your terminal and upload/download data.  
 
 # Part A: Terminal
