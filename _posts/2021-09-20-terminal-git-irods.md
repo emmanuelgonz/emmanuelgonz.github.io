@@ -81,7 +81,17 @@ vim ~/.ssh/id_rsa.pub
 
 ## Fork & clone a repo
 1. Fork the [Academic Pages](https://github.com/academicpages/academicpages.github.io) repo. 
-2. Clone your own repo by clicking on 
+2. Click on the green "Code" button and copy the link to clone your own repo.
+
+<p align="center">
+    <img src="images/clone_repo.png" />
+<p>
+
+3. On your terminal, run: 
+
+```
+git clone <insert link here>
+```
 
 
 # Data management with iRODS
