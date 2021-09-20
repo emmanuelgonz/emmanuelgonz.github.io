@@ -33,15 +33,13 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 2. Right-click on the Windows Start icon, click on Run, type ```winver```. Confirm that you meet the requirements below.
 
 ---
-**WSL 2 requirements**
-
-  x64 systems: Version 1903 or higher, with Build 18362 or higher.
-
-  ARM64 systems: Version 2004 or higher, with Build 19041 or higher.
-
+**WSL 2 requirements**:
+  - x64 systems: Version 1903 or higher, with Build 18362 or higher.
+  - ARM64 systems: Version 2004 or higher, with Build 19041 or higher.
+  
 ---
 
-3. Enable the Virtual Machine feature by running:
+1. Enable the Virtual Machine feature by running:
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
@@ -54,8 +52,7 @@ wsl --set-default-version 2
 7. Open the newly installed Ubuntu app, and you should now see a Linux terminal on your screen!
 
 ---
-**Note**
-
+**Note**:
   The first time you open the Ubuntu app, you will be asked to create a username and password.
 
 ---
