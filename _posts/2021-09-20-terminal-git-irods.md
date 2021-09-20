@@ -12,7 +12,7 @@ tags:
   - cyverse
 ---
 
-Learn how to leverage the terminal for GitHub version control and iRODS data management!
+Learn how to leverage the terminal for GitHub version control and Integrated Rule-Oriented Data System (iRODS) data management!
 <!--more-->
 # Terminal
 
