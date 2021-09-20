@@ -82,7 +82,13 @@ Let's get this set up on your computer by following the steps below:
     ```
 
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
-7. Open the newly installed Ubuntu app, and you should now see a Linux terminal on your screen! You will be asked to create a username and password.
+    ![](/images/ms_store_ubuntu.png)
+
+7. Download the Windows Terminal app.
+   
+    ![](/images/ms_store_terminal.png)
+
+8. Open the Windows Terminal app. You are now ready to go! You will be asked to create a username and password. 
 
 ---
 
