@@ -134,18 +134,18 @@ We need to set up an SSH key to easily push changes to your repos.
 1. Download the macOS installer [here](https://cyverse.atlassian.net/wiki/download/attachments/241869823/cyverse-icommands-4.1.9.pkg?version=3&modificationDate=1472820029000&cacheVersion=1&api=v2).
 2. Follow the installation steps. 
 3. On your terminal, run: 
-4. 
+   
     ```
     iinit
     ```
 
-5. Fill in the prompts with:
+4. Fill in the prompts with:
     
     |Host name|Port #|Username|zone|Password|
     |:--------------:|:--:|:-------------:|:----:|:--------------:|
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
-6. You're now ready to start downloading some data! 
+5. You're now ready to start downloading some data! 
 
 ## WSL2 & Linux users 
 
