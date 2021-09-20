@@ -42,7 +42,7 @@ We may run into errors during this workshop. Do not be discouraged, this is part
 
 Your terminal will look and act differently depending on your operating system (OS). There are a variety of OSs out there including Ubuntu, Windows, Mac OS, etc. Since the majority of scientific computing is done on [Linux](https://www.linux.org/), that will be the focus of this tutorial. 
 
-## MacOS & Linux users
+## macOS & Linux users
 
 You are ready to proceed. Just open your terminal! I strongly suggest you pay attention to the Windows Subsystem for Linux 2 (WSL 2) set up, as you may find this useful when you develop for other OSs. 
 
@@ -129,9 +129,9 @@ We need to set up an SSH key to easily push changes to your repos.
 
 # Part C: iRODS Data Management
 
-## MacOS users 
+## macOS users 
 
-1. Download the MacOS installer [here](https://cyverse.atlassian.net/wiki/download/attachments/241869823/cyverse-icommands-4.1.9.pkg?version=3&modificationDate=1472820029000&cacheVersion=1&api=v2).
+1. Download the macOS installer [here](https://cyverse.atlassian.net/wiki/download/attachments/241869823/cyverse-icommands-4.1.9.pkg?version=3&modificationDate=1472820029000&cacheVersion=1&api=v2).
 2. Follow the installation steps. 
 3. On your terminal, run: 
 4. 
