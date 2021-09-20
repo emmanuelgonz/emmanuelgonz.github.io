@@ -28,6 +28,8 @@ This tutorial is split into three parts:
 
 We may run into errors, but that's just part of the workspace set up time sink. It is painful at first, but once you are set up, it is worth it! 
 
+---
+
 # Part A: Terminal
 
 Your terminal will look and act differently depending on your operating system (OS). Most scientific computing is done on [Linux](https://www.linux.org/), so that will be the focus of this tutorial.
@@ -69,6 +71,8 @@ We need to download and install WSL 2. Follow the steps below:
 
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
 7. Open the newly installed Ubuntu app, and you should now see a Linux terminal on your screen! You will be asked to create a username and password.
+
+---
 
 # Part B: GitHub
 
@@ -112,6 +116,8 @@ We need to set up an SSH key to easily push changes to your repos.
     ```
     git clone <insert link here>
     ```
+
+---
 
 # Part C: iRODS Data Management
 
