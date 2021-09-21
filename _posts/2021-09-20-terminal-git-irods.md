@@ -17,24 +17,21 @@ tags:
 ---
 
 Learn how to leverage the terminal for GitHub version control and Integrated Rule-Oriented Data System (iRODS) data management!
-
 <!--more-->
-
-This tutorial is split into three parts:
-
-1. **Part A**: Terminal
-   * Set up a Linux workspace for scientific computing.
+This tutorial is split into three parts: 
+1. **Part A**: Terminal 
+   * Set up a Linux workspace for scientific computing. 
 2. **Part B**: GitHub
-   * Build a website to share this with employers, network connections, etc.
+   * Build a website to share this with employers, network connections, etc. 
 3. **Part C**: iRODS
    * Set up iRODS within your terminal and upload/download data.  
 
-> Tutorial requirements:
->
+> Tutorial requirements: 
+> 
 > * Computer, either Windows, Linux, or Mac OS
->
+> 
 > * CyVerse account, get one [here](https://user.cyverse.org/register)
->
+> 
 > * GitHub account, get one [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
 ***Note: We may run into errors during this workshop. Do not be discouraged, this is part of the workspace set up. It is painful at first, but once it's over, it's worth it!***
@@ -43,11 +40,11 @@ This tutorial is split into three parts:
 
 # Part A: Terminal
 
-Your terminal will look and act differently depending on your operating system (OS). There are a variety of OSs out there including Ubuntu, Windows, Mac OS, etc. Since the majority of scientific computing is done on [Linux](https://www.linux.org/), that will be the focus of this tutorial.
+Your terminal will look and act differently depending on your operating system (OS). There are a variety of OSs out there including Ubuntu, Windows, Mac OS, etc. Since the majority of scientific computing is done on [Linux](https://www.linux.org/), that will be the focus of this tutorial. 
 
 ## macOS & Linux users
 
-You are ready to proceed. Just open your terminal! I strongly suggest you pay attention to the Windows Subsystem for Linux 2 (WSL 2) set up, as you may find this useful when you develop for other OSs.
+You are ready to proceed. Just open your terminal! I strongly suggest you pay attention to the Windows Subsystem for Linux 2 (WSL 2) set up, as you may find this useful when you develop for other OSs. 
 
 ## Windows users
 
@@ -85,14 +82,13 @@ Let's get this set up on your computer by following the steps below:
     ```
 
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
-
     ![](/images/ms_store_ubuntu.png)
 
 7. Download the Windows Terminal app.
-
+   
     ![](/images/ms_store_terminal.png)
 
-8. Open the Windows Terminal app. You are now ready to go! You will be asked to create a username and password.
+8. Open the Windows Terminal app. You are now ready to go! You will be asked to create a username and password. 
 
 ---
 
@@ -114,12 +110,17 @@ We need to set up an SSH key to easily push changes to your repos.
     cat ~/.ssh/id_rsa.pub
     ```
 
-3. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
+3. For more information about the vim editor, run the following: 
 
+    ```
+    vimtutor 
+    ```
+
+4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
+5. 
     ![](/images/ssh_setup.png)
 
-4. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
-
+6. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
     ![](/images/add_ssh.png)
 
 ## Fork & clone a repo
@@ -146,25 +147,25 @@ We need to set up an SSH key to easily push changes to your repos.
 
 # Part C: iRODS Data Management
 
-## macOS users
+## macOS users 
 
 1. Download the macOS installer [here](https://cyverse.atlassian.net/wiki/download/attachments/241869823/cyverse-icommands-4.1.9.pkg?version=3&modificationDate=1472820029000&cacheVersion=1&api=v2).
-2. Follow the installation steps.
-3. On your terminal, run:
-
+2. Follow the installation steps. 
+3. On your terminal, run: 
+   
     ```
     iinit
     ```
 
 4. Fill in the prompts with:
-
+    
     |Host name|Port #|Username|zone|Password|
     |:--------------:|:--:|:-------------:|:----:|:--------------:|
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
-5. You're now ready to start downloading some data!
+5. You're now ready to start downloading some data! 
 
-## WSL 2 & Linux users
+## WSL2 & Linux users 
 
 1. Download and install iRODS:
 
@@ -177,23 +178,15 @@ We need to set up an SSH key to easily push changes to your repos.
     ```
 
 2. Log in to iRODS:
-
+   
     ```
     iinit
     ```
 
 3. Fill in the prompts with:
-
+    
     |Host name|Port #|Username|zone|Password|
     |:--------------:|:--:|:-------------:|:----:|:--------------:|
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
-4. You're ready to download some data!
-
-See below for more resources:
-
-* For more info on VIM, please run the following command on your terminal:
-  
-    ```
-    vimtutor 
-    ```
+4. You're ready to start downloading some data!
