@@ -26,6 +26,11 @@ Work experience
   * Duties included: Design and completion of research project focused on cold stress in *Solanum lycopersicoides*
   * Supervisor: Dr. Jim Giovannoni
 
+* Fall 2018- Spring 2019: Greenhouse Assistant 
+  * Pacific Lutheran University 
+  * Dutied included: Maintaining live plant collection and propagation of native plants. 
+  * Supervisor: Dr. Romey Haberle
+
   
 Skills
 ======
