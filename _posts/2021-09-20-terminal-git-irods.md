@@ -188,6 +188,8 @@ We need to set up an SSH key to easily push changes to your repos.
 
 4. You're ready to start downloading some data!
 
+---
+
 See below for more resources:
 
 * For more info on VIM, please run the following command on your terminal:
