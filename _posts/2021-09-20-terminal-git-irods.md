@@ -111,17 +111,12 @@ We need to set up an SSH key to easily push changes to your repos.
     cat ~/.ssh/id_rsa.pub
     ```
 
-3. For more information about the vim editor, run the following: 
-
-    ```
-    vimtutor 
-    ```
-
-4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
+3. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
 
     ![](/images/ssh_setup.png)
 
-6. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
+4. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
+   
     ![](/images/add_ssh.png)
 
 ## Fork & clone a repo
@@ -191,3 +186,10 @@ We need to set up an SSH key to easily push changes to your repos.
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
 4. You're ready to start downloading some data!
+
+See below for more resources:
+* For more info on VIM, please run the following command on your terminal: 
+  
+    ```
+    vimtutor 
+    ```
