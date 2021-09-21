@@ -82,6 +82,7 @@ Let's get this set up on your computer by following the steps below:
     ```
 
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
+   
     ![](/images/ms_store_ubuntu.png)
 
 7. Download the Windows Terminal app.
@@ -117,7 +118,7 @@ We need to set up an SSH key to easily push changes to your repos.
     ```
 
 4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
-5. 
+
     ![](/images/ssh_setup.png)
 
 6. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
@@ -165,7 +166,7 @@ We need to set up an SSH key to easily push changes to your repos.
 
 5. You're now ready to start downloading some data! 
 
-## WSL2 & Linux users 
+## WSL 2 & Linux users 
 
 1. Download and install iRODS:
 
