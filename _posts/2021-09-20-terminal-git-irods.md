@@ -82,6 +82,7 @@ Let's get this set up on your computer by following the steps below:
     ```
 
 6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
+   
     ![](/images/ms_store_ubuntu.png)
 
 7. Download the Windows Terminal app.
@@ -190,3 +191,11 @@ We need to set up an SSH key to easily push changes to your repos.
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
 4. You're ready to start downloading some data!
+
+# Resources
+
+* For details on the vim editor, run the following:
+
+    ```
+    vimtutor
+    ```
