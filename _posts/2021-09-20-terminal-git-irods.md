@@ -17,7 +17,9 @@ tags:
 ---
 
 Learn how to leverage the terminal for GitHub version control and Integrated Rule-Oriented Data System (iRODS) data management!
+
 <!--more-->
+
 This tutorial is split into three parts:
 
 1. **Part A**: Terminal
@@ -186,9 +188,7 @@ We need to set up an SSH key to easily push changes to your repos.
     |:--------------:|:--:|:-------------:|:----:|:--------------:|
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
-4. You're ready to start downloading some data!
-
----
+4. You're ready to download some data!
 
 See below for more resources:
 
