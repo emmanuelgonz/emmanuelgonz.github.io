@@ -110,11 +110,17 @@ We need to set up an SSH key to easily push changes to your repos.
     cat ~/.ssh/id_rsa.pub
     ```
 
-3. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
-4. 
+3. For more information about the vim editor, run the following: 
+
+    ```
+    vimtutor 
+    ```
+
+4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
+5. 
     ![](/images/ssh_setup.png)
 
-5. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
+6. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
     ![](/images/add_ssh.png)
 
 ## Fork & clone a repo
