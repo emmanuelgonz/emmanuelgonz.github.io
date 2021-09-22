@@ -3,6 +3,7 @@ title: 'Terminal, GitHub, and iRODS Essentials'
 date: 2021-09-20
 permalink: /posts/2021/09/terminal-git-irods/
 excerpt_separator: <!--more-->
+toc: true
 tags:
   - terminal
   - bash
@@ -56,7 +57,7 @@ Let's get this set up on your computer by following the steps below:
 
 1. Open Powershell as Admin and run:
 
-    ```
+    ```cmd
     dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
     ```
 
@@ -70,7 +71,7 @@ Let's get this set up on your computer by following the steps below:
 
 3. Enable the Virtual Machine feature by running:
 
-    ```
+    ```cmd
     dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
     ```
 
@@ -80,7 +81,7 @@ Let's get this set up on your computer by following the steps below:
 
 5. Go back to your admin Powershell window and set WSL 2 as your default WSL version by running:
 
-    ```
+    ```cmd
     wsl --set-default-version 2
     ```
 
