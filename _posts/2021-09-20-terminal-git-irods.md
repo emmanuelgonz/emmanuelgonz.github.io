@@ -121,10 +121,10 @@ We need to set up an SSH key to easily push changes to your repos.
     ```
 
 4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
-5. 
+   
     ![](/images/ssh_setup.png)
 
-6. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
+5. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
     ![](/images/add_ssh.png)
 
 ## Fork & clone a repo
