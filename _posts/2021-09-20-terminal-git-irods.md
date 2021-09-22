@@ -104,27 +104,21 @@ We need to set up an SSH key to easily push changes to your repos.
 
 1. On your terminal, run and click enter for all prompts:
 
-    ```
+    ```bash
     ssh-keygen
     ```
 
 2. Print and copy contents of the file:
 
-    ```
+    ```bash
     cat ~/.ssh/id_rsa.pub
     ```
 
-3. For more information about the vim editor, run the following: 
-
-    ```
-    vimtutor 
-    ```
-
-4. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
+3. Open [GitHub](https://github.com/), click on your Profile Picture > Settings > SSH and GPG keys > New SSH Key.
    
     ![](/images/ssh_setup.png)
 
-5. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
+4. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
    
     ![](/images/add_ssh.png)
 
@@ -144,7 +138,7 @@ We need to set up an SSH key to easily push changes to your repos.
 
 4. On your terminal, run:
 
-    ```
+    ```bash
     git clone <insert link here>
     ```
 
@@ -158,7 +152,7 @@ We need to set up an SSH key to easily push changes to your repos.
 2. Follow the installation steps. 
 3. On your terminal, run: 
    
-    ```
+    ```bash
     iinit
     ```
 
@@ -174,19 +168,19 @@ We need to set up an SSH key to easily push changes to your repos.
 
 1. Download the iRODS installation shell script:
 
-    ```
+    ```bash
     wget https://raw.githubusercontent.com/emmanuelgonz/emmanuelgonz.github.io/master/files/install_irods.sh && chmod 755 install_irods.sh
     ```
 
 2. Run the installation script: 
    
-   ```
+   ```bash
    sudo ./install_irods.sh
    ```
 
 3. Log in to iRODS:
    
-    ```
+    ```bash
     iinit
     ```
 
@@ -202,6 +196,6 @@ We need to set up an SSH key to easily push changes to your repos.
 
 * For details on the vim editor, run the following:
 
-    ```
+    ```bash
     vimtutor
     ```
