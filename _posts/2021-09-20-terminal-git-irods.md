@@ -104,7 +104,7 @@ We need to set up an SSH key to easily push changes to your repos.
 
 1. On your terminal, run and click enter for all prompts:
 
-    ```bash
+    ```shell
     ssh-keygen
     ```
 
