@@ -164,7 +164,7 @@ We need to set up an SSH key to easily push changes to your repos.
 
 4. Fill in the prompts with:
     
-    |Host name|Port #|Username|zone|Password|
+    |Host name|Port #|Username|Zone|Password|
     |:--------------:|:--:|:-------------:|:----:|:--------------:|
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
