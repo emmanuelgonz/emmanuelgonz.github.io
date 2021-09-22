@@ -125,6 +125,7 @@ We need to set up an SSH key to easily push changes to your repos.
     ![](/images/ssh_setup.png)
 
 5. Paste the contents of your file which you previously copied into the Key field, add a descriptive title, and click "Add SSH Key".
+   
     ![](/images/add_ssh.png)
 
 ## Fork & clone a repo
@@ -169,7 +170,7 @@ We need to set up an SSH key to easily push changes to your repos.
 
 5. You're now ready to start downloading some data! 
 
-## WSL2 & Linux users 
+## WSL 2 & Linux users 
 
 1. Download the iRODS installation shell script:
 
