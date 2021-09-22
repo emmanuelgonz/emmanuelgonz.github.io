@@ -14,6 +14,7 @@ tags:
   - science
   - computing
   - soft skills
+  - linux
 ---
 
 Learn how to leverage the terminal for GitHub version control and Integrated Rule-Oriented Data System (iRODS) data management!
@@ -104,7 +105,7 @@ We need to set up an SSH key to easily push changes to your repos.
 
 1. On your terminal, run and click enter for all prompts:
 
-    ```shell
+    ```bash
     ssh-keygen
     ```
 
