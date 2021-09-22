@@ -75,6 +75,9 @@ Let's get this set up on your computer by following the steps below:
     ```
 
 4. Download and install the Linux kernel update by [clicking here](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi).
+
+    >***Note***: If you get an error during the Linux kernel installation, restart your computer and retry Step #5.
+
 5. Go back to your admin Powershell window and set WSL 2 as your default WSL version by running:
 
     ```
@@ -89,7 +92,7 @@ Let's get this set up on your computer by following the steps below:
    
     ![](/images/ms_store_terminal.png)
 
-8. Open the Windows Terminal app. You are now ready to go! You will be asked to create a username and password. 
+8.  Open the Windows Terminal app. You are now ready to go! You will be asked to create a username and password. 
 
 ---
 
