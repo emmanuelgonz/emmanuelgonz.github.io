@@ -171,29 +171,31 @@ We need to set up an SSH key to easily push changes to your repos.
 
 ## WSL2 & Linux users 
 
-1. Download and install iRODS:
+1. Download the iRODS installation shell script:
 
     ```
-    apt-get update && apt-get install -y && apt-get install apt-transport-https gcc gnupg htop less libfuse2 libpq-dev libssl1.0 lsb nano nodejs python-requests software-properties-common vim
+    wget https://raw.githubusercontent.com/emmanuelgonz/emmanuelgonz.github.io/master/files/install_irods.sh && chmod 755 install_irods.sh
     ```
 
-    ```
-    wget https://files.renci.org/pub/irods/releases/4.1.10/ubuntu14/irods-icommands-4.1.10-ubuntu14-x86_64.deb && apt-get install ./irods-icommands-4.1.10-ubuntu14-x86_64.deb
-    ```
+2. Run the installation script: 
+   
+   ```
+   sudo ./install_irods.sh
+   ```
 
-2. Log in to iRODS:
+3. Log in to iRODS:
    
     ```
     iinit
     ```
 
-3. Fill in the prompts with:
+4. Fill in the prompts with:
     
     |Host name|Port #|Username|zone|Password|
     |:--------------:|:--:|:-------------:|:----:|:--------------:|
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
-4. You're ready to start downloading some data!
+5. You're ready to start downloading some data!
 
 # Resources
 
