@@ -23,7 +23,7 @@ This tutorial will walk you through downloading and uploading data using iRODS.
 
 1. Let's download some files, run: 
    
-    ```
+    ```bash
     iget -N 0 -PVT /iplant/home/emmanuelgonzalez/acic_2021_tutorials/mavic_mini_2_sorghum.mp4
     ```
 
@@ -33,7 +33,7 @@ This tutorial will walk you through downloading and uploading data using iRODS.
 
 3. Now that I have shared the file with you, run the command again: 
    
-    ```
+    ```bash
     iget -N 0 -PVT /iplant/home/emmanuelgonzalez/acic_2021_tutorials/mavic_mini_2_sorghum.mp4
     ```
 
