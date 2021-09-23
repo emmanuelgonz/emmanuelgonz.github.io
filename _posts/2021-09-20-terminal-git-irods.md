@@ -177,7 +177,7 @@ We need to set up an SSH key to easily push changes to your repos.
     chmod 755 install_irods.sh
     ```
 
-2. Run the installation script: 
+2. Run the installation script:
    
    ```bash
    sudo ./install_irods.sh
