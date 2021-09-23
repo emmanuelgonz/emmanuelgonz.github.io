@@ -24,7 +24,7 @@ This tutorial will walk you through downloading and uploading data using iRODS.
 1. Let's download some files, run: 
    
     ```
-    iget -N 0 -PVT 	/iplant/home/emmanuelgonzalez/acic_2021_tutorials/mavic_mini_2_sorghum.mp4
+    iget -N 0 -PVT /iplant/home/emmanuelgonzalez/acic_2021_tutorials/mavic_mini_2_sorghum.mp4
     ```
 
 2. Did you run into any problems? 
@@ -34,7 +34,7 @@ This tutorial will walk you through downloading and uploading data using iRODS.
 3. Now that I have shared the file with you, run the command again: 
    
     ```
-    iget -N 0 -PVT 	/iplant/home/emmanuelgonzalez/acic_2021_tutorials/mavic_mini_2_sorghum.mp4
+    iget -N 0 -PVT /iplant/home/emmanuelgonzalez/acic_2021_tutorials/mavic_mini_2_sorghum.mp4
     ```
 
 4. To open the folder in which you downloaded the file run the following command depending on your OS:
