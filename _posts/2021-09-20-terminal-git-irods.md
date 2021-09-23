@@ -191,7 +191,7 @@ We need to set up an SSH key to easily push changes to your repos.
     |:--------------:|:--:|:-------------:|:----:|:--------------:|
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
-5. You're ready to start downloading some data!
+5. You're ready to start downloading some data! Let's continue our tutorial [here](https://emmanuelgonz.github.io/posts/2021/09/irods-crash-course/).
 
 # Resources
 
