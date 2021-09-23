@@ -41,25 +41,25 @@ This tutorial will walk you through downloading and uploading data using iRODS.
    
     * macOS 
 
-        ```
+        ```bash
         open .
         ```
 
     * WSL 2
 
-        ```
+        ```bash
         explorer.exe .
         ```
 
     * Linux 
 
-        ```
+        ```bash
         xdg-open .
         ```
 
 5. Now upload the file to your CyVerse Data Store, run: 
 
-    ```
+    ```bash
     iput -N 0 -PVT mavic_mini_2_sorghum.mp4
     ```
 
