@@ -16,7 +16,7 @@ tags:
 
 Learn how to create a website to showcase your academic achievements!
 <!--more-->
-This tutorial will walk you through setting up an academic website on GitHub. You can add publications, blog posts, and a CV to your website. Share it with people as you network!
+This tutorial will walk you through setting up an academic website on GitHub. You can add publications, blog posts, and a CV to your website to share with people as you network! We will get some more practice with the terminal by interacting with the Git command line interface (CLI).
 
 # Preparation (reviewed in previous workshop)
 
