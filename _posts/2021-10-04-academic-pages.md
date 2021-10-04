@@ -14,7 +14,7 @@ tags:
   - soft skills
 ---
 
-Learn how to create a website to showcase your academic achievements! 
+Learn how to create a website to showcase your academic achievements!
 <!--more-->
 This tutorial will walk you through setting up an academic website on GitHub. You can add publications, blog posts, and a CV to your website. Share it with people as you network!
 
@@ -66,20 +66,18 @@ This tutorial will walk you through setting up an academic website on GitHub. Yo
 
 6. Add, commit, and push your changes:
     
-    ```
+    ```bash
     git add *
     ```
 
-    ```
+    ```bash
     git commit -m 'changes to about me'
     ```
 
-    ```
+    ```bash
     git push origin
     ```
 
 7. Now, navigate to your website, which is accessible at ```<GitHub username>.github.io```
    
 # Publications page 
-
-1. 
