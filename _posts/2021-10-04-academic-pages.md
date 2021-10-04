@@ -99,7 +99,7 @@ This tutorial will walk you through setting up an academic website on GitHub. Yo
     ```
 
     ```bash
-    git commit -m 'changes to about me'
+    git commit -m 'changes to publications'
     ```
 
     ```bash
@@ -122,7 +122,7 @@ This tutorial will walk you through setting up an academic website on GitHub. Yo
     ```
 
     ```bash
-    git commit -m 'changes to about me'
+    git commit -m 'changes to cv'
     ```
 
     ```bash
