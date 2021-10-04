@@ -81,3 +81,51 @@ This tutorial will walk you through setting up an academic website on GitHub. Yo
 7. Now, navigate to your website, which is accessible at ```<GitHub username>.github.io```
    
 # Publications page 
+
+1. Open the ```_publications``` directory and click on the ```2009-10-01-paper-title-number-1.md``` file.
+   
+    ![](/images/publications.png)
+
+2. Edit the title, permalink, etc. Example below:
+   
+    ![](/images/publications_example.png)
+
+3. Create a new file for each publication.
+
+4. Add, commit, and push your changes:
+    
+    ```bash
+    git add *
+    ```
+
+    ```bash
+    git commit -m 'changes to about me'
+    ```
+
+    ```bash
+    git push origin
+    ```
+
+5. Now, navigate to your website, which is accessible at ```<GitHub username>.github.io```
+
+# CV page
+
+1. Open the Open the ```_pages``` directory and click on the ```cv.md``` file.
+
+2. Add your education, work experience, and skills. 
+
+3. Add, commit, and push your changes:
+    
+    ```bash
+    git add *
+    ```
+
+    ```bash
+    git commit -m 'changes to about me'
+    ```
+
+    ```bash
+    git push origin
+    ```
+
+4. Now, navigate to your website, which is accessible at ```<GitHub username>.github.io```
