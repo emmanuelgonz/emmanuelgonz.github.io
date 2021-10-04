@@ -112,7 +112,8 @@ This tutorial will walk you through setting up an academic website on GitHub. Yo
 
 1. Open the Open the ```_pages``` directory and click on the ```cv.md``` file.
 
-2. Add your education, work experience, and skills. 
+2. Add your education, work experience, and skills. Example below:
+    ![](/images/cv_example.png)
 
 3. Add, commit, and push your changes:
     
