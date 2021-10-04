@@ -79,7 +79,9 @@ This tutorial will walk you through setting up an academic website on GitHub. Yo
     ```
 
 7. Now, navigate to your website, which is accessible at ```<GitHub username>.github.io```
-   
+
+---
+
 # Publications page 
 
 1. Open the ```_publications``` directory and click on the ```2009-10-01-paper-title-number-1.md``` file.
@@ -107,6 +109,8 @@ This tutorial will walk you through setting up an academic website on GitHub. Yo
     ```
 
 5. Now, navigate to your website, which is accessible at ```<GitHub username>.github.io```
+
+---
 
 # CV page
 
