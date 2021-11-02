@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Biology, Pacific Lutheran University, 2019
-* Ph.D in Plant Science, University of Arizona, 2022 (expected)
+* Ph.D in Plant Science, University of Arizona, 2023 (expected)
 
 Work experience
 ======
