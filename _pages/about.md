@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenida/o | Welcome!
+Bienvenido/Welcome!
 
 <img title="Emmanuel on truck load of lettuce" alt="Alt text" src="images/7EF74AEA-5854-4E94-A89F-AB60B398446F.JPG">
 
