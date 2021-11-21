@@ -61,5 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* Onboarding and mentoring incoming graduate students and undergraduate students 
-* Alumni Mentor in Pacific Lutheran University's Natural Sciences Alumni Mentoring Program
+* Onboarding and mentoring of incoming graduate and undergraduate students 
+* Alumni Mentor in [Pacific Lutheran University's Division of Natural Sciences Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
+* [2022 Impact Leader Fellow](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
