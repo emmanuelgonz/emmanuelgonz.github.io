@@ -63,4 +63,8 @@ Service and leadership
 ======
 * Onboarding and mentoring of incoming graduate and undergraduate students 
 * 2022 Alumni Mentor in Pacific Lutheran University's Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
-* 2022 Impact Leader Fellow in the University of Arizona's College of Agriculture and Life Sciences (CALS) [Impact Leader Professional Development Training Program](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
+
+Honors & Awards
+======
+* [2022 Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
+* 2022 [Digital Scholarship & Data Science Fellowship (DS2F)](https://new.library.arizona.edu/ds2f)
