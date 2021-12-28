@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Emmanuel Gonzalez"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ Education
 * B.S. in Biology, Pacific Lutheran University, 2019
 * Ph.D in Plant Science, University of Arizona, 2023 (expected)
 
-Work experience
+Work Experience
 ======
 * Fall 2019 - current: Graduate Research Assistant
   * University of Arizona
@@ -40,7 +40,7 @@ Skills
   * Container technology
 * Applied Machine Learning
   
-Professional affiliations & memberships
+Professional Affiliations & Memberships
 ======
 * Member, North American Plant Phenotyping Network (NAPPN)
 * Member, National Association of Plant Breeders (NAPB)
@@ -63,7 +63,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service & Leadership
 ======
 * Onboarding and mentoring of incoming graduate and undergraduate students 
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
