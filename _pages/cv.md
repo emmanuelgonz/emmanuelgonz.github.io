@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Emmanuel Gonzalez"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Biology, Pacific Lutheran University, 2019
-* Ph.D in Plant Science, University of Arizona, 2023 (expected)
-
 Work Experience
 ======
 * Fall 2019 - current: Graduate Research Assistant
-  * University of Arizona
+  * University of Arizona, School of Plant Sciences
   * Duties included: Phenomic data processing for insights into stress-resilient traits
   * Supervisor: Dr. Duke Pauli
 
@@ -27,12 +22,19 @@ Work Experience
   * Supervisor: Dr. Jim Giovannoni
 
 * Fall 2018- Spring 2019: Greenhouse Assistant 
-  * Pacific Lutheran University 
+  * Pacific Lutheran University, Department of Biology
   * Dutied included: Maintaining live plant collection and propagation of native plants. 
   * Supervisor: Dr. Romey Haberle
 
+Education
+======
+* B.S. in Biology, Pacific Lutheran University, 2019
+* Ph.D in Plant Science, University of Arizona, 2023 (expected)
+
 Skills
 ======
+* Field Phenomics
+* Drought Stress
 * Quantitative Genetics
 * Scientific Programming 
   * Python
@@ -44,6 +46,16 @@ Professional Affiliations & Memberships
 ======
 * Member, North American Plant Phenotyping Network (NAPPN)
 * Member, National Association of Plant Breeders (NAPB)
+
+Honors & Awards
+======
+* 2021 - [Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
+* 2021 - [Digital Scholarship & Data Science Fellowship (DS2F)](https://new.library.arizona.edu/ds2f)
+
+Service & Leadership
+======
+* Onboarding and mentoring of incoming graduate and undergraduate students 
+* Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
 ======
@@ -62,13 +74,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service & Leadership
-======
-* Onboarding and mentoring of incoming graduate and undergraduate students 
-* Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
-
-Honors & Awards
-======
-* 2021 - [Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
-* 2021 - [Digital Scholarship & Data Science Fellowship (DS2F)](https://new.library.arizona.edu/ds2f)
