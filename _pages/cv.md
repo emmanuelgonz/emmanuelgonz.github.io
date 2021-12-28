@@ -31,7 +31,6 @@ Work experience
   * Dutied included: Maintaining live plant collection and propagation of native plants. 
   * Supervisor: Dr. Romey Haberle
 
-  
 Skills
 ======
 * Quantitative Genetics
@@ -40,6 +39,11 @@ Skills
   * Distributed computing
   * Container technology
 * Applied Machine Learning
+  
+Professional affiliations & memberships
+======
+* Member, North American Plant Phenotyping Network (NAPPN)
+* Member, National Association of Plant Breeders (NAPB)
 
 Publications
 ======
@@ -62,9 +66,9 @@ Teaching
 Service and leadership
 ======
 * Onboarding and mentoring of incoming graduate and undergraduate students 
-* 2022 Alumni Mentor in Pacific Lutheran University's Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
+* Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Honors & Awards
 ======
-* [2022 Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
-* 2022 [Digital Scholarship & Data Science Fellowship (DS2F)](https://new.library.arizona.edu/ds2f)
+* 2021 - [Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
+* 2021 - [Digital Scholarship & Data Science Fellowship (DS2F)](https://new.library.arizona.edu/ds2f)
