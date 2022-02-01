@@ -29,8 +29,10 @@ iRODS is open source data management software used by research groups, such as [
 2. Access the CyVerse DataStore [here](https://de.cyverse.org/)
 3. Login to your account by clicking on the Login icon:
     ![](/images/cyverse_login.png)
-4. You can now navigate the CyVerse DataStore and download data. Check our phenomics research data collected by the Field Scanner [here](https://de.cyverse.org/data/ds/iplant/home/shared/phytooracle?selectedOrder=asc&selectedOrderBy=name&selectedPage=0&selectedRowsPerPage=100)
+4. You can now navigate the CyVerse DataStore. Check our phenomics research data collected by the Field Scanner [here](https://de.cyverse.org/data/ds/iplant/home/shared/phytooracle?selectedOrder=asc&selectedOrderBy=name&selectedPage=0&selectedRowsPerPage=100)
     ![](/images/gantry_wsj.jpg)
+
+5. Follow the steps below to get iRODS command access on your terminal so that you can download large datasets.  
 
 ---
 
