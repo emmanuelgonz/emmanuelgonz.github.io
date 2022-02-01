@@ -108,10 +108,10 @@ Let's say we want to download some hyperspectral data on the phytooracle CyVerse
     **NOTE**
 
     Below is an explanation of each flag used above:
-     - -K | Verify the checksum
-     - -P | Output the progress of the download
-     - -V | Verbose
-     - -T | Renew socket connection after 10 minutes
+     - -K Verify the checksum
+     - -P Output the progress of the download
+     - -V Verbose
+     - -T Renew socket connection after 10 minutes
 
     It's recommended to use the -KT flags, as it prevents errors due to internet connectivity. To see a full list of other flags/options, [click here](https://docs.irods.org/master/icommands/user/#iget).
 
