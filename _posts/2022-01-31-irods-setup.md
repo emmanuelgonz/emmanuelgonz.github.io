@@ -38,7 +38,7 @@ The Integrated Rule-Oriented Data System (iRODS) is open source data management 
 
 5. You're now ready to start downloading data!
 
-## WSL 2 & Linux users 
+## Linux & Windows Subsystem for Linux 2 (WSL2) users 
 
 1. Download the iRODS installation shell script and give it executable permissions:
 
@@ -94,5 +94,5 @@ Let's say we want to download some hyperspectral data on the phytooracle CyVerse
      - -T | Renew socket connection after 10 minutes
 
     It's recommended to use the -KT flags, as it prevents errors due to internet connectivity. To see a full list of other flags/options, [click here](https://docs.irods.org/master/icommands/user/#iget).
-    
+
     ---
