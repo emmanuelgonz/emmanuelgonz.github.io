@@ -81,7 +81,7 @@ Let's say we want to download some hyperspectral data on the phytooracle CyVerse
 2. Find the file you'd like to download
     ![](/images/vnir_download.png)
 
-3. To download this tarball, copy the "Path" and run the ```iget``` command. Below is an example: 
+3. To download the highlighted file above, copy the "Path" and run the ```iget``` command. Below is an example: 
     
     ```bash
     iget -KPVT /iplant/home/shared/phytooracle/season_12_sorghum_soybean_sunflower_tepary_yr_2021/level_0/VNIR/VNIR-2021-05-29__12-17-47-496_sunflower.tar.gz
