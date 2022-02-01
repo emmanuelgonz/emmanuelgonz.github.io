@@ -21,6 +21,8 @@ Learn how to install and use the Integrated Rule-Oriented Data System (iRODS).
 <!--more-->
 iRODS is open source data management software used by research groups, such as [CyVerse](https://cyverse.org/data-store). This software provides access to data on the terminal, whether that be your local computer or a high performance computer (HPC). Below are the steps to getting iRODS installed on your machine and an example of a data download. 
 
+---
+
 # iRODS Installation
 
 ## macOS users 
@@ -72,6 +74,8 @@ iRODS is open source data management software used by research groups, such as [
     |data.cyverse.org|1247|CyVerse User ID|iplant|CyVerse password|
 
 5. You're ready to start downloading some data! 
+
+---
 
 # iRODS Data Download 
 Let's say we want to download some hyperspectral data on the phytooracle CyVerse DataStore. Follow the steps below to do just that: 
