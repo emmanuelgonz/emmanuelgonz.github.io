@@ -19,7 +19,7 @@ tags:
 
 Learn how to install and use the Integrated Rule-Oriented Data System (iRODS).
 <!--more-->
-The Integrated Rule-Oriented Data System (iRODS) is open source data management software used by research groups, such as [CyVerse](https://cyverse.org/data-store). This software provides access to data on the terminal, whether that be your local computer or a high performance computer (HPC). Below are the steps to getting iRODS installed on your machine and an example of a data download. 
+iRODS is open source data management software used by research groups, such as [CyVerse](https://cyverse.org/data-store). This software provides access to data on the terminal, whether that be your local computer or a high performance computer (HPC). Below are the steps to getting iRODS installed on your machine and an example of a data download. 
 
 # iRODS Installation
 
