@@ -3,7 +3,7 @@ title: "PhytoOracle: Hands-On Workshop"
 collection: talks
 type: "Hands-On Workshop"
 permalink: /talks/2022-NAPPN-workshop
-venue: "North American Plant Phenotyping Network (NAPPN)"
+venue: "North American Plant Phenotyping Network (NAPPN) 2022 Conference"
 date: 2022-02-24
 location: "Athens, GA"
 ---
