@@ -11,25 +11,25 @@ redirect_from:
 
 Work Experience
 ======
-* Fall 2019 - current: Graduate Research Assistant
+* **Fall 2019 - current: Graduate Research Assistant**
   * University of Arizona, School of Plant Sciences
-  * Duties included: Phenomic data processing for insights into stress-resilient traits
-  * Supervisor: Dr. Duke Pauli
+  * *Duties*: Phenomic data processing for insights into stress-resilient traits
+  * *Supervisor*: [Dr. Duke Pauli](https://thepaulilab.com/)
 
-* Summer 2018: Summer Research Intern
+* **Summer 2018: Summer Research Intern**
   * Boyce Thompson Institute
-  * Duties included: Design and completion of research project focused on cold stress in *Solanum lycopersicoides*
-  * Supervisor: Dr. Jim Giovannoni
+  * *Duties*: Design and completion of research project focused on cold stress in *Solanum lycopersicoides*
+  * *Supervisor*: [Dr. Jim Giovannoni](https://btiscience.org/jim-giovannoni/)
 
-* Fall 2018 - Spring 2019: Greenhouse Assistant 
+* **Fall 2018 - Spring 2019: Greenhouse Assistant** 
   * Pacific Lutheran University, Department of Biology
-  * Dutied included: Maintaining live plant collection and propagation of native plants. 
-  * Supervisor: Dr. Romey Haberle
+  * *Duties*: Maintaining live plant collection and propagation of native plants. 
+  * *Supervisor*: [Dr. Romey Haberle](https://www.plu.edu/biology/staff/romey-haberle/)
 
 Education
 ======
-* B.S. in Biology, Pacific Lutheran University, 2019
-* Ph.D in Plant Science, University of Arizona, 2023 (expected)
+* *B.S. in Biology*, Pacific Lutheran University, 2019
+* *Ph.D in Plant Science*, University of Arizona, 2023 (expected)
 
 Skills
 ======
@@ -63,11 +63,11 @@ Honors & Awards
 Service & Leadership
 ======
 * Onboarding and mentoring of incoming graduate and undergraduate students
-  * Sebastian Calleja (Graduate, UArizona School of Plant Sciences)
-  * Travis Simmons (Undergraduate, College of Coastal Georgia)
-  * Hanna April Lawson (Undergraduate, UArizona School of Plant Sciences)
-  * Hassan Alnamer (Undergraduate, UArizona Department of Computer Science)
-  * Jordan Pettiford (Undergraduate, UArizona Department of Computer Science)
+  * Sebastian Calleja (Graduate student, UArizona School of Plant Sciences)
+  * Travis Simmons (Undergraduate student, College of Coastal Georgia)
+  * Hanna April Lawson (Undergraduate student, UArizona School of Plant Sciences)
+  * Hassan Alnamer (Undergraduate student, UArizona Department of Computer Science)
+  * Jordan Pettiford (Undergraduate student, UArizona Department of Computer Science)
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
