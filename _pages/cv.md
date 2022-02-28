@@ -63,14 +63,16 @@ Honors & Awards
 Service & Leadership
 ======
 * Onboarding and mentoring of incoming graduate and undergraduate students
-  * Sebastian Calleja (Graduate student, UArizona School of Plant Sciences)
-  * Cristian Salazar De Leon (Graduate student, UArizona School of Plant Sciences)
-  * Travis Simmons (Undergraduate student, College of Coastal Georgia)
-  * Victoria Ramsay (Undergraduate student, UArizona)
-  * Brenda Esmeralda Jimenez (Undergraduate student, UArizona)
-  * Hanna April Lawson (Undergraduate student, UArizona School of Plant Sciences)
-  * Hassan Alnamer (Undergraduate student, UArizona Department of Computer Science)
-  * Jordan Pettiford (Undergraduate student, UArizona Department of Computer Science)
+  * Graduate students
+    * Sebastian Calleja (University of Arizona School of Plant Sciences)
+    * Cristian Salazar De Leon (University of Arizona School of Plant Sciences)
+  * Undergraduate students
+    * Travis Simmons (College of Coastal Georgia)
+    * Victoria Ramsay (University of Arizona Department of Environmental Science)
+    * Brenda Esmeralda Jimenez (University of Arizona Department of Agricultural and Resource Economics)
+    * Hanna April Lawson (University of Arizona School of Plant Sciences)
+    * Hassan Alnamer (University of Arizona Department of Computer Science)
+    * Jordan Pettiford (University of Arizona Department of Computer Science)
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
