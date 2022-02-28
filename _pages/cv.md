@@ -68,8 +68,11 @@ Service & Leadership
     * Cristian Salazar De Leon (University of Arizona School of Plant Sciences)
   * Undergraduate students
     * Travis Simmons (College of Coastal Georgia)
+      * Current position: Research Data Specialist in Dr. Duke Pauli's lab
     * Victoria Ramsay (University of Arizona Department of Environmental Science)
+      * Current position: 
     * Brenda Esmeralda Jimenez (University of Arizona Department of Agricultural and Resource Economics)
+      * Current position: Master's student in the Department of Agricultural and Resource Economics
     * Hanna April Lawson (University of Arizona School of Plant Sciences)
     * Hassan Alnamer (University of Arizona Department of Computer Science)
     * Jordan Pettiford (University of Arizona Department of Computer Science)
