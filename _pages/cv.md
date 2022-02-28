@@ -21,7 +21,7 @@ Work Experience
   * Duties included: Design and completion of research project focused on cold stress in *Solanum lycopersicoides*
   * Supervisor: Dr. Jim Giovannoni
 
-* Fall 2018- Spring 2019: Greenhouse Assistant 
+* Fall 2018 - Spring 2019: Greenhouse Assistant 
   * Pacific Lutheran University, Department of Biology
   * Dutied included: Maintaining live plant collection and propagation of native plants. 
   * Supervisor: Dr. Romey Haberle
@@ -40,7 +40,15 @@ Skills
   * Python
   * Distributed computing
   * Container technology
+    * Docker
+    * Singularity
+  * Geospatial analysis
+  * Image processing
 * Applied Machine Learning
+  * Supervised and unsupervised
+  * Labeling 
+  * Curation
+  * Augmentation
   
 Professional Affiliations & Memberships
 ======
@@ -54,7 +62,12 @@ Honors & Awards
 
 Service & Leadership
 ======
-* Onboarding and mentoring of incoming graduate and undergraduate students 
+* Onboarding and mentoring of incoming graduate and undergraduate students
+  * Sebastian Calleja (Graduate, UArizona School of Plant Sciences)
+  * Travis Simmons (Undergraduate, College of Coastal Georgia)
+  * Hanna April Lawson (Undergraduate, UArizona School of Plant Sciences)
+  * Hassan Alnamer (Undergraduate, UArizona Department of Computer Science)
+  * Jordan Pettiford (Undergraduate, UArizona Department of Computer Science)
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
