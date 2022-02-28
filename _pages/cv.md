@@ -70,8 +70,11 @@ Service & Leadership
   * Brenda Esmeralda Jimenez, University of Arizona Department of Agricultural and Resource Economics
     * Current position: Master's student in the Department of Agricultural and Resource Economics
   * Hanna April Lawson, University of Arizona School of Plant Sciences
+    * Current position: Undergraduate Researcher in the Pauli Lab at the University of Arizona
   * Hassan Alnamer, University of Arizona Department of Computer Science
+    * Current position: Undergraduate Researcher in the Pauli Lab at the University of Arizona
   * Jordan Pettiford, University of Arizona Department of Computer Science
+    * Current position: Undergraduate Researcher in the Pauli Lab at the University of Arizona
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
