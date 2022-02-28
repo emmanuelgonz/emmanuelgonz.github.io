@@ -64,7 +64,10 @@ Service & Leadership
 ======
 * Onboarding and mentoring of incoming graduate and undergraduate students
   * Sebastian Calleja (Graduate student, UArizona School of Plant Sciences)
+  * Cristian Salazar De Leon (Graduate student, UArizona School of Plant Sciences)
   * Travis Simmons (Undergraduate student, College of Coastal Georgia)
+  * Victoria Ramsay (Undergraduate student, UArizona)
+  * Brenda Esmeralda Jimenez (Undergraduate student, UArizona)
   * Hanna April Lawson (Undergraduate student, UArizona School of Plant Sciences)
   * Hassan Alnamer (Undergraduate student, UArizona Department of Computer Science)
   * Jordan Pettiford (Undergraduate student, UArizona Department of Computer Science)
