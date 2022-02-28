@@ -2,7 +2,8 @@
 title: "PhytoOracle: Scalable, modular phenomic data processing pipelines"
 collection: talks
 type: "Scientific talk"
-permalink: /talks/2021-MLCAS
+permalink: files/2021_MLCAS.pdf
+link: 'https://docs.google.com/presentation/d/1KmAgDIEsgf_cet9GxGasi6eULAlJhZNt5SjNjusSxLo/edit?usp=sharing'
 venue: "2021 Machine Learning for Cyber-Agricultural Systems (MLCAS) Annual Conference"
 date: 2021-11-02
 location: "Zoom"
