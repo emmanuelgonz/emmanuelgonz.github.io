@@ -62,20 +62,16 @@ Honors & Awards
 
 Service & Leadership
 ======
-* Onboarding and mentoring of incoming graduate and undergraduate students from diverse fields of study
-  * Graduate students
-    * Sebastian Calleja (University of Arizona School of Plant Sciences)
-    * Cristian Salazar De Leon (University of Arizona School of Plant Sciences)
-  * Undergraduate students
-    * Travis Simmons (College of Coastal Georgia)
-      * Current position: Research Data Specialist in Dr. Duke Pauli's lab
-    * Victoria Ramsay (University of Arizona Department of Environmental Science)
-      * Current position: 
-    * Brenda Esmeralda Jimenez (University of Arizona Department of Agricultural and Resource Economics)
-      * Current position: Master's student in the Department of Agricultural and Resource Economics
-    * Hanna April Lawson (University of Arizona School of Plant Sciences)
-    * Hassan Alnamer (University of Arizona Department of Computer Science)
-    * Jordan Pettiford (University of Arizona Department of Computer Science)
+* Onboarding and mentoring of incoming lab members from diverse fields of study
+  * Travis Simmons, College of Coastal Georgia
+    * Current position: Research Data Specialist in Dr. Duke Pauli's lab
+  * Victoria Ramsay, University of Arizona Department of Environmental Science
+    * Current position: Administrative Coordinator at [Nutrien Ag Solutions](https://www.nutrien.com/)
+  * Brenda Esmeralda Jimenez, University of Arizona Department of Agricultural and Resource Economics
+    * Current position: Master's student in the Department of Agricultural and Resource Economics
+  * Hanna April Lawson, University of Arizona School of Plant Sciences
+  * Hassan Alnamer, University of Arizona Department of Computer Science
+  * Jordan Pettiford, University of Arizona Department of Computer Science
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
