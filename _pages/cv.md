@@ -62,7 +62,7 @@ Honors & Awards
 
 Service & Leadership
 ======
-* Onboarding and mentoring of incoming graduate and undergraduate students
+* Onboarding and mentoring of incoming graduate and undergraduate students from diverse fields of study
   * Graduate students
     * Sebastian Calleja (University of Arizona School of Plant Sciences)
     * Cristian Salazar De Leon (University of Arizona School of Plant Sciences)
