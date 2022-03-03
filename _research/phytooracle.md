@@ -8,12 +8,18 @@ header:
     og_image: 'images/IMG_0102.PNG'
 ---
 
-PhytoOracle is a series of modular, scalable phenomics data processing pipelines. Included in these pipelines is a 3D laser scanner processing pipeline which takes large point clouds and extracts individual plant point clouds. Ground truth height measurements were collected, hereby referred to as manually-extracted height. Manually-extracted and pipeline-extracted height measurements were compared to assess pipeline performance:
+<img src="images/PhytoOracle_logo.PNG" width="200" height="200" align="left" /><p>PhytoOracle is a series of modular, scalable phenomics data processing pipelines. Each pipeline is unique to a proximal sensor; PhytoOracle currently support RGB, thermal, PSII chlorophyll fluoresence, and 3D laser scanner data. 
+
+<p align="center">
+    <img src="images/lettuce_data_examples.png" />
+<p>
+
+PhytoOracle's 3D laser scanner processing pipeline processes large point clouds into individual plant point clouds. Ground truth height measurements were collected, hereby referred to as manually-extracted height. Manually-extracted and pipeline-extracted height measurements were compared to assess pipeline performance:
 
 <p align="center"><iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
 
-*Figure 1* Correlation between manually- and pipeline-extracted height measurements. The line-of-best fit was determined using the ordinary least-squares (OLS) method.
+*Figure 1* Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.
 
 <p align="center"><iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p>
 
-*Figure 2* Correlation between manually- and pipeline-extracted height measurements by labeler. The line-of-best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.
+*Figure 2* Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.
