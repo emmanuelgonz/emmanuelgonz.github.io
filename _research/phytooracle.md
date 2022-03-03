@@ -10,10 +10,10 @@ header:
 
 PhytoOracle is a series of modular, scalable phenomics data processing pipelines. Included in these pipelines is a 3D laser scanner processing pipeline which takes large point clouds and extracts individual plant point clouds. Ground truth height measurements were collected, hereby referred to as manually-extracted height. Manually-extracted and pipeline-extracted height measurements were compared to assess pipeline performance:
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe>
+<p align="center"><iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
 
-*Figure 1* Correlation between manually- and pipeline-extracted height measurements. The line-of-best fit was determined using the ordinary least-squares (OLS) method. 
+*Figure 1* Correlation between manually- and pipeline-extracted height measurements. The line-of-best fit was determined using the ordinary least-squares (OLS) method.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe>
+<p align="center"><iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p>
 
-*Figure 2* Correlation between manually- and pipeline-extracted height measurements by labeler. The line-of-best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design. 
+*Figure 2* Correlation between manually- and pipeline-extracted height measurements by labeler. The line-of-best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.
