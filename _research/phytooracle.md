@@ -1,7 +1,7 @@
 ---
 title: "PhytoOracle"
 layout: single-portfolio
-excerpt: "<img src='https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/PhytoOracle_logo.PNG' alt=''>"
+excerpt: "<img src='/images/IMG0102_resize.PNG' alt=''>"
 collection: research
 order_number: 10
 header:
