@@ -12,6 +12,9 @@ header:
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
 
+---
+# 3D Laser Scanner Data
+
 PhytoOracle's 3D laser scanner processing pipeline processes large point clouds into individual plant point clouds. Ground truth height measurements were collected, hereby referred to as manually-extracted height. Manually-extracted and pipeline-extracted height measurements were compared to assess pipeline performance:
 
 <p align="center"><iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
