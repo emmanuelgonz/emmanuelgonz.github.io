@@ -8,7 +8,7 @@ header:
     og_image: 'images/IMG_0102.PNG'
 ---
 
-<img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/PhytoOracle_logo.PNG" width="100" height="100" align="left" /><p> PhytoOracle (PO) is a series of modular, scalable phenomics data processing pipelines. Each pipeline is unique to a proximal sensor; PO currently support RGB, thermal, PSII chlorophyll fluoresence, and 3D laser scanner data. PO allows for time-series, multimodal analysis of plant phenomic data, which is currently a bottleneck in the plant science community. 
+<img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/PhytoOracle_logo.PNG" width="100" height="100" align="left" /> PhytoOracle (PO) is a series of modular, scalable phenomics data processing pipelines. Each pipeline is unique to a proximal sensor; PO currently support RGB, thermal, PSII chlorophyll fluoresence, and 3D laser scanner data. PO allows for time-series, multimodal analysis of plant phenomic data, which is currently a bottleneck in the plant science community. 
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
 
