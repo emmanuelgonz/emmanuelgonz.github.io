@@ -4,8 +4,8 @@ layout: single-portfolio
 excerpt: "<img src='/images/IMG0102_resize.PNG' width="912" height="912" alt=''>"
 collection: research
 order_number: 10
-# header:
-#     og_image: 'images/IMG_0102.PNG'
+header:
+    og_image: 'images/IMG_0102.PNG'
 ---
 
 <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/PhytoOracle_logo.PNG" width="100" height="100" align="left" /> PhytoOracle (PO) is a series of modular, scalable phenomics data processing pipelines. Each pipeline is unique to a proximal sensor; PO currently support RGB, thermal, PSII chlorophyll fluoresence, and 3D laser scanner data. PO allows for time-series, multimodal analysis of plant phenomic data, which is currently a bottleneck in the plant science community. 
