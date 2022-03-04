@@ -3,12 +3,12 @@ title: "PhytoOracle"
 layout: single-portfolio
 excerpt: "<img src='/images/IMG0102_resize.PNG' alt=''>"
 collection: research
-order_number: 10
-# header:
-#   og_image: 'IMG_0102.PNG'
+order_number: 1
+header:
+  og_image: 'IMG_0102.PNG'
 ---
 
-<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/IMG0102_resize.PNG" height='100' width='100'></p>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/IMG0102_resize.PNG" height='200' width='200'></p>
 
 <center>PhytoOracle | Scalable, Modular Phenomic Data Processing Pipelines</center>
 
@@ -18,6 +18,7 @@ PhytoOracle (PO) is a series of modular, scalable phenomics data processing pipe
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
 
+# 3D Laser Scanner Data
 
 PhytoOracle's 3D laser scanner processing pipeline processes large point clouds into individual plant point clouds. Ground truth height measurements were collected, hereby referred to as manually-extracted height. Manually-extracted and pipeline-extracted height measurements were compared to assess pipeline performance:
 
