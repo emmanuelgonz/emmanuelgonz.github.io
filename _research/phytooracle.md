@@ -1,9 +1,10 @@
 ---
 title: "PhytoOracle"
 layout: single-portfolio
-excerpt: "<img src='/images/research/IMG0102_resize.PNG' alt='PhytoOracle logo'>"
+excerpt: <img src='/images/research/IMG0102_resize.PNG' alt='PhytoOracle logo'>
 collection: research
 permalink: /publication/phytooracle
+link: emmanuelgonz.github.io/publication/phytooracle
 order_number: 10
 header:
   og_image: 'research/IMG0102_resize.PNG'
@@ -27,13 +28,13 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 # 3D Laser Scanner Data
 
 <figure>
-<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
-<figcaption align = "center"><b><i>Figure 1.</b></i> Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.</figcaption>
+<p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
+<figcaption align = "center"> <b>Figure 1.</b><i> Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.</i></figcaption>
 </figure>
 
 <figure>
-<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p>
-<figcaption align = "center"><b><i>Figure 2.</b></i> Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.</figcaption>
+<p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p>
+<figcaption align = "center"><b>Figure 2.</b><i> Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.</i></figcaption>
 </figure>
 
 ---
