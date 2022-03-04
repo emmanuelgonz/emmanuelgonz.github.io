@@ -3,7 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header: 
+header:
   og_image: "IMG_0102.PNG"
 ---
 
