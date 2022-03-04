@@ -1,7 +1,7 @@
 ---
 title: "PhytoOracle"
 layout: single-portfolio
-excerpt: "<img src='/images/research/IMG0102_resize.PNG' alt='PhytoOracle logo'>"
+excerpt: '' #"<img src='/images/research/IMG0102_resize.PNG' alt='PhytoOracle logo'>"
 collection: research
 order_number: 10
 header:
@@ -25,12 +25,14 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 # 3D Laser Scanner Data
 
+<figure>
 <p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
+<figcaption align = "center"><b>Figure 1. Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.</b></figcaption>
+</figure>
 
-  > ***Figure 1*** Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.
-
+<figure>
 <p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p>
-
-  > ***Figure 2*** Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.
+<figcaption align = "center"><b>Figure 2. Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.</b></figcaption>
+</figure>
 
 ---
