@@ -7,7 +7,8 @@ order_number: 1
 header:
   og_image: 'research/IMG0102_resize.PNG'
 ---
-<p align="center"><img src="../images/research/IMG0102_resize.PNG" height='200' width='200'></p>
+
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/research/IMG_0102.PNG" height='200' width='200'></p>
 
 <p align="center">PhytoOracle: Scalable, Modular Phenomic Data Processing Pipelines</p>
 
