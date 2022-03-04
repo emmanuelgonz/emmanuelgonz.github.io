@@ -1,11 +1,11 @@
 ---
 title: "PhytoOracle"
 layout: single-portfolio
-# excerpt: "<img src='/images/IMG0102_resize.PNG' alt=''>"
+excerpt: "<img src='/images/research/IMG0102_resize.PNG' alt=''>"
 collection: research
 order_number: 10
 header:
-  og_image: ''
+  og_image: 'research/IMG0102_resize.PNG'
 ---
 
 <!-- <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/IMG0102_resize.PNG" height='200' width='200'></p> -->
