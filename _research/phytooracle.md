@@ -3,7 +3,7 @@ title: "PhytoOracle"
 layout: single-portfolio
 excerpt: <img src='/images/research/IMG0102_resize.PNG' alt='PhytoOracle logo'>
 collection: research
-permalink: /publication/phytooracle
+# permalink: /publication/phytooracle
 # link: emmanuelgonz.github.io/publication/phytooracle
 # order_number: 10
 header:
