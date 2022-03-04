@@ -1,7 +1,7 @@
 ---
 title: "PhytoOracle"
 layout: single-portfolio
-excerpt: "<img src='/images/IMG0102_resize.PNG' alt=''>"
+excerpt: "<img src='/images/IMG0102.PNG' alt=''>"
 collection: research
 order_number: 1
 header:
