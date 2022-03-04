@@ -2,9 +2,9 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 header:
-  og_image: "research/IMG_0102.PNG"
+  og_image: "research/IMG0102_resize.PNG"
 ---
 
 My research falls into two main areas: studying the variation and temporal basis of stress-adaptive traits and developing new tools to improve the study of phenotypes in a high-throughput manner. One strand of research in this first area explores how drought stress affects morphological and physiological phenotypes. My interest in geographic information systems (GIS) also informs projects on interesting spatial trends, allowing us to identify differences that may elucidate genetic loci contributing to stress-adaptive traits.
