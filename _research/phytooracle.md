@@ -14,7 +14,6 @@ header:
 
 <p align="center">PhytoOracle: Scalable, Modular Phenomic Data Processing Pipelines</p>
 
-
 ---
 
 PhytoOracle (PO) is a series of modular, scalable phenomics data processing pipelines. Each pipeline is unique to a proximal sensor. PO currently support RGB, thermal, PSII chlorophyll fluoresence, and 3D laser scanner data. PO allows for time-series, multimodal analysis of plant phenomic data, which is currently a bottleneck in the plant science community. 
@@ -29,14 +28,12 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 <figure>
 <p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
-<figcaption align = "center"> <b>Figure 1.</b><i> Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.</i>
+<figcaption align = "center" width="1000" height="500" frameborder="0"> <b>Figure 1.</b><i> Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.</i>
 </figcaption>
 </figure>
 
 <figure>
 <p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p>
-<figcaption align = "center"><b>Figure 2.</b><i> Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.</i>
+<figcaption align = "center" width="1000" height="500" frameborder="0"><b>Figure 2.</b><i> Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.</i>
 </figcaption>
 </figure>
-
----
