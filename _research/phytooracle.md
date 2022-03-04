@@ -16,14 +16,12 @@ PhytoOracle (PO) is a series of modular, scalable phenomics data processing pipe
 
 <!-- <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p> -->
 
-# 3D Laser Scanner Data
-
 PhytoOracle's 3D laser scanner processing pipeline processes large point clouds into individual plant point clouds. Ground truth height measurements were collected, hereby referred to as manually-extracted height. Manually-extracted and pipeline-extracted height measurements were compared to assess pipeline performance:
 
-<!-- <p align="left"><iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p> -->
+<iframe width="900" height="520" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe>
 
 Figure 1. Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.
 
-<!-- <p align="left"><iframe width="1100" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p> -->
+<iframe width="900" height="520" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe>
 
 Figure 2. Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.
