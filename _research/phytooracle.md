@@ -27,7 +27,7 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 <p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
 
-<p align="center" width="500">
+<p align="center" width="1000">
 
   ***Figure 1*** Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.
 
@@ -35,7 +35,7 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 <p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p>
 
-<p align="center" width="500">
+<p align="center" width="1000">
 
   ***Figure 2*** Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.
 
