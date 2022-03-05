@@ -13,7 +13,7 @@ My other main research agenda uses advanced methods to develop new phenotyping a
 
 In a new avenue of research, I leverage distributed computing to process terabytes of hyperspectral data to explore disease detection, water content, and pigment quantification. These data provide further phsyiological data, from which variation can be identified and exploited for crop improvement.
 
-<nbsp>
+<!-- <nbsp> -->
 
 {% include base_path %}
 
