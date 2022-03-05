@@ -11,7 +11,7 @@ header:
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/research/IMG_0102.PNG" height='200' width='200'></p>
 
-<font size="+3"><p align="center"><b>PhytoOracle: Scalable, Modular Phenomic Data Processing Pipelines</p></b></font>
+<p align="center"><font size="+3"><b>PhytoOracle: Scalable, Modular Phenomic Data Processing Pipelines</p></font></b>
 
 ---
 
@@ -27,12 +27,12 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 <figure>
 <p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed"></iframe></p>
-<figcaption align = "center" width="1000" height="500" frameborder="0"> <b>Figure 1.</b><i> Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.</i>
+<figcaption align = "center"> <b>Figure 1.</b><i> Correlation between manually- and pipeline-extracted height measurements. The line of best fit was determined using the ordinary least-squares (OLS) method.</i>
 </figcaption>
 </figure>
 
 <figure>
 <p align="center"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed"></iframe></p>
-<figcaption align = "center" width="1000" height="500" frameborder="0"><b>Figure 2.</b><i> Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.</i>
+<figcaption align = "center"><b>Figure 2.</b><i> Correlation between manually- and pipeline-extracted height measurements by labeler. The line of best fit for each facet column was determined using the ordinary least-squares (OLS) method. The size of each data point represents the range within the field design.</i>
 </figcaption>
 </figure>
