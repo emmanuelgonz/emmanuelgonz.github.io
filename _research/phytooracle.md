@@ -67,6 +67,6 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/136.embed?showlink=false"></iframe></p>
-<figcaption align = "left"><b>Figure 5.</b><i> Dimensionality reduction using t-SNE. The target was set as market type and values included all volume and topological data analysis (TDA) pipeline-extracted values.</i>
+<figcaption align = "left"><b>Figure 5.</b><i> Dimensionality reduction using t-SNE. The target was set as market type, and feature variables included all volume and topological data analysis (TDA) pipeline-extracted values from 3D laser scanner data.</i>
 </figcaption>
 </figure>
