@@ -60,3 +60,13 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 <figcaption align = "left"><b>Figure 4.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
 </figcaption>
 </figure>
+
+## Assessing market type differences 
+
+### t-SNE 
+
+<figure>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/136.embed?showlink=false"></iframe></p>
+<figcaption align = "left"><b>Figure 5.</b><i> Dimensionality reduction using t-SNE. The target was set as market type and values included all volume and topological data analysis (TDA) pipeline-extracted values.</i>
+</figcaption>
+</figure>
