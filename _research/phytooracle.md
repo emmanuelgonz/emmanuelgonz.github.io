@@ -1,6 +1,6 @@
 ---
 title: "PhytoOracle"
-layout: single-portfolio
+# layout: single-portfolio
 excerpt: "<img src='/images/research/IMG_0102.PNG' alt=''>"
 collection: research
 toc: true
