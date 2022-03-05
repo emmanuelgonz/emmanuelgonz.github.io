@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: false
+author_profile: true
 header:
   og_image: "research/IMG0102_resize.PNG"
 ---
