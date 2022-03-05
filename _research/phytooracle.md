@@ -45,11 +45,15 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 ## Manual image measurements 
 
+### Height
+
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed?showlink=false"></iframe></p>
 <figcaption align = "left"> <b>Figure 3.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
 </figcaption>
 </figure>
+
+### Height by labeler
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed?showlink=false"></iframe></p>
