@@ -30,7 +30,7 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 ### Convex hull volume
 
 <figure>
-<p align="left"><iframe width="900" height="450" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/112.embed?showlink=false"></iframe></p>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/112.embed?showlink=false"></iframe></p>
 <figcaption align = "left"> <b>Figure 1.</b><i> Correlation between fresh weight and median pipeline-extracted hull volume.</i>
 </figcaption>
 </figure>
@@ -38,21 +38,21 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 ### Total number of points
 
 <figure>
-<p align="left"><iframe width="900" height="450" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/109.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 1.</b><i> Correlation between fresh weight and median pipeline-extracted number of points in point clouds.</i>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/109.embed?showlink=false"></iframe></p>
+<figcaption align = "left"> <b>Figure 2.</b><i> Correlation between fresh weight and median pipeline-extracted total number of points in point clouds.</i>
 </figcaption>
 </figure>
 
 ## Manual image measurements 
 
 <figure>
-<p align="left"><iframe width="900" height="450" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 2.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed?showlink=false"></iframe></p>
+<figcaption align = "left"> <b>Figure 3.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
 </figcaption>
 </figure>
 
 <figure>
-<p align="left"><iframe width="900" height="450" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed?showlink=false"></iframe></p>
-<figcaption align = "left"><b>Figure 3.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed?showlink=false"></iframe></p>
+<figcaption align = "left"><b>Figure 4.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
 </figcaption>
 </figure>
