@@ -27,7 +27,11 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 Acquired 3D laser scanner data is processed using a variety of containers, which result in individual plant point clouds. A variety of measurements are taken from these individual plant point clouds, ranging from hull volume to bounding box volume and persistence entropy to amplitude. Collectively, these measurements allow us to study the morphology and growth patterns of individual plants over the course of a growing season.
 
+<figure>
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/2020-03-02_Alanis_45.png" height='274' width='296'></p>
+<figcaption align = "left"> <b>Figure 1.</b><i> Individual plant point cloud cropped using geographic coordinates. These point clouds allow for individual plant phenotype extraction.</i>
+</figcaption>
+</figure>
 
 ## Fresh weight measurements
 
@@ -37,7 +41,7 @@ At the end of the growing season, each plant within a plot was destructively har
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/112.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 1.</b><i> Correlation between fresh weight and median pipeline-extracted hull volume.</i>
+<figcaption align = "left"> <b>Figure 2.</b><i> Correlation between fresh weight and median pipeline-extracted hull volume.</i>
 </figcaption>
 </figure>
 
@@ -45,7 +49,7 @@ At the end of the growing season, each plant within a plot was destructively har
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/109.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 2.</b><i> Correlation between fresh weight and median pipeline-extracted total number of points in point clouds.</i>
+<figcaption align = "left"> <b>Figure 3.</b><i> Correlation between fresh weight and median pipeline-extracted total number of points in point clouds.</i>
 </figcaption>
 </figure>
 
@@ -57,7 +61,7 @@ At the end of the growing season, each plant within a plot was destructively har
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 3.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
+<figcaption align = "left"> <b>Figure 4.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
 </figcaption>
 </figure>
 
@@ -65,7 +69,7 @@ At the end of the growing season, each plant within a plot was destructively har
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed?showlink=false"></iframe></p>
-<figcaption align = "left"><b>Figure 4.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
+<figcaption align = "left"><b>Figure 5.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
 </figcaption>
 </figure>
 
@@ -75,6 +79,6 @@ At the end of the growing season, each plant within a plot was destructively har
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/136.embed?showlink=false"></iframe></p>
-<figcaption align = "left"><b>Figure 5.</b><i> Dimensionality reduction using t-SNE. The target was set as market type, and feature variables included all volume and topological data analysis (TDA) pipeline-extracted values from 3D laser scanner data.</i>
+<figcaption align = "left"><b>Figure 6.</b><i> Dimensionality reduction using t-SNE. The target was set as market type, and feature variables included all volume and topological data analysis (TDA) pipeline-extracted values from 3D laser scanner data.</i>
 </figcaption>
 </figure>
