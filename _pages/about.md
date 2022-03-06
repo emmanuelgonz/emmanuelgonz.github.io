@@ -12,7 +12,7 @@ Bienvenido/Welcome! I consider myself a hybrid scientist: part plant scientist, 
 
 Plant scientist | Data scientist
 :--------------:|:------------:
-<img title="Emmanuel on truck load of lettuce" alt="Alt text" src="images/lettuce_32.JPG"> | <img title="Emmanuel writing on glass" alt="" src="images/emmanuel_whiteboard.jpg" style="width:31%">
+<img title="Emmanuel on truck load of lettuce" alt="Alt text" src="images/emmanuel_lettuce_32.JPG"> | <img title="Emmanuel writing on glass" alt="" src="images/emmanuel_whiteboard.jpg" style="width:31%">
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
