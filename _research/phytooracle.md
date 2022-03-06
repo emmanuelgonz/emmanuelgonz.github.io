@@ -58,7 +58,7 @@ At the end of the growing season, each plant within a plot was destructively har
 
 ## Manual image measurements 
 
-Two lettuce plants
+For a sample of plots, lettuce plants were imaged on top of a measurement mat. Height and width measurements were collected using the ImageJ software. These measurements were compared to pipeline-extracted height and width measurements to assess PO's accuracy. 
 
 <figure>
 
