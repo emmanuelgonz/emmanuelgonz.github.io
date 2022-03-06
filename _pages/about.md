@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenido/Welcome! I consider myself a hybrid:
+Bienvenido/Welcome! I consider myself a hybrid scientist, part plant scientist 
 
-Part plant scientist
-<img title="Emmanuel on truck load of lettuce" alt="Alt text" src="images/7EF74AEA-5854-4E94-A89F-AB60B398446F.JPG">
-
-&
-
-Part data scientist
-<img title="Emmanuel writing on glass" alt="" src="images/emmanuel_whiteboard.jpg">
+Plant scientist | Data scientist
+:--------------:|:------------:
+<img title="Emmanuel on truck load of lettuce" alt="Alt text" src="images/7EF74AEA-5854-4E94-A89F-AB60B398446F.JPG" style="width:50%"> | <img title="Emmanuel writing on glass" alt="" src="images/emmanuel_whiteboard.jpg" style="width:50%">
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
