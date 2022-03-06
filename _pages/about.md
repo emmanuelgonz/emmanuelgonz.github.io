@@ -10,9 +10,7 @@ redirect_from:
 
 Bienvenido/Welcome! I consider myself a hybrid scientist: part plant scientist, part data scientist. 
 
-Plant scientist | Data scientist
-:--------------:|:------------:
-<img title="Emmanuel on truck load of lettuce" alt="Alt text" src="images/emmanuel_lettuce_32.JPG" style="width:150%"> | <img title="Emmanuel writing on glass" alt="" src="images/emmanuel_whiteboard.jpg" style="width:48%">
+<p align="center"><img title="Emmanuel: part plant scientist, part data scientist" alt="" src="images/plant_data_scientist.png"></p> 
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
