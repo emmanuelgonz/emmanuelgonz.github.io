@@ -58,13 +58,23 @@ At the end of the growing season, each plant within a plot was destructively har
 
 ## Manual image measurements 
 
-Two lettuce plants 
+Two lettuce plants
+
+<figure>
+
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_screenshot.png" alt='Individual lettuce point cloud' style="width:60%"></p>
+
+<figcaption align="center"><b>Figure 4.</b><i> Individual plants were destructively harvested and imaged. Manual measurements for height and width were collected using the ImageJ software.</i>
+</figcaption>
+
+</figure>
+
 
 ### Height
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 4.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
+<figcaption align = "left"> <b>Figure 5.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
 </figcaption>
 </figure>
 
@@ -72,7 +82,7 @@ Two lettuce plants
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed?showlink=false"></iframe></p>
-<figcaption align = "left"><b>Figure 5.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
+<figcaption align = "left"><b>Figure 6.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
 </figcaption>
 </figure>
 
@@ -84,6 +94,6 @@ Two lettuce plants
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/136.embed?showlink=false"></iframe></p>
-<figcaption align = "left"><b>Figure 6.</b><i> Dimensionality reduction using t-SNE. The target was set as market type, and feature variables included all volume and topological data analysis (TDA) pipeline-extracted values from 3D laser scanner data.</i>
+<figcaption align = "left"><b>Figure 7.</b><i> Dimensionality reduction using t-SNE. The target was set as market type, and feature variables included all volume and topological data analysis (TDA) pipeline-extracted values from 3D laser scanner data.</i>
 </figcaption>
 </figure>
