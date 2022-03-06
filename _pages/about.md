@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenido/Welcome! I consider myself a hybrid scientist: part plant scientist, part data scientist. 
+Bienvenido/Welcome! I consider myself a hybrid: part plant scientist, part data scientist. 
 
 <p align="center"><img title="Emmanuel: part plant scientist, part data scientist" alt="" src="images/plant_data_scientist.png"></p> 
 
