@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+Bienvenido/Welcome! I consider myself a hybrid:
+
+Part plant scientist
 <img title="Emmanuel on truck load of lettuce" alt="Alt text" src="images/7EF74AEA-5854-4E94-A89F-AB60B398446F.JPG">
+
+&
+
+Part data scientist
+<img title="Emmanuel writing on glass" alt="" src="images/emmanuel_whiteboard.jpg">
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -16,7 +24,7 @@ redirect_from:
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/emmanuelmgonzalez/60min?hide_event_type_details=1&hide_gdpr_banner=1', text: 'Schedule a meeting with me!', color: '#53951c', textColor: '#ffffff', branding: true }); }</script>
 <!-- Calendly badge widget end -->
 
-Bienvenido/Welcome! I am a Graduate Research Assistant in the [School of Plant Sciences](https://cals.arizona.edu/spls/home) at the [University *of* Arizona](https://www.arizona.edu/). I am part of the [Pauli lab](https://thepaulilab.com/). We are responsible for collecting, storing, and processing data from the [Field Scanalyzer](https://news.arizona.edu/story/world-s-largest-robotic-field-scanner-now-place). I specialize in Drought Stress, Plant Phenomics, and Applied Machine Learning. Throughout my graduate studies, I, along with an interdisciplinary team of computer scientists, engineers, and other plant scientists, have developed [PhytoOracle](https://phytooracle.readthedocs.io/en/latest/contents.html), a suite of modular, scalable phenomic data processing pipelines. I earned my B.S. in Biology from [Pacific Lutheran University](https://www.plu.edu/). My interest in plant science began in the forests of Washington state and strengthened during a summer internship in [Dr. Jim Giovannoni's lab](https://btiscience.org/jim-giovannoni/) at the [Boyce Thompson Institute](https://btiscience.org/).
+I am a Graduate Research Assistant in the [School of Plant Sciences](https://cals.arizona.edu/spls/home) at the [University *of* Arizona](https://www.arizona.edu/). I am part of the [Pauli lab](https://thepaulilab.com/). We are responsible for collecting, storing, and processing data from the [Field Scanalyzer](https://news.arizona.edu/story/world-s-largest-robotic-field-scanner-now-place). I specialize in Drought Stress, Plant Phenomics, and Applied Machine Learning. Throughout my graduate studies, I, along with an interdisciplinary team of computer scientists, engineers, and other plant scientists, have developed [PhytoOracle](https://phytooracle.readthedocs.io/en/latest/contents.html), a suite of modular, scalable phenomic data processing pipelines. I earned my B.S. in Biology from [Pacific Lutheran University](https://www.plu.edu/). My interest in plant science began in the forests of Washington state and strengthened during a summer internship in [Dr. Jim Giovannoni's lab](https://btiscience.org/jim-giovannoni/) at the [Boyce Thompson Institute](https://btiscience.org/).
 
 My work has been [published](publications) in the *Journal of Open Source Education* and *The Plant Phenome Journal* as well as featured in the *Wall Street Journal* (see video below) and [CyVerse News](https://cyverse.org/plants-robots-and-other-interesting-things). My [research](research) explores the variation and temporal basis of stress-adaptive traits using a broad variety of methods including linear mixed models, machine learning, computer vision, distributed computing, container technology, big data, and geospatial analysis. I have [teaching](teaching) experience in cyberinfrastructure, computing technologies, data processing pipelines, and applied machine learning.
 
