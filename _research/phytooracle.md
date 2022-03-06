@@ -27,7 +27,7 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 Acquired 3D laser scanner data is processed using a variety of containers, which result in individual plant point clouds. A variety of measurements are taken from these individual plant point clouds, ranging from hull volume to bounding box volume and persistence entropy to amplitude. Collectively, these measurements allow us to study the morphology and growth patterns of individual plants over the course of a growing season.
 
-<p align="center"><iframe width="560" height="315" src="files/plant_normals.mp4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/2020-03-02_Alanis_45.png"></p>
 
 ## Fresh weight measurements
 
