@@ -106,7 +106,10 @@ Automated collection of phenotypic trait data using scalable, modular processing
 
 Variety | Early season | Mid season | Late season 
 :------:|:----------- :|:----------:|:-----------:
-Iceberg | "<img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_early.gif" alt='Individual lettuce point cloud' style="width:20%">" | "<img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_mid.gif" alt='Individual lettuce point cloud' style="width:20%">" | "<img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_late.gif" alt='Individual lettuce point cloud' style="width:20%">" 
+Iceberg | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_early.gif" style="width:50%"> | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_mid.gif" style="width:50%"> | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_late.gif" style="width:50%">
+Xanadu | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Xanadu_143_early.gif" style="width:50%"> | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Xanadu_143_mid.gif" style="width:50%"> | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Xanadu_143_late.gif" style="width:50%">
+Aido | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Aido_38_early.gif" style="width:50%"> | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Aido_38_mid.gif" style="width:50%"> | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Aido_38_late.gif" style="width:50%">
+
 
 ### Moving phenomic data to VR
 
