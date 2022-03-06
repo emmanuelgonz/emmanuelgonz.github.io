@@ -117,7 +117,7 @@ Phenomic data is both visual (images/point clouds) and numerical (extracted phen
 
 <figure>
 
-<p align="center"><iframe width="1120" height="630" src="/files/nappn.mp4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="960" height="540" src="/files/nappn.mp4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <figcaption align = "center"><b>Video 1.</b><i> Individual plants visualized in a virtual reality (VR) environment alongside numerical time-series data.</i>
 </figcaption>
