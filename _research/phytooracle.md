@@ -97,3 +97,18 @@ For a sample of plots, lettuce plants were imaged on top of a measurement mat. H
 <figcaption align = "left"><b>Figure 7.</b><i> Dimensionality reduction using t-SNE. The target was set as market type, and feature variables included all volume and topological data analysis (TDA) pipeline-extracted values from 3D laser scanner data.</i>
 </figcaption>
 </figure>
+
+## Conclusion
+
+### So why does this work matter?
+
+Automated collection of phenotypic trait data using scalable, modular processing code allows plant scientists to model plant growth over time. When combined with genomic data, we can begin to understand the genetic components of stress-adaptive traits. This knowledge can help us develop more drought resilient crops for changing climatic patterns. 
+
+Variety | Early season | Mid season | Late season 
+:------:|:----------- :|:----------:|:-----------:
+Iceberg | "<img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_early.gif" alt='Individual lettuce point cloud' style="width:20%">" | "<img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_mid.gif" alt='Individual lettuce point cloud' style="width:20%">" | "<img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/Iceberg_230_late.gif" alt='Individual lettuce point cloud' style="width:20%">" 
+
+### Moving phenomic data to VR
+
+Phenomic data is both visual (images) and numerical (extracted phenotypic traits), allowing for visualizations that can help us understand plant stress responses. Point clouds can be added to VR environments to share with the general public and research collaborators. This can kindle collaboration between scientists and the public. 
+
