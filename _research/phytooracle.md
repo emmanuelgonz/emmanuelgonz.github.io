@@ -1,6 +1,6 @@
 ---
 title: "PhytoOracle"
-# layout: single-portfolio
+layout: single-portfolio
 excerpt: "<img src='/images/research/IMG_0102.PNG' alt=''>"
 collection: research
 toc: true
@@ -15,7 +15,7 @@ header:
 
 ---
 
-PhytoOracle (PO) is a series of modular, scalable phenomics data processing pipelines. Each pipeline is unique to a proximal sensor. PO currently support RGB, thermal, PSII chlorophyll fluoresence, and 3D laser scanner data. PO allows for time-series, multimodal analysis of plant phenomic data, which is currently a bottleneck in the plant science community. 
+PhytoOracle (PO) is a series of modular, scalable phenomics data processing pipelines; each pipeline is unique to a proximal sensor. Currently, PO support RGB, thermal, PSII chlorophyll fluoresence, and 3D laser scanner data-- allowing for time-series, multimodal analysis of plant phenomic data, which is currently a bottleneck in the plant science community. Although originally developed for processing data collected with the [Field Scanalyzer (also referred to as "the gantry")](https://youtu.be/da2gKRdMeXY).
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
 
@@ -25,7 +25,13 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 # 3D Laser Scanner Data
 
+Acquired 3D laser scanner data is processed using a variety of containers, which result in individual plant point clouds. A variety of measurements are taken from these individual plant point clouds, ranging from hull volume to bounding box volume and persistence entropy to amplitude. Collectively, these measurements allow us to study the morphology and growth patterns of individual plants over the course of a growing season.
+
+<center><iframe width="560" height="315" src="files/plant_normals.mp4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 ## Fresh weight measurements
+
+At the end of the growing season, each plant within a plot was destructively harvested, weighed, and placed in a drying oven. Fresh weights were collected within an hour of harvesting; these values were then used to calculate the average weight per plant by dividing fresh weight by the total number of plants within a plot. 
 
 ### Convex hull volume
 
@@ -44,6 +50,8 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 </figure>
 
 ## Manual image measurements 
+
+
 
 ### Height
 
