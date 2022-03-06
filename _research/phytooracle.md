@@ -25,7 +25,7 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 # 3D Laser Scanner Data
 
-Acquired 3D laser scanner data is processed using a variety of containers, which result in individual plant point clouds. A variety of measurements are taken from these individual plant point clouds, ranging from hull volume to bounding box volume and persistence entropy to amplitude. Collectively, these measurements allow us to study the morphology and growth patterns of individual plants over the course of a growing season.
+Acquired 3D laser scanner data is processed using a variety of containers, which result in individual plant point clouds (**Fig. 1**). A variety of measurements are taken from these individual plant point clouds, ranging from hull volume to bounding box volume and persistence entropy to amplitude. Collectively, these measurements allow us to study the morphology and growth patterns of individual plants over the course of a growing season.
 
 <figure>
 
@@ -38,7 +38,7 @@ Acquired 3D laser scanner data is processed using a variety of containers, which
 
 ## Fresh weight measurements
 
-At the end of the growing season, each plant within a plot was destructively harvested, weighed, and placed in a drying oven. Fresh weights were collected within an hour of harvesting; these values were then used to calculate the average weight per plant by dividing fresh weight by the total number of plants within a plot. 
+At the end of the growing season, each plant within a plot was destructively harvested, weighed, and placed in a drying oven. Fresh weights were collected within an hour of harvesting; these values were then used to calculate the average weight per plant by dividing fresh weight by the total number of plants within a plot (**Figs. 2, 3**). 
 
 ### Convex hull volume
 
@@ -58,7 +58,7 @@ At the end of the growing season, each plant within a plot was destructively har
 
 ## Manual image measurements 
 
-For a sample of plots, lettuce plants were imaged on top of a measurement mat. Height and width measurements were collected using the ImageJ software. These measurements were compared to pipeline-extracted height and width measurements to assess PO's accuracy. 
+For a sample of plots, lettuce plants were imaged on top of a measurement mat. Height and width measurements were collected using the ImageJ software (**Fig. 4, 5, 6**). These measurements were compared to pipeline-extracted height and width measurements to assess PO's accuracy. 
 
 <figure>
 
@@ -88,7 +88,7 @@ For a sample of plots, lettuce plants were imaged on top of a measurement mat. H
 
 ## Assessing market type differences 
 
-3D laser scanner data is high dimensional, resulting in many phenotypic traits per individual plant. To assess PO's ability to extract meaningful, biologically-relevant information, t-SNE was used to assess market type differences. 
+3D laser scanner data is high dimensional, resulting in many phenotypic traits per individual plant. To assess PO's ability to extract meaningful, biologically-relevant information, t-SNE was used to assess market type differences (**Fig. 7**). 
 
 ### t-SNE 
 
