@@ -29,7 +29,7 @@ Acquired 3D laser scanner data is processed using a variety of containers, which
 
 <figure>
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/2020-03-02_Alanis_45.png" height='274' width='296'></p>
-<figcaption align = "left"> <b>Figure 1.</b><i> Individual plant point cloud cropped using geographic coordinates. The color map represents height of individual points.</i>
+<figcaption align = "left"> <b>Figure 1.</b><i> Individual plant point cloud (Alanis lettuce variety) cropped using geographic coordinates. The color map represents height of individual points.</i>
 </figcaption>
 </figure>
 
