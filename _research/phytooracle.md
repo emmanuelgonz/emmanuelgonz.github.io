@@ -113,5 +113,6 @@ Aido | <img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/mast
 
 ### Moving phenomic data to VR
 
-Phenomic data is both visual (images) and numerical (extracted phenotypic traits), allowing for visualizations that can help us understand plant stress responses. Point clouds can be added to VR environments to share with the general public and research collaborators. This can kindle collaboration between scientists and the public. 
+Phenomic data is both visual (images) and numerical (extracted phenotypic traits), allowing for visualizations that can help plant scientists understand plant stress responses. Additionally, point clouds can be added to VR environments to share with the general public and research collaborators-- enabling future collaboration between scientists and the public. 
 
+<p align="center"><iframe width="560" height="315" src="../files/nappn.mp4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
