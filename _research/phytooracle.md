@@ -51,7 +51,7 @@ At the end of the growing season, each plant within a plot was destructively har
 ### Convex hull volume update comparison
 
 <figure>
-<p align="left"><iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/141.embed?showlink=false"></iframe></p>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/141.embed?showlink=false"></iframe></p>
 <figcaption align = "left"> <b>Figure 3.</b><i> Comparison between old and new Open3D reported convex hull volumes.</i>
 </figcaption>
 </figure>
