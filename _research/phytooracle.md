@@ -3,7 +3,7 @@ title: "PhytoOracle"
 # layout: single-portfolio
 excerpt: "<img src='/images/research/IMG_0102.PNG' alt=''>"
 collection: research
-toc: true
+# toc: true
 order_number: 10
 header:
   og_image: 'research/IMG_0102.PNG'
@@ -23,28 +23,46 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 ---
 
+# Field design and irrigation treatments
+
+<figure>
+
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/188.embed?showlink=false"></iframe></p>
+
+<figcaption align = "left"> <b>Figure 1.</b><i> Volumetric water content throughout the growing period at depths from 10 cm to 90 cm.</i>
+</figcaption>
+
+</figure>
+
+
+# RGB Data
+
+Raw RGB data is processed using a variety of containers, which results in individual plant detections. After detection of a single plant, phenotypic trait data such as bounding area and geographic location are collected. Over a 3-month growing period, 250 genotypes 
+
+## Time-series
+
 # 3D Laser Scanner Data
 
-Acquired 3D laser scanner data is processed using a variety of containers, which result in individual plant point clouds (**Fig. 1**). A variety of measurements are taken from these individual plant point clouds, ranging from hull volume to bounding box volume and persistence entropy to amplitude. Collectively, these measurements allow us to study the morphology and growth patterns of individual plants over the course of a growing season.
+Raw 3D laser scanner data is processed using a variety of containers, which result in individual plant point clouds (**Fig. 2**). A variety of measurements are taken from these individual plant point clouds, ranging from hull volume to bounding box volume and persistence entropy to amplitude. Collectively, these measurements allow us to study the morphology and growth patterns of individual plants over the course of a growing season.
 
 <figure>
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/2020-03-02_Alanis_45.png" alt='Individual lettuce point cloud' style="width:50%"></p>
 
-<figcaption align="center"><b>Figure 1.</b><i> Individual plant point cloud (Alanis lettuce variety) cropped using geographic coordinates. The color map represents height of individual points.</i>
+<figcaption align="center"><b>Figure 2.</b><i> Individual plant point cloud (Alanis lettuce variety) cropped using geographic coordinates. The color map represents height of individual points.</i>
 </figcaption>
 
 </figure>
 
 ## Fresh weight measurements
 
-At the end of the growing season, each plant within a plot was destructively harvested, weighed, and placed in a drying oven. Fresh weights were collected within an hour of harvesting; these values were then used to calculate the average weight per plant by dividing fresh weight by the total number of plants within a plot (**Figs. 2, 4**). Reported convex hull volumes from differing versions of Open3D showed non-linear trends, indicating the relationship between plants in a scan has changed (**Fig. 3**)
+At the end of the growing season, each plant within a plot was destructively harvested, weighed, and placed in a drying oven. Fresh weights were collected within an hour of harvesting; these values were then used to calculate the average weight per plant by dividing fresh weight by the total number of plants within a plot (**Figs. 3, 5**). Reported convex hull volumes from differing versions of Open3D showed non-linear trends, indicating the relationship between plants in a scan has changed (**Fig. 4**)
 
 ### Convex hull volume
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/112.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 2.</b><i> Correlation between fresh weight and median pipeline-extracted hull volume.</i>
+<figcaption align = "left"> <b>Figure 3.</b><i> Correlation between fresh weight and median pipeline-extracted hull volume.</i>
 </figcaption>
 </figure>
 
@@ -52,7 +70,7 @@ At the end of the growing season, each plant within a plot was destructively har
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/141.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 3.</b><i> Comparison between old and new Open3D reported convex hull volumes.</i>
+<figcaption align = "left"> <b>Figure 4.</b><i> Comparison between old and new Open3D reported convex hull volumes.</i>
 </figcaption>
 </figure>
 
@@ -60,19 +78,19 @@ At the end of the growing season, each plant within a plot was destructively har
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/109.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 4.</b><i> Correlation between fresh weight and median pipeline-extracted total number of points in point clouds.</i>
+<figcaption align = "left"> <b>Figure 5.</b><i> Correlation between fresh weight and median pipeline-extracted total number of points in point clouds.</i>
 </figcaption>
 </figure>
 
 ## Manual image measurements 
 
-For a sample of plots, lettuce plants were imaged on top of a measurement mat. Height and width measurements were collected using the ImageJ software (**Fig. 5, 6, 7**). These measurements were compared to pipeline-extracted height and width measurements to assess PO's accuracy. 
+For a sample of plots, lettuce plants were imaged on top of a measurement mat. Height and width measurements were collected using the ImageJ software (**Fig. 6, 7, 8**). These measurements were compared to pipeline-extracted height and width measurements to assess PO's accuracy. 
 
 <figure>
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_screenshot.png" alt='Individual lettuce point cloud' style="width:60%"></p>
 
-<figcaption align="center"><b>Figure 5.</b><i> Individual plants were destructively harvested and imaged. Manual measurements for height and width were collected using the ImageJ software.</i>
+<figcaption align="center"><b>Figure 6.</b><i> Individual plants were destructively harvested and imaged. Manual measurements for height and width were collected using the ImageJ software.</i>
 </figcaption>
 
 </figure>
@@ -82,7 +100,7 @@ For a sample of plots, lettuce plants were imaged on top of a measurement mat. H
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/83.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 6.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
+<figcaption align = "left"> <b>Figure 7.</b><i> Correlation between manually- and pipeline-extracted median height measurements.</i>
 </figcaption>
 </figure>
 
@@ -90,19 +108,19 @@ For a sample of plots, lettuce plants were imaged on top of a measurement mat. H
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/85.embed?showlink=false"></iframe></p>
-<figcaption align = "left"><b>Figure 7.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
+<figcaption align = "left"><b>Figure 8.</b><i> Correlation between manually- and pipeline-extracted median height measurements by labeler. The size of each data point represents the range within the field design.</i>
 </figcaption>
 </figure>
 
 ## Assessing market type differences 
 
-3D laser scanner data is high dimensional, resulting in many phenotypic traits per individual plant. To assess PO's ability to extract meaningful, biologically-relevant information, t-SNE was used to assess market type differences (**Fig. 8**). 
+3D laser scanner data is high dimensional, resulting in many phenotypic traits per individual plant. To assess PO's ability to extract meaningful, biologically-relevant information, t-SNE was used to assess market type differences (**Fig. 9**). 
 
 ### t-SNE 
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/136.embed?showlink=false"></iframe></p>
-<figcaption align = "left"><b>Figure 8.</b><i> Dimensionality reduction using t-SNE. The target was set as market type, and feature variables included all volume and topological data analysis (TDA) pipeline-extracted values from 3D laser scanner data.</i>
+<figcaption align = "left"><b>Figure 9.</b><i> Dimensionality reduction using t-SNE. The target was set as market type, and feature variables included all volume and topological data analysis (TDA) pipeline-extracted values from 3D laser scanner data.</i>
 </figcaption>
 </figure>
 
