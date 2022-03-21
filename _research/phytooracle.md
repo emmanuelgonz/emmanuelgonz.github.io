@@ -3,6 +3,7 @@ title: "PhytoOracle"
 # layout: single-portfolio
 excerpt: "<img src='/images/research/IMG_0102.PNG' alt=''>"
 collection: research
+author_profile: False
 # toc: true
 order_number: 10
 header:
