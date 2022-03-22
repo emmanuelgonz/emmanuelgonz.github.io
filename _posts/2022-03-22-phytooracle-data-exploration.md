@@ -46,11 +46,17 @@ Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a
 
 ---
 
-# Irrigation treatment
+# Irrigation treatment & weather data
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/188.embed?showlink=false"></iframe></p>
 <figcaption align = "left"> <b>Figure 3.</b><i> Volumetric water content (%) over the course of the growing period. For each collection, measurements were taken at depths 10, 30, 50, 70, and 90 cm. Each point represents the mean value of two measurements.</i>
+</figcaption>
+</figure>
+
+<figure>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/247.embed?showlink=false"></iframe></p>
+<figcaption align = "left"> <b>Figure 4.</b><i> Weather data throughout the growing period collected by the Arizona Meteorological Network (AZMET).</i>
 </figcaption>
 </figure>
 
@@ -65,7 +71,7 @@ To download our test dataset, [**click here**](https://drive.google.com/uc?expor
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/229.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 4.</b><i> Bounding area time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
+<figcaption align = "left"> <b>Figure 5.</b><i> Bounding area time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
 </figcaption>
 </figure>
 
@@ -73,7 +79,7 @@ To download our test dataset, [**click here**](https://drive.google.com/uc?expor
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/237.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 5.</b><i> Height time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
+<figcaption align = "left"> <b>Figure 6.</b><i> Height time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
 </figcaption>
 </figure>
 
@@ -83,7 +89,7 @@ To download our test dataset, [**click here**](https://drive.google.com/uc?expor
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/231.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 6.</b><i> Canopy temperature over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
+<figcaption align = "left"> <b>Figure 7.</b><i> Canopy temperature over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
 </figcaption>
 </figure>
 
@@ -91,6 +97,6 @@ To download our test dataset, [**click here**](https://drive.google.com/uc?expor
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/233.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 7.</b><i> Maximum quantum effiiency of PSII (FV/FM) over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
+<figcaption align = "left"> <b>Figure 8.</b><i> Maximum quantum effiiency of PSII (FV/FM) over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
 </figcaption>
 </figure>
