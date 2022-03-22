@@ -20,8 +20,12 @@ tags:
   - linux
 ---
 
-Explore field scanalyzer data processed with PhytoOracle!
+Explore field scanalyzer multimodal phenomic data!
 <!--more-->
+
+---
+
+# Introduction 
 
 The field scanalyzer at the University of Arizona Maricopa Agricultural Center is a multimodal phenotyping platform that travels along rails and captures images and point clouds of thousands of plants. These data are processed using [PhytoOracle](https://github.com/phytooracle/automation) distributed processing pipelines. Given the size of raw data, all field scanalyzer data types are processed on the [University of Arizona high performance computer cluster](https://public.confluence.arizona.edu/display/UAHPC).
 
@@ -38,6 +42,8 @@ Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a
 <figcaption align = "left"> <b>Figure 2.</b><i> (A) The field scanalyzer covers a 1 hectare field. (B) The platform collects RGB, thermal, PSII chlorophyll fluorescence, and 3D laser scanner data. (C) The raw data is sensor dependent, ranging from 5-350 GBs. All sensor data is captured at the full field scale, except for PSII chlorophyll fluorescence which captures data from the center of each agricultural plot. (D) Raw sensor data is temporarily stored on a cache server, where it is programmatically compressed and uploaded onto CyVerse. Compressed data is downloaded, processed, and outputs transferred on the UA high performance clusters.</i>
 </figcaption>
 </figure>
+
+---
 
 # Test dataset 
 To download our test dataset, [**click here**](https://drive.google.com/uc?export=download&id=1FO6X4ykbzIYGjUHGewagDRQyp88D7p--). This dataset contains RGB, thermal, PSII chlorophyll fluorescence, and 3D line scanner phenotypic trait data. For a full description of the dataset, [**click here**](https://docs.google.com/document/d/1Qr6vR62ms9PukTpHywnTzy7RWcaN0F6VK5qx25XlrtE/edit?usp=sharing). The figures below show only those lettuce types included in the test dataset, although you can click on other lettuce types to see their trends by clicking on each figure's legend.
