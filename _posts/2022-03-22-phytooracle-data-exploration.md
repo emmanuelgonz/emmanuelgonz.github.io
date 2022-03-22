@@ -42,11 +42,13 @@ Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a
 # Test dataset 
 To download our test dataset, [**click here**](https://drive.google.com/uc?export=download&id=1FO6X4ykbzIYGjUHGewagDRQyp88D7p--). This dataset contains RGB, thermal, PSII chlorophyll fluorescence, and 3D line scanner phenotypic trait data. For a full description of the dataset, [**click here**](https://docs.google.com/document/d/1Qr6vR62ms9PukTpHywnTzy7RWcaN0F6VK5qx25XlrtE/edit?usp=sharing). The complete dataset was used to generate all figures below.
 
+# Mophological phenotypes
+
 ## RGB 
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/229.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 3.</b><i> Bounding area time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all replicates within a treatment.</i>
+<figcaption align = "left"> <b>Figure 3.</b><i> Bounding area time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
 </figcaption>
 </figure>
 
@@ -54,12 +56,24 @@ To download our test dataset, [**click here**](https://drive.google.com/uc?expor
 
 <figure>
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/237.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 4.</b><i> Height time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all replicates within a treatment.</i>
+<figcaption align = "left"> <b>Figure 4.</b><i> Height time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
 </figcaption>
 </figure>
 
+# Physiological phenotypes
 
 ## Thermal 
 
+<figure>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/231.embed?showlink=false""></iframe></p>
+<figcaption align = "left"> <b>Figure 5.</b><i> Canopy temperature over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
+</figcaption>
+</figure>
+
 ## PSII chlorophyll fluorescence
 
+<figure>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/233.embed?showlink=false"></iframe></p>
+<figcaption align = "left"> <b>Figure 6.</b><i> Maximum quantum effiiency of PSII (FV/FM) over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
+</figcaption>
+</figure>
