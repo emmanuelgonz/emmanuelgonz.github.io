@@ -1,8 +1,9 @@
 ---
-title: 'PhytoOracle Data Exploration'
+title: 'Phenomic Data Exploration'
 date: 2022-03-21
 permalink: /posts/2022/03/phytooracle-data-exploration/
 author_profile: False
+toc: true
 excerpt_separator: <!--more-->
 tags:
   - data
