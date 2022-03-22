@@ -1,6 +1,6 @@
 ---
 title: 'PhytoOracle Data Exploration'
-date: 2022-03-22
+date: 2022-03-21
 permalink: /posts/2022/03/phytooracle-data-exploration/
 author_profile: False
 excerpt_separator: <!--more-->
