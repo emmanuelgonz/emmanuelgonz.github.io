@@ -45,13 +45,21 @@ To download our test dataset, [**click here**](https://drive.google.com/uc?expor
 ## RGB 
 
 <figure>
-<p align="left"><iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/229.embed?showlink=false"></iframe></p>
-<figcaption align = "left"> <b>Figure 3.</b><i> Bounding area time series showing plant development over the growing period.</i>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/229.embed?showlink=false"></iframe></p>
+<figcaption align = "left"> <b>Figure 3.</b><i> Bounding area time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all replicates within a treatment.</i>
 </figcaption>
 </figure>
+
+## 3D laser scanner
+
+<figure>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/237.embed?showlink=false"></iframe></p>
+<figcaption align = "left"> <b>Figure 4.</b><i> Height time series showing plant development over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all replicates within a treatment.</i>
+</figcaption>
+</figure>
+
 
 ## Thermal 
 
 ## PSII chlorophyll fluorescence
 
-## 3D laser scanner
