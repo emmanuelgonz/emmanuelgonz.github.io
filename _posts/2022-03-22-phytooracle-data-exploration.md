@@ -1,0 +1,42 @@
+---
+title: 'PhytoOracle Data Exploration'
+date: 2022-03-22
+permalink: /posts/2022/03/phytooracle-data-exploration/
+excerpt_separator: <!--more-->
+tags:
+  - data
+  - analytics
+  - terminal
+  - bash
+  - github
+  - git 
+  - irods
+  - cyverse
+  - data
+  - science
+  - computing
+  - soft skills
+  - linux
+---
+
+Explore field scanalyzer data processed with PhytoOracle!
+<!--more-->
+
+The field scanalyzer at the University of Arizona Maricopa Agricultural Center is a multimodal phenotyping platform that travels along rails and captures images and point clouds of thousands of plants. These data are processed using [PhytoOracle](https://github.com/phytooracle/automation) distributed processing pipelines. Given the size of raw data, all field scanalyzer data types are processed on the [University of Arizona high performance cluster](https://public.confluence.arizona.edu/display/UAHPC).
+
+<figure>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_wsj.jpg"></iframe></p>
+<figcaption align = "left"> <b>Figure 1.</b><i> The field scanalyzer is an outdoor plant phenotyping platform at the University of Arizona Maricopa Agricultural Center. The platform travels along rail system spanning one hectare of land.</i>
+</figcaption>
+</figure>
+
+Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a PSII chlorophyll fluorescence imager, and a pair of 3D laser line scanners.
+
+<figure>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></iframe></p>
+<figcaption align = "left"> <b>Figure 1.</b><i> The field scanalyzer phenotyping platform collects RGB, thermal, PSII chlorophyll fluorescence, and 3D laser scanner data.</i>
+</figcaption>
+</figure>
+
+# Test dataset 
+You can access a test dataset [here](https://drive.google.com/uc?export=download&id=1_Xw7vTaI1VPx0D1IRWvKlQHase7Wrd3i). 

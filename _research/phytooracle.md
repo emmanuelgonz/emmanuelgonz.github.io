@@ -30,7 +30,7 @@ PhytoOracle's 3D laser scanner processing pipeline processes large point clouds 
 
 <p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/188.embed?showlink=false"></iframe></p>
 
-<figcaption align = "left"> <b>Figure 1.</b><i> Volumetric water content throughout the growing period at depths from 10 cm to 90 cm.</i>
+<figcaption align = "left"> <b>Figure 1.</b><i> Volumetric water content throughout the growing period at depths 10 cm to 90 cm at intervals of 20 cm.</i>
 </figcaption>
 
 </figure>
