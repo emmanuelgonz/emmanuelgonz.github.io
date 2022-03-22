@@ -2,6 +2,7 @@
 title: 'PhytoOracle Data Exploration'
 date: 2022-03-22
 permalink: /posts/2022/03/phytooracle-data-exploration/
+author_profile: False
 excerpt_separator: <!--more-->
 tags:
   - data
@@ -26,15 +27,15 @@ The field scanalyzer at the University of Arizona Maricopa Agricultural Center i
 
 <figure>
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_wsj.jpg"></iframe></p>
-<figcaption align = "left"> <b>Figure 1.</b><i> The field scanalyzer is an outdoor plant phenotyping platform at the University of Arizona Maricopa Agricultural Center. The platform travels along rail system spanning one hectare of land.</i>
+<figcaption align = "left"> <b>Figure 1.</b><i> The field scanalyzer is an outdoor plant phenotyping platform at the University of Arizona Maricopa Agricultural Center.</i>
 </figcaption>
 </figure>
 
 Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a PSII chlorophyll fluorescence imager, and a pair of 3D laser line scanners.
 
 <figure>
-<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></iframe></p>
-<figcaption align = "left"> <b>Figure 1.</b><i> The field scanalyzer phenotyping platform collects RGB, thermal, PSII chlorophyll fluorescence, and 3D laser scanner data.</i>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/iter_3_gantry_field_sensor_box.png"></iframe></p>
+<figcaption align = "left"> <b>Figure 1.</b><i> The field scanalyzer phenotyping platform collects RGB, thermal, PSII chlorophyll fluorescence, and 3D laser scanner data. The platform can move above a 1 hectare field.</i>
 </figcaption>
 </figure>
 
