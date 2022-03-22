@@ -40,4 +40,4 @@ Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a
 </figure>
 
 # Test dataset 
-You can access a test dataset [here](https://drive.google.com/uc?export=download&id=1_Xw7vTaI1VPx0D1IRWvKlQHase7Wrd3i). 
+You can access a test dataset [**here**](https://drive.google.com/uc?export=download&id=1_Xw7vTaI1VPx0D1IRWvKlQHase7Wrd3i).
