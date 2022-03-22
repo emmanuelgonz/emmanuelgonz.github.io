@@ -35,9 +35,23 @@ Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a
 
 <figure>
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/iter_3_gantry_field_sensor_box.png"></p>
-<figcaption align = "left"> <b>Figure 1.</b><i> (A) The field scanalyzer covers a 1 hectare field. (B) The platform collects RGB, thermal, PSII chlorophyll fluorescence, and 3D laser scanner data. (C) The raw data is sensor dependent, ranging from 5-350 GBs. All sensor data is captured at the full field scale, except for PSII chlorophyll fluorescence which captures data from the center of each agricultural plot. (D) Raw sensor data is temporarily stored on a cache server, where it is programmatically compressed and uploaded onto CyVerse. Compressed data is downloaded, processed, and outputs transferred on the UA high performance clusters.</i>
+<figcaption align = "left"> <b>Figure 2.</b><i> (A) The field scanalyzer covers a 1 hectare field. (B) The platform collects RGB, thermal, PSII chlorophyll fluorescence, and 3D laser scanner data. (C) The raw data is sensor dependent, ranging from 5-350 GBs. All sensor data is captured at the full field scale, except for PSII chlorophyll fluorescence which captures data from the center of each agricultural plot. (D) Raw sensor data is temporarily stored on a cache server, where it is programmatically compressed and uploaded onto CyVerse. Compressed data is downloaded, processed, and outputs transferred on the UA high performance clusters.</i>
 </figcaption>
 </figure>
 
 # Test dataset 
-To download our test dataset, [**click here**](https://drive.google.com/uc?export=download&id=1FO6X4ykbzIYGjUHGewagDRQyp88D7p--). This dataset contains RGB, thermal, PSII chlorophyll fluorescence, and 3D line scanner phenotypic trait data. For a full description of the dataset, [**click here**](https://docs.google.com/document/d/1Qr6vR62ms9PukTpHywnTzy7RWcaN0F6VK5qx25XlrtE/edit?usp=sharing).
+To download our test dataset, [**click here**](https://drive.google.com/uc?export=download&id=1FO6X4ykbzIYGjUHGewagDRQyp88D7p--). This dataset contains RGB, thermal, PSII chlorophyll fluorescence, and 3D line scanner phenotypic trait data. For a full description of the dataset, [**click here**](https://docs.google.com/document/d/1Qr6vR62ms9PukTpHywnTzy7RWcaN0F6VK5qx25XlrtE/edit?usp=sharing). The complete dataset was used to generate all figures below.
+
+## RGB 
+
+<figure>
+<p align="left"><iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/229.embed?showlink=false"></iframe></p>
+<figcaption align = "left"> <b>Figure 3.</b><i> Bounding area time series showing plant development over the growing period.</i>
+</figcaption>
+</figure>
+
+## Thermal 
+
+## PSII chlorophyll fluorescence
+
+## 3D laser scanner
