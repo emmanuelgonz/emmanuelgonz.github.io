@@ -71,7 +71,7 @@ To download our test dataset, [**click here**](https://drive.google.com/uc?expor
 ### Thermal 
 
 <figure>
-<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/231.embed?showlink=false""></iframe></p>
+<p align="left"><iframe width="1000" height="500" frameborder="0" scrolling="no" src="//plotly.com/~emmanuelg1/231.embed?showlink=false"></iframe></p>
 <figcaption align = "left"> <b>Figure 5.</b><i> Canopy temperature over the growing period. Errors bars represent the 95% CI around the mean. Means represent the phenotypic average of a lettuce type, including all genotypes and their respective replicates within a treatment.</i>
 </figcaption>
 </figure>
