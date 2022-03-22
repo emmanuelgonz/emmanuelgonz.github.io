@@ -35,7 +35,7 @@ Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a
 
 <figure>
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/iter_3_gantry_field_sensor_box.png"></iframe></p>
-<figcaption align = "left"> <b>Figure 1.</b><i> The field scanalyzer phenotyping platform collects RGB, thermal, PSII chlorophyll fluorescence, and 3D laser scanner data. The platform can move above a 1 hectare field.</i>
+<figcaption align = "left"> <b>Figure 1.</b><i> (A) The field scanalyzer covers a 1 hectare field. (B) The platform collects RGB, thermal, PSII chlorophyll fluorescence, and 3D laser scanner data. (C) The raw data is sensor dependent, ranging from 5-350 GBs. All sensor data is captured at the full field scale, except for PSII chlorophyll fluorescence which captures data from the center of each agricultural plot. (D) Raw sensor data is temporarily stored on a cache server, where it is programmatically compressed and uploaded onto CyVerse. Compressed data is downloaded, processed, and outputs transferred on the UA high performance clusters.</i>
 </figcaption>
 </figure>
 
