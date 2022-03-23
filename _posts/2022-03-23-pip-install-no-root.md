@@ -62,10 +62,10 @@ To install packages without sudo/root access, run the following command, making 
 /usr/bin/python3 -m pip install <insert package name here> --user
 ```
 
-For example, if we wanted to install the awesome giotto-tda package, we would run: 
+For example, if we wanted to install the awesome [giotto-tda package](https://giotto-ai.github.io/gtda-docs/latest/library.html), we would run: 
 
 ```bash
 /usr/bin/python3 -m pip install giotto-tda --user
 ```
 
-So why does this work? Well notice the ```--user``` flag, this ensures that the package is only installed within your own environment. This allows you to download packages without sudo/root access on HPC systems and servers.
+So why does this work? Well notice the ```--user``` flag, this ensures that the package is only installed within your own user environment. This allows you to download packages without sudo/root access on HPC systems and servers. Give it a try!
