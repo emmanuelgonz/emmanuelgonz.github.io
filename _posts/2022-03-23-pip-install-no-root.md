@@ -13,6 +13,12 @@ tags:
   - github
   - git 
   - irods
+  - pip
+  - python
+  - hpc
+  - high performance computer
+  - programming
+  - coding
   - cyverse
   - data
   - science
@@ -40,7 +46,7 @@ which python3
 
 Which should produce an output like this:
 
-<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/which_python3.png" height='200' width='200'></p>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/which_python3.png"></p>
 
 You can check for other Python version by running: 
 
