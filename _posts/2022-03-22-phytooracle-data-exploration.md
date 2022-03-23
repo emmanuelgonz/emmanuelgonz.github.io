@@ -64,9 +64,9 @@ Sensors enclosed within the sensor box include stereo RGB and thermal cameras, a
 
 # Test dataset 
 
-To download our test dataset, [**click here**](https://drive.google.com/uc?export=download&id=1FO6X4ykbzIYGjUHGewagDRQyp88D7p--). This dataset contains RGB, thermal, PSII chlorophyll fluorescence, and 3D line scanner phenotypic trait data. For a full description of the dataset, [**click here**](https://docs.google.com/document/d/1Qr6vR62ms9PukTpHywnTzy7RWcaN0F6VK5qx25XlrtE/edit?usp=sharing). The figures below show only those lettuce types included in the test dataset, although you can click on other lettuce types to see their trends by clicking on each figure's legend.
+To download our numerical, tabular test dataset, [**click here**](https://drive.google.com/uc?export=download&id=1FO6X4ykbzIYGjUHGewagDRQyp88D7p--). This dataset contains RGB, thermal, PSII chlorophyll fluorescence, and 3D line scanner phenotypic trait data. For a full description of the dataset, [**click here**](https://docs.google.com/document/d/1Qr6vR62ms9PukTpHywnTzy7RWcaN0F6VK5qx25XlrtE/edit?usp=sharing). The figures below show only those lettuce types included in the test dataset, although you can click on other lettuce types to see their trends by clicking on each figure's legend.
 
-To download our test point cloud dataset in tar.gz format , [**click here**](https://drive.google.com/uc?export=download&id=1zsKb3klA_C3BjYV_9mqsFZ8qNBoMcCBJ). To access the same data in an uncompressed folder, [**click here**](https://drive.google.com/drive/folders/1fHaKF0ALVOgdScUjVeSVFb37my5ATI0a?usp=sharing).
+To download our point cloud test dataset in an archived, compressed "tar.gz" format , [**click here**](https://drive.google.com/uc?export=download&id=1zsKb3klA_C3BjYV_9mqsFZ8qNBoMcCBJ). To access the same data in an uncompressed Google Drive folder, [**click here**](https://drive.google.com/drive/folders/1fHaKF0ALVOgdScUjVeSVFb37my5ATI0a?usp=sharing).
 
 ## Mophological phenotypes
 
