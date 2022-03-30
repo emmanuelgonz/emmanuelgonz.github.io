@@ -13,15 +13,15 @@ sudo apt-get update
 wget -c \
   http://security.ubuntu.com/ubuntu/pool/main/p/python-urllib3/python-urllib3_1.22-1ubuntu0.18.04.2_all.deb \
   http://security.ubuntu.com/ubuntu/pool/main/r/requests/python-requests_2.18.4-2ubuntu0.1_all.deb \
-  http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu5.8_amd64.deb
 sudo apt install \
   ./python-urllib3_1.22-1ubuntu0.18.04.2_all.deb \
   ./python-requests_2.18.4-2ubuntu0.1_all.deb \
-  ./libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  ./libssl1.0.0_1.0.2n-1ubuntu5.8_amd64.deb
 rm -rf \
   ./python-urllib3_1.22-1ubuntu0.18.04.2_all.deb \
   ./python-requests_2.18.4-2ubuntu0.1_all.deb \
-  ./libssl1.0.0_1.0.2n-1ubuntu5.7_amd64.deb
+  ./libssl1.0.0_1.0.2n-1ubuntu5.8_amd64.deb
 
 ###
 # 3. Install irods-icommands
