@@ -33,7 +33,13 @@ I enjoy photography & videography, which often intersects my passion for plant s
 
 I also apply my scientific programming and image processing skills to generate point clouds of wild and agricultural plants. These point clouds are generated using thousands of images, which can be used to develop new useful ecological tools, such as machine learning algorithms to track population density and distribution. Use your mouse to pan, zoom, and rotate the point clouds below:
 
-### Prickly pear
+test | test 
+:-------------------------:|:-------------------------:
+<center><iframe src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed'></iframe></center>  |  <center><iframe src='https://www.pointbox.xyz/clouds/614ebf2653917645dedcb071/embed'></iframe></center>
+<center><iframe src='https://www.pointbox.xyz/clouds/615135625391766974dcb075/embed'></iframe></center> | <center><iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed'></iframe></center>
+
+
+<!-- ### Prickly pear
 <center><iframe src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed' width="560px" height='315px'></iframe></center>
 
 ### Saguaro
@@ -43,7 +49,7 @@ I also apply my scientific programming and image processing skills to generate p
 <center><iframe src='https://www.pointbox.xyz/clouds/615135625391766974dcb075/embed' width="560px" height='315px'></iframe></center>
 
 ### Sorghum
-<center><iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed' width="560px" height='315px'></iframe></center>
+<center><iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed' width="560px" height='315px'></iframe></center> -->
 
 ## Background
 My grandfather emigrated from Mexico to the United States at the start of the [Bracero program](https://www.labor.ucla.edu/what-we-do/research-tools/the-bracero-program/). He worked in agricultural fields in and around El Centro, CA to provide for his family back in Mexico. After a few years of residing in the United States, he acquired citizenship for himself and his family. My mother earned an A.S degree and started a daycare center without knowing much English and while having to raise four children on her own. My grandfather and mother taught me to reach for the stars, so as a child, I inevitability developed an interest in astronomy. My mother bought me a telescope, and boy was I thrilled! I would look up at the stars with a stargazer's book in hand wondering how far I could see. I was lucky to have such amazing, influential role models that instilled hard work, grit, and curiosity in me; I truly stand on the shoulders of giants. Although I did not end up pursuing astronomy, I now use a different lens with the same level of curiosity.
