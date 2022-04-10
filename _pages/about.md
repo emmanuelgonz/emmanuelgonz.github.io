@@ -34,9 +34,8 @@ I enjoy photography & videography, which often intersects my passion for plant s
 I also apply my scientific programming and image processing skills to generate point clouds of wild and agricultural plants. These point clouds are generated using thousands of images, which can be used to develop new useful ecological tools, such as machine learning algorithms to track population density and distribution. Use your mouse to pan, zoom, and rotate the point clouds below:
 
 
-:-------------------------:|:-------------------------:
-<iframe src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed'> | <iframe src='https://www.pointbox.xyz/clouds/614ebf2653917645dedcb071/embed'>
-<iframe src='https://www.pointbox.xyz/clouds/615135625391766974dcb075/embed'> | <iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed'>
+<iframe src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed'></iframe> <iframe src='https://www.pointbox.xyz/clouds/614ebf2653917645dedcb071/embed'></iframe>
+<iframe src='https://www.pointbox.xyz/clouds/615135625391766974dcb075/embed'></iframe> <iframe src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed'></iframe>
 
 
 <!-- ### Prickly pear
