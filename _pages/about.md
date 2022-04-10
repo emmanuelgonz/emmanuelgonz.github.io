@@ -24,15 +24,18 @@ I am currently part of the [Pauli lab](https://thepaulilab.com/) in the [School 
 
 My work has been [published](publications) in the *Journal of Open Source Education* and *The Plant Phenome Journal* as well as featured in the *Wall Street Journal* (see video below) and [CyVerse News](https://cyverse.org/plants-robots-and-other-interesting-things). My [research](research) explores the variation and temporal basis of stress-adaptive traits using a broad variety of methods including linear mixed models, machine learning, computer vision, distributed computing, container technology, big data, and geospatial analysis. I have [teaching](teaching) experience in cyberinfrastructure, computing technologies, data processing pipelines, and applied machine learning.
 
+<p align='center'><i>Watch me open a Wall Street Journal feature!</i></p>
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/da2gKRdMeXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ## Extension
-I enjoy photography & videography, which often intersects my passion for plant science. On my free time, I shoot a Sony α6000 and fly a DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the American Southwest. I post my photography on social media to share nature's beautiful complexity!
+<!-- I enjoy photography & videography, which often intersects my passion for plant science. On my free time, I shoot a Sony α6000 and fly a DJI Mavic Mini 2 over deserts, forests, and agricultural fields around the American Southwest. I post my photography on social media to share nature's beautiful complexity!
 
-<center><iframe width="560" height="315" src="files/DJI_0132_Trim_Compress.mp4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="files/DJI_0132_Trim_Compress.mp4" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> -->
 
-I also apply my scientific programming and image processing skills to generate point clouds of wild and agricultural plants. These point clouds are generated using thousands of images, which can be used to develop new useful ecological tools, such as machine learning algorithms to track population density and distribution. Use your mouse to pan, zoom, and rotate the point clouds below:
+I apply my scientific programming and image processing skills to generate point clouds of agricultural and wild plants. These point clouds are generated using thousands of images which can be used to develop new useful ecological tools, such as machine learning algorithms to track population density and distribution. 
 
+*Use your mouse to pan, zoom, and rotate the point clouds below*:
 
 <center><iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed'></iframe> <iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/614ebf2653917645dedcb071/embed'></iframe></center>
 <center><iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/615135625391766974dcb075/embed'></iframe> <iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed'></iframe></center>
