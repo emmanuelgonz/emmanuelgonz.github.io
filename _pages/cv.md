@@ -34,21 +34,23 @@ Education
 Skills
 ======
 * Field Phenomics
-* Drought Stress
+  * Abiotic & Biotic Stress
 * Quantitative Genetics
+  * Linear mixed models 
 * Scientific Programming 
   * Python
-  * Distributed computing
+  * Distributed Computing
   * Container technology
     * Docker
     * Singularity
-  * Geospatial analysis
-  * Image processing
+  * Geospatial Analytics
+  * Image Processing
+  * Data Analytics
 * Applied Machine Learning
-  * Supervised and unsupervised
-  * Labeling 
-  * Curation
-  * Augmentation
+  * Supervised and Unsupervised methods
+  * Data Annotation
+  * Data Curation
+  * Data Augmentation
   
 Professional Affiliations & Memberships
 ======
