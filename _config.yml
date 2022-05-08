@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Emmanuel Gonzalez"
 title_separator          : "-"
 name                     : &name "Emmanuel Gonzalez"
-description              : &description "Plant & Data scientist"
+description              : &description "Plant | Data scientist"
 url                      : https://emmanuelgonz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "emmanuelgonz/emmanuelgonz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Emmanuel Gonzalez"
   avatar           : "DSC05727_2.jpg"
-  bio              : "Part plant scientist, part data scientist" #focused on leveraging data science and computation to understand plant growth dynamics."
+  bio              : "Plant | Data scientist" #focused on leveraging data science and computation to understand plant growth dynamics."
   location         : "Tucson, AZ"
   employer         : 
   pubmed           : 
