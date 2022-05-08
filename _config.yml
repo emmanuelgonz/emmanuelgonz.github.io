@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Emmanuel M. Gonzalez"
 title_separator          : "-"
-name                     : &name "Emmanuel Gonzalez"
+name                     : &name "Emmanuel M. Gonzalez"
 description              : &description "Plant | Data scientist"
 url                      : https://emmanuelgonz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
