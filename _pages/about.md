@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<p align='center'><font size='+3'><b>From stargazer to plant scientist</b></font></p>"
+title: "<p align='center'><font size='+3'><b>From stargazer to hybrid scientist</b></font></p>"
 excerpt: "From stargazer to plant scientist"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ Bienvenido/Welcome! My life experiences taught me that we grow the most during u
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/emmanuelmgonzalez/60min?hide_event_type_details=1&hide_gdpr_banner=1', text: 'Schedule a meeting with me!', color: '#53951c', textColor: '#ffffff', branding: true }); }</script>
 <!-- Calendly badge widget end -->
 
-I am currently part of the [Pauli lab](https://thepaulilab.com/) in the [School of Plant Sciences](https://cals.arizona.edu/spls/home) at the [University *of* Arizona](https://www.arizona.edu/), where I am responsible for processing, storing, and analyzing data from the [Field Scanalyzer](https://news.arizona.edu/story/world-s-largest-robotic-field-scanner-now-place). I specialize in Drought Stress, Plant Phenomics, Scientific Computing, and Applied Machine Learning. Throughout my graduate studies, I, along with an interdisciplinary team of computer scientists, engineers, and fellow plant scientists, developed [PhytoOracle](https://phytooracle.readthedocs.io/en/latest/contents.html), a suite of modular, scalable phenomic data processing pipelines. I earned my B.S. in Biology from [Pacific Lutheran University](https://www.plu.edu/). My interest in plant science began in the forests of Washington state and strengthened during a summer internship in [Dr. Jim Giovannoni's lab](https://btiscience.org/jim-giovannoni/) at the [Boyce Thompson Institute](https://btiscience.org/).
+I am currently part of the [Pauli lab](https://thepaulilab.com/) in the [School of Plant Sciences](https://cals.arizona.edu/spls/home) at the [University *of* Arizona](https://www.arizona.edu/), where I am responsible for processing, storing, and analyzing data from the [Field Scanalyzer](https://news.arizona.edu/story/world-s-largest-robotic-field-scanner-now-place). I specialize in Drought Stress, Plant Phenomics, Scientific Computing, and Applied Machine Learning. Throughout my graduate studies, I, along with an interdisciplinary team of computer scientists, engineers, and fellow plant scientists, developed [PhytoOracle](https://phytooracle.readthedocs.io/en/latest/contents.html), a suite of modular, scalable phenomic data processing pipelines. I earned my B.S. in Biology from [Pacific Lutheran University](https://www.plu.edu/). My interest in plant science began in the forests of Washington state and strengthened during a summer internship in [Dr. Jim Giovannoni's lab](https://btiscience.org/jim-giovannoni/) at the [Boyce Thompson Institute](https://btiscience.org/). My interest in data science began early in my graduate studies and strengthened during self-directed learning of programming and the development of phenomic data processing pipelines. 
 
 <p align="center"><img title="Emmanuel taking picture of moss in a Washington state forest" alt="" src="images/IMG_20220309_203615.jpg" style="width:60%"></p> 
 
