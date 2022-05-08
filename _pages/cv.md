@@ -35,8 +35,9 @@ Skills
 ======
 * Field Phenomics
   * Abiotic & Biotic Stress
+  * Individual Plant Phenotyping
 * Quantitative Genetics
-  * Linear mixed models 
+  * Linear mixed models
 * Scientific Programming 
   * Python
   * Distributed Computing
