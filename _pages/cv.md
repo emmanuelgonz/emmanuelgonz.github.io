@@ -63,7 +63,13 @@ Honors & Awards
 Service & Leadership
 ======
 * Onboarding and mentoring of incoming lab members from diverse fields of study
-  * Travis Simmons, College of Coastal Georgia
+  * [Travis Simmons](https://linkedin.com/in/travis-simmons-2230ab162)
+  * [Victoria Ramsay](https://linkedin.com/in/victoria-ramsay-2891891aa)
+  * [Brenda Esmeralda Jimenez](https://linkedin.com/in/brenda-e-jimenez)
+  * [Hassan Alnamer](https://linkedin.com/in/hassan-alnamer)
+  * Jordan Pettiford
+  * Hanna April Lawson
+  <!-- * Travis Simmons, College of Coastal Georgia
     * Current position: Research Data Specialist in Dr. Duke Pauli's lab
   * Victoria Ramsay, University of Arizona Department of Environmental Science
     * Current position: Administrative Coordinator at [Nutrien Ag Solutions](https://www.nutrien.com/)
@@ -74,7 +80,7 @@ Service & Leadership
   * Hassan Alnamer, University of Arizona Department of Computer Science
     * Current position: Undergraduate Researcher in the Pauli Lab at the University of Arizona
   * Jordan Pettiford, University of Arizona Department of Computer Science
-    * Current position: Undergraduate Researcher in the Pauli Lab at the University of Arizona
+    * Current position: Undergraduate Researcher in the Pauli Lab at the University of Arizona -->
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
