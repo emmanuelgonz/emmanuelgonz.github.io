@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "<p align='center'><font size='+3'><b>From stargazer to hybrid scientist</b></font></p>"
-excerpt: "From stargazer to plant scientist"
+excerpt: "From stargazer to hybrid scientist"
 author_profile: true
 redirect_from: 
   - /about/
