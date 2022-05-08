@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emmanuel Gonzalez"
+title                    : "Emmanuel Miguel Gonzalez"
 title_separator          : "-"
 name                     : &name "Emmanuel Gonzalez"
 description              : &description "<p align='center'>Plant | Data scientist</p>"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emmanuel Gonzalez"
+  name             : "Emmanuel Miguel Gonzalez"
   avatar           : "DSC05727_2.jpg"
   bio              : "<p align='center'>Plant | Data scientist</p>" #focused on leveraging data science and computation to understand plant growth dynamics."
   location         : "Tucson, AZ"
