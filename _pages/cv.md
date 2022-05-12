@@ -29,7 +29,7 @@ Work Experience
 Education
 ======
 * *B.S. in Biology*, Pacific Lutheran University, 2019
-* *Ph.D in Plant Science*, University of Arizona, 2023 (expected)
+* *Ph.D in Plant Science*, University of Arizona, 2024 (expected)
 
 Skills
 ======
@@ -47,6 +47,7 @@ Skills
   * Geospatial Analytics
   * Image Processing
   * Data Analytics
+  * Data Management
 * Applied Machine Learning
   * Supervised and Unsupervised methods
   * Data Annotation
@@ -55,13 +56,14 @@ Skills
   
 Professional Affiliations & Memberships
 ======
-* Member, North American Plant Phenotyping Network (NAPPN)
-* Member, National Association of Plant Breeders (NAPB)
+* Member, [North American Plant Phenotyping Network (NAPPN)](https://www.plantphenotyping.org/)
+* Member, [National Association of Plant Breeders (NAPB)](https://www.plantbreeding.org/)
 
 Honors & Awards
 ======
+* 2022 - [NAPB Borlaug Scholars Fellowship](https://www.plantbreeding.org/borlaug-scholars)
 * 2021 - [Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
-* 2021 - [Digital Scholarship & Data Science Fellowship (DS2F)](https://new.library.arizona.edu/ds2f)
+* 2021 - [Digital Scholarship & Data Science Fellowship (DS<sup>2</sup>F)](https://new.library.arizona.edu/ds2f)
 
 Service & Leadership
 ======
