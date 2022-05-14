@@ -67,6 +67,7 @@ Honors & Awards
 
 Service & Leadership
 ======
+* Interviewing applicants for undergraduate research positions
 * Onboarding and mentoring of incoming lab members from diverse fields of study
   * [Travis Simmons](https://linkedin.com/in/travis-simmons-2230ab162)
   * [Victoria Ramsay](https://linkedin.com/in/victoria-ramsay-2891891aa)
