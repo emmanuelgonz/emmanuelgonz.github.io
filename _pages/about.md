@@ -29,7 +29,7 @@ My work has been [published](publications) in the *Journal of Open Source Educat
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/da2gKRdMeXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ## Extension
-I apply my scientific programming and image processing skills to generate [point clouds](https://en.wikipedia.org/wiki/Point_cloud) of agricultural and wild plants. These point clouds are generated using thousands of images captured using a [DJI Mavic Mini 2](https://www.dji.com/mini-2) drone and [Dronelink](https://www.dronelink.com/) flight mapping software. These images are multifunctional and can be used to develop new useful ecological tools, such as machine learning algorithms to track population density and distribution. 
+I apply my scientific programming and image processing skills to generate [point clouds](https://en.wikipedia.org/wiki/Point_cloud) of agricultural and wild plants. These point clouds are generated using thousands of images captured with a [DJI Mavic Mini 2](https://www.dji.com/mini-2) drone and [Dronelink](https://www.dronelink.com/) flight mapping software. These images are multifunctional and can be used to develop new useful ecological tools, such as machine learning algorithms to track population density and distribution. 
 
 <p align='center'><i>Use your mouse/touchscreen to pan, zoom, and rotate the point clouds below:</i></p>
 
