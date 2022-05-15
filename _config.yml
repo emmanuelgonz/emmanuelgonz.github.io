@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Emmanuel Gonzalez"
 title_separator          : "-"
 name                     : &name "Emmanuel Gonzalez"
-description              : &description "Plant x Data scientist | Borlaug Scholar"
+description              : &description "Plant x Data Scientist | Borlaug Scholar"
 url                      : https://emmanuelgonz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "emmanuelgonz/emmanuelgonz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Emmanuel Gonzalez"
   avatar           : "DSC05727_2.jpg"
-  bio              : "Plant x Data scientist | Borlaug Scholar" #focused on leveraging data science and computation to understand plant growth dynamics."
+  bio              : "Plant x Data Scientist | Borlaug Scholar" #focused on leveraging data science and computation to understand plant growth dynamics."
   location         : "Tucson, AZ"
   employer         : 
   pubmed           : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: 	America/Phoenix # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
