@@ -56,14 +56,14 @@ Skills
   
 Professional Affiliations & Memberships
 ======
-* Member, [North American Plant Phenotyping Network (NAPPN)](https://www.plantphenotyping.org/)
-* Member, [National Association of Plant Breeders (NAPB)](https://www.plantbreeding.org/)
+* Member | [North American Plant Phenotyping Network (NAPPN)](https://www.plantphenotyping.org/)
+* Member | [National Association of Plant Breeders (NAPB)](https://www.plantbreeding.org/)
 
 Honors & Awards
 ======
-* 2022 - [NAPB Borlaug Scholars Fellowship](https://www.plantbreeding.org/borlaug-scholars)
-* 2021 - [Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
-* 2021 - [Digital Scholarship & Data Science Fellowship (DS<sup>2</sup>F)](https://new.library.arizona.edu/ds2f)
+* 2022 | [NAPB Borlaug Scholars Fellowship](https://www.plantbreeding.org/borlaug-scholars)
+* 2021 | [Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
+* 2021 | [Digital Scholarship & Data Science Fellowship (DS<sup>2</sup>F)](https://new.library.arizona.edu/ds2f)
 
 Service & Leadership
 ======
