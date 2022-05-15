@@ -69,12 +69,16 @@ Service & Leadership
 ======
 * Interviewing applicants for undergraduate research positions
 * Onboarding and mentoring of incoming lab members from diverse fields of study
-  * [Travis Simmons](https://linkedin.com/in/travis-simmons-2230ab162)
-  * [Victoria Ramsay](https://linkedin.com/in/victoria-ramsay-2891891aa)
-  * [Brenda Esmeralda Jimenez](https://linkedin.com/in/brenda-e-jimenez)
-  * [Hassan Alnamer](https://linkedin.com/in/hassan-alnamer)
-  * Jordan Pettiford
-  * Hanna April Lawson
+  * Life/Natural Sciences
+    * [Travis Simmons](https://linkedin.com/in/travis-simmons-2230ab162)
+    * [Victoria Ramsay](https://linkedin.com/in/victoria-ramsay-2891891aa)
+    * Hanna April Lawson
+  * Economics
+    * [Brenda Esmeralda Jimenez](https://linkedin.com/in/brenda-e-jimenez)
+  * Computer Sciences
+    * [Hassan Alnamer](https://linkedin.com/in/hassan-alnamer)
+    * Jordan Pettiford
+
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
