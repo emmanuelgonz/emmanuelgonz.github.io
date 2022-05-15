@@ -11,25 +11,25 @@ redirect_from:
 
 Work Experience
 ======
-* **Fall 2019 - current: Graduate Research Assistant**
+* **Fall 2019 - Current: Graduate Research Assistant**
   * University of Arizona, School of Plant Sciences
-  * *Duties*: Phenomic data processing for insights into stress-resilient traits
-  * *Supervisor*: [Dr. Duke Pauli](https://thepaulilab.com/)
+  * Duties: Phenomic data processing for insights into stress-resilient traits
+  * Supervisor: [Dr. Duke Pauli](https://thepaulilab.com/)
 
 * **Summer 2018: Summer Research Intern**
   * Boyce Thompson Institute
-  * *Duties*: Design and completion of research project focused on cold stress in *Solanum lycopersicoides*
-  * *Supervisor*: [Dr. Jim Giovannoni](https://btiscience.org/jim-giovannoni/)
+  * Duties: Design and completion of research project focused on cold stress in *Solanum lycopersicoides*
+  * Supervisor: [Dr. Jim Giovannoni](https://btiscience.org/jim-giovannoni/)
 
 * **Fall 2018 - Spring 2019: Greenhouse Assistant** 
   * Pacific Lutheran University, Department of Biology
-  * *Duties*: Maintaining live plant collection and propagation of native plants. 
-  * *Supervisor*: [Dr. Romey Haberle](https://www.plu.edu/biology/staff/romey-haberle/)
+  * Duties: Maintaining live plant collection and propagation of native plants. 
+  * Supervisor: [Dr. Romey Haberle](https://www.plu.edu/biology/staff/romey-haberle/)
 
 Education
 ======
-* *B.S. in Biology*, Pacific Lutheran University, 2019
-* *Ph.D in Plant Science*, University of Arizona, 2024 (expected)
+* B.S. in Biology, Pacific Lutheran University, 2019
+* Ph.D in Plant Science, University of Arizona, 2024 (expected)
 
 Skills
 ======
@@ -42,16 +42,14 @@ Skills
   * Python
   * Distributed Computing
   * Container technology
-    * Docker
-    * Singularity
+    * Docker & Singularity
   * Geospatial Analytics
   * Image Processing
   * Data Analytics
   * Data Management
 * Applied Machine Learning
-  * Supervised and Unsupervised methods
+  * Supervised and Unsupervised
   * Data Annotation
-  * Data Curation
   * Data Augmentation
   
 Professional Affiliations & Memberships
@@ -61,9 +59,11 @@ Professional Affiliations & Memberships
 
 Honors & Awards
 ======
-* 2022, [NAPB Borlaug Scholars Fellowship](https://www.plantbreeding.org/borlaug-scholars)
-* 2021, [Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
-* 2021, [Digital Scholarship & Data Science Fellowship (DS<sup>2</sup>F)](https://new.library.arizona.edu/ds2f)
+* 2022
+  * [NAPB Borlaug Scholars Fellowship](https://www.plantbreeding.org/borlaug-scholars)
+* 2021
+  * [Impact Leader Fellowship](https://cals.arizona.edu/news/self-nominations-open-spring-impact-leader-professional-development-training) 
+  * [Digital Scholarship & Data Science Fellowship (DS<sup>2</sup>F)](https://new.library.arizona.edu/ds2f)
 
 Service & Leadership
 ======
@@ -78,7 +78,6 @@ Service & Leadership
   * Computer Sciences
     * [Hassan Alnamer](https://linkedin.com/in/hassan-alnamer)
     * Jordan Pettiford
-
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
