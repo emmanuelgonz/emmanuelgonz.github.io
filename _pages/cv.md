@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Work Experience
+***PDF version provided below***
+
+Professional Experience
 ======
 * **Fall 2019 - Current: Graduate Research Assistant**
   * University of Arizona, School of Plant Sciences
@@ -31,7 +33,7 @@ Education
 * B.S. in Biology, Pacific Lutheran University, 2019
 * Ph.D in Plant Science, University of Arizona, 2024 (expected)
 
-Skills
+Scientific & Technical Skills
 ======
 * Field Phenomics
   * Abiotic & Biotic Stress
@@ -97,3 +99,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+<iframe src="https://drive.google.com/file/d/1ps0rUub1ZZMRxDG0Mku8KcoxQL-zeQYJ/preview" width="640" height="480" allow="autoplay"></iframe>
