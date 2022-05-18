@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-***PDF version provided below***
+> **_Note:_** *A Downloadable PDF version of my CV is available at the end of this webpage*
 
 Professional Experience
 ======
