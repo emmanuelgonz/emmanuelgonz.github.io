@@ -13,7 +13,7 @@ redirect_from:
 
 Professional Experience
 ======
-* **Fall 2019 - Current: Graduate Research Assistant**
+* **Fall 2019 - Current: Ph.D. Candidate**
   * University of Arizona, School of Plant Sciences
   * Duties: Phenomic data processing for insights into stress-resilient traits
   * Supervisor: [Dr. Duke Pauli](https://thepaulilab.com/)
@@ -77,9 +77,12 @@ Service & Leadership
     * Hanna April Lawson
   * Economics
     * [Brenda Esmeralda Jimenez](https://linkedin.com/in/brenda-e-jimenez)
-  * Computer Sciences
+  * Computer Sciences & Mathematics
     * [Hassan Alnamer](https://linkedin.com/in/hassan-alnamer)
     * Jordan Pettiford
+    * [Nimet Beyza Bozdag](https://www.linkedin.com/in/nimet-beyza-bozdag/)
+    * Seungho (James) Lee
+    * Sarthak Bawal
 * Alumni Mentor in Pacific Lutheran University Division of Natural Sciences [Alumni Mentoring Program](https://lutelink.plu.edu/hub/plu/programs/natsci-mentoring-program/about)
 
 Publications
