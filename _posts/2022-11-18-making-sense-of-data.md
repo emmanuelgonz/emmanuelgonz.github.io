@@ -56,8 +56,7 @@ These multiple sources of data provide a fine-scale information of plant growth 
 
 # Workshop materials
 
-- Workshop materials
-  - [Google Colab notebook](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing)
+- [Google Colab notebook](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing)
 
 
 ---
