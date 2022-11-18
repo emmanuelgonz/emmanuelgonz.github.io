@@ -44,7 +44,7 @@ Collectively, these sensors capture 20 terabytes (TBs) in a three-month period, 
 
 These multiple sources of data provide a fine-scale information of plant growth under drought (decreased water) conditions. Today, we will use some of these data to learn interactive visualization using Python!
 
-<p align="center"><img length=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
 
 # Materials
 
