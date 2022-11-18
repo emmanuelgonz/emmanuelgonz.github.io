@@ -78,3 +78,17 @@ These multiple sources of data provide a fine-scale information of plant growth 
   - [PhytoOracle](https://github.com/phytooracle/automation)
     - Data processing pipelines that convert raw data from the Field Scanalzyer into phenotypic trait information
     - To check out our open source code, [click here](https://github.com/phytooracle). 
+
+---
+
+# Acknowledgements
+
+This program is funded by the University of Arizona Libraries: https://data.library.arizona.edu/ds2f. 
+
+With special thanks to: 
+- Jeffrey Oliver
+- Megan Senseney
+- Jim Martin
+- Yvonne Mery
+- Leslie Sult
+- Cheryl Casey
