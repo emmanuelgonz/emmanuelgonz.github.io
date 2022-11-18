@@ -34,14 +34,9 @@ As sensor technology improves, data volumes grow. We now live in a sea of data c
 
 # A case study in big data
 
-We will be using data collected by the Field Scanalyzer at the University of Arizona Maricopa Agricultural Center (pictured below). The Field Scanalyzer covers over an hectare of land, capturing 2D and 3D data.
+We will be using data collected by the Field Scanalyzer at the University of Arizona Maricopa Agricultural Center (pictured below). The Field Scanalyzer covers over an hectare of land. The Field scanalyzer is equipped with stereo RGB and thermal cameras, a PSII chlorophyll fluorescence imager, and a pair of 3D laser scanners. 
 
-<p align="center"><img height=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_wsj.jpg"></p>
-
-
-The Field scanalyzer is equipped with stereo RGB and thermal cameras, a PSII chlorophyll fluorescence imager, and a pair of 3D laser scanners. 
-
-<p align="center"><img height=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_box.png"></p>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_box_sensors.png"></p>
 
 Collectively, these sensors capture 20 terabytes (TBs) in a three-month period, which makes converting these raw data into information a difficult task.
 
