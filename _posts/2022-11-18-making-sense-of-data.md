@@ -27,11 +27,20 @@ tags:
   - linux
 ---
 
-As sensor technology improves, data volumes grow. We now live in a sea of data collected by our phones, smartwatches, and home assistants like Alexa. Science is not any different, new sensors are enabling the collection of large datasets that can be mined for new scientific discoveries. In plant science, sensor technology is being applied to study how plants grow under drought conditions. This workshop will introduce you to common data wrangling Python packages: Pandas allows us to interact with data related to plant growth, while Plotly Express allows us to generate interactive visualizations to make sense of these data. You will learn how to open data, filter data, slice data, and generate informative interactive visualizations from large datasets. Knowing how to handle and make sense of data will be increasingly important, and this workshop is your first step towards that! 
+As sensor technology improves, data volumes grow. We now live in a sea of data collected by our phones, smartwatches, and home assistants like Alexa. Science is not any different, new sensors are enabling the collection of large datasets that can be mined for new scientific discoveries. In plant science, sensor technology is being applied to study how plants grow under drought conditions. 
 <!--more-->
 
 ---
 
+# Introduction to our data set
 
+We will be using data collected by the Field Scanalyzer at the University of Arizona Maricopa Agricultural Center (pictured below). The Field Scanalyzer covers over an hectare of land, capturing 2D and 3D data.
+
+<p align="center"><img height=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_wsj.jpg"></p>
+
+
+The Field scanalyzer is equipped with stereo RGB and thermal cameras, a PSII chlorophyll fluorescence imager, and a pair of 3D laser scanners. 
 
 <p align="center"><img height=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_box.png"></p>
+
+Collectively, 
