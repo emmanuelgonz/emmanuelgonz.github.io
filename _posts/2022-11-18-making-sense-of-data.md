@@ -34,4 +34,4 @@ As sensor technology improves, data volumes grow. We now live in a sea of data c
 
 
 
-<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/which_python3.png"></p>
+<p align="center"><img height=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_box.png"></p>
