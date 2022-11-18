@@ -56,5 +56,5 @@ These multiple sources of data provide a fine-scale understanding of plant growt
 - Workshop materials
   - [Google Colab notebook](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing)
 - Further reading
-  - [Living in Data: A Citizen's Guide to a Better Information Future | Jer Thorp](https://www.amazon.com/Living-Data-Citizens-Better-Information/dp/0374189900)
-  - [Data Science | John D. Kelleher and Brendan Tierney](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51598298120003843)
+  - [Living in Data: A Citizen's Guide to a Better Information Future by Jer Thorp](https://www.amazon.com/Living-Data-Citizens-Better-Information/dp/0374189900)
+  - [Data Science by John D. Kelleher and Brendan Tierney](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51598298120003843)
