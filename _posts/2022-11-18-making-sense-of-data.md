@@ -2,8 +2,8 @@
 title: 'Using interactive data visualization to make sense of large datasets'
 date: 2022-11-16
 permalink: /posts/2022/11/making-sense-of-data/
-author_profile: False
-toc: true
+author_profile: True
+toc: True
 excerpt_separator: <!--more-->
 tags:
   - data
