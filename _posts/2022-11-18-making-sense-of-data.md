@@ -36,7 +36,7 @@ As sensor technology improves, data volumes grow. We now live in a sea of data c
 
 We will be using data collected by the Field Scanalyzer at the University of Arizona Maricopa Agricultural Center. The Field Scanalyzer covers over an hectare of land - capturing data from over 20,000 plants over a growing season. The Field scanalyzer is equipped with stereo RGB and thermal cameras, a PSII chlorophyll fluorescence imager, and a pair of 3D laser scanners (pictured below). 
 
-<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/updated_gantry_box.png"></p>
+<p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/bold_gantry_box.png"></p>
 
 Collectively, these sensors capture 20 terabytes (TBs) in a three-month period, which makes converting these raw data into information a difficult task. Accomplishing extraction of information requires leveraging machine learning, high performance computers, and distributed computing.
 
