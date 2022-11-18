@@ -88,7 +88,7 @@ Please provide your feedback to improve future workshops here: https://bit.ly/20
 
 # Acknowledgements
 
-This program is funded by the University of Arizona Libraries: https://data.library.arizona.edu/ds2f. 
+This program is funded by the University of Arizona Libraries: [https://data.library.arizona.edu/ds2f](https://data.library.arizona.edu/ds2f). 
 
 With special thanks to: 
 - Jeffrey Oliver
