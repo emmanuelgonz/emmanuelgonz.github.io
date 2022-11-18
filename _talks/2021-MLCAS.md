@@ -1,5 +1,5 @@
 ---
-title: "PhytoOracle: Scalable, modular phenomic data processing pipelines"
+title: "PhytoOracle: Scalable, Modular Phenomic Data Processing Pipelines"
 collection: talks
 type: "Scientific talk"
 permalink: files/2021_MLCAS.pdf
