@@ -32,7 +32,7 @@ As sensor technology improves, data volumes grow. We now live in a sea of data c
 
 ---
 
-# Introduction to our data set
+# A case study in big data
 
 We will be using data collected by the Field Scanalyzer at the University of Arizona Maricopa Agricultural Center (pictured below). The Field Scanalyzer covers over an hectare of land, capturing 2D and 3D data.
 
@@ -47,4 +47,14 @@ Collectively, these sensors capture 20 terabytes (TBs) in a three-month period, 
 
 <p align="center"><img height=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/file_sizes_swg.png"></p>
 
+These multiple sources of data provide a fine-scale understanding of plant growth under drought (decreased water) conditions. Today, we will use some of these data to learn interactive visualization using Python!
 
+<p align="center"><img length=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
+
+# Materials
+
+- Workshop materials
+  - [Google Colab notebook](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing)
+- Further reading
+  - [Living in Data: A Citizen's Guide to a Better Information Future | Jer Thorp](https://www.amazon.com/Living-Data-Citizens-Better-Information/dp/0374189900)
+  - [Data Science | John D. Kelleher and Brendan Tierney](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51598298120003843)
