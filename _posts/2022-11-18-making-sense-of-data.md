@@ -43,4 +43,8 @@ The Field scanalyzer is equipped with stereo RGB and thermal cameras, a PSII chl
 
 <p align="center"><img height=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/gantry_box.png"></p>
 
-Collectively, 
+Collectively, these sensors capture 20 terabytes (TBs) in a three-month period, which makes converting these raw data into information a difficult task.
+
+<p align="center"><img height=500 src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/file_sizes_swg.png"></p>
+
+
