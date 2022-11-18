@@ -59,9 +59,15 @@ These multiple sources of data provide a fine-scale information of plant growth 
 - Workshop materials
   - [Google Colab notebook](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing)
 
+
+---
+## Survey
+
+Please provide your feedback to improve future workshops here: https://bit.ly/2022-ds2f
+
 ---
 
-# Additional materials
+## Additional materials
 
 - Seminar invitation
   - [School of Plant Sciences Seminar - Transforming a quarter petabyte of field phenomics data into functional traits and beyond](https://cals.arizona.edu/spls/content/spls-tuesday-seminar-transforming-quarter-petabyte-field-phenomics-data-functional-traits) 
