@@ -25,6 +25,10 @@ tags:
   - computing
   - soft skills
   - linux
+  - data visualization
+  - interactive visualization
+  - phenomics
+  - plant science
 ---
 
 As sensor technology improves, data volumes grow. We now live in a sea of data collected by our phones, smartwatches, and home assistants like Alexa. Science is not any different, new sensors are enabling the collection of large datasets that can be mined for new scientific discoveries. In plant science, sensor technology is being applied to study how plants grow under drought conditions. 
@@ -46,12 +50,14 @@ These multiple sources of data provide a fine-scale information of plant growth 
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
 
-# Workshop Materials
+---
+
+# Workshop materials
 
 - Workshop materials
   - [Google Colab notebook](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing)
 
-# Additional Materials
+# Additional materials
 
 - Seminar invitation
   - [School of Plant Sciences Seminar - Transforming a quarter petabyte of field phenomics data into functional traits and beyond](https://cals.arizona.edu/spls/content/spls-tuesday-seminar-transforming-quarter-petabyte-field-phenomics-data-functional-traits) 
