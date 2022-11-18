@@ -36,6 +36,8 @@ As sensor technology improves, data volumes grow. We now live in a sea of data c
 
 ---
 
+> **_NOTE:_** Access the workshop notebook [here](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing).
+
 # Phenomics: A case study in big data
 
 We will be using data collected by the Field Scanalyzer at the University of Arizona Maricopa Agricultural Center. The Field Scanalyzer covers over an hectare of land - capturing data from over 20,000 plants over a growing season. The Field scanalyzer is equipped with stereo RGB and thermal cameras, a PSII chlorophyll fluorescence imager, and a pair of 3D laser scanners (pictured below). 
@@ -56,6 +58,8 @@ These multiple sources of data provide a fine-scale information of plant growth 
 
 - Workshop materials
   - [Google Colab notebook](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing)
+
+---
 
 # Additional materials
 
