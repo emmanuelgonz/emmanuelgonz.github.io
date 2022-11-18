@@ -46,10 +46,18 @@ These multiple sources of data provide a fine-scale information of plant growth 
 
 <p align="center"><img src="https://github.com/emmanuelgonz/emmanuelgonz.github.io/raw/master/images/lettuce_data_examples.png"></p>
 
-# Materials
+# Workshop Materials
 
 - Workshop materials
   - [Google Colab notebook](https://colab.research.google.com/drive/1qXUkjBhO-1my5SxuUNoYLsgzh5UCzJop?usp=sharing)
+
+# Additional Materials
+
+- Seminar invitation
+  - [School of Plant Sciences Seminar - Transforming a quarter petabyte of field phenomics data into functional traits and beyond](https://cals.arizona.edu/spls/content/spls-tuesday-seminar-transforming-quarter-petabyte-field-phenomics-data-functional-traits) Tuesday, 22-Nov
+    - Zoom link: [https://arizona.zoom.us/j/83941552191](https://arizona.zoom.us/j/83941552191)
+    - Password: spls2022
+
 - Further reading
   - [Living in Data: A Citizen's Guide to a Better Information Future by Jer Thorp](https://www.amazon.com/Living-Data-Citizens-Better-Information/dp/0374189900)
   - [Data Science by John D. Kelleher and Brendan Tierney](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51598298120003843)
