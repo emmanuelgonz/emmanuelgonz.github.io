@@ -62,7 +62,7 @@ These multiple sources of data provide a fine-scale information of plant growth 
 ---
 ## Survey
 
-Please provide your feedback to improve future workshops here: https://bit.ly/2022-ds2f
+Please provide your feedback to improve future workshops here: [https://bit.ly/2022-ds2f](https://bit.ly/2022-ds2f).
 
 ---
 
