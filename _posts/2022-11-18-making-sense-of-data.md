@@ -62,6 +62,7 @@ These multiple sources of data provide a fine-scale information of plant growth 
 - Seminar invitation
   - [School of Plant Sciences Seminar - Transforming a quarter petabyte of field phenomics data into functional traits and beyond](https://cals.arizona.edu/spls/content/spls-tuesday-seminar-transforming-quarter-petabyte-field-phenomics-data-functional-traits) 
     - Date: Tuesday, 22-Nov 
+    - Time: 4pm
     - Zoom link: [https://arizona.zoom.us/j/83941552191](https://arizona.zoom.us/j/83941552191)
     - Password: spls2022
 
