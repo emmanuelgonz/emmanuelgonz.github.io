@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!-- 
 {% include base_path %}
 
 > **_Note:_** *A downloadable PDF version of my CV is available at the end of this webpage.*
@@ -101,6 +101,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
-<iframe src="https://drive.google.com/file/d/1ps0rUub1ZZMRxDG0Mku8KcoxQL-zeQYJ/preview" width="640" height="480" allow="autoplay"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/1ps0rUub1ZZMRxDG0Mku8KcoxQL-zeQYJ/preview" allow="autoplay"></iframe> -->
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT5DgBoeBXoD9XDVYorned1HbJ_GIcwp6zjFt33eWkxV6iTpOLagSc4_SHFvpngjmK95sKDLkMIINBB/pub?embedded=true"></iframe>
