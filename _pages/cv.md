@@ -104,4 +104,4 @@ Teaching
   {% endfor %}</ul> -->
 
 <!-- <iframe src="https://drive.google.com/file/d/1ps0rUub1ZZMRxDG0Mku8KcoxQL-zeQYJ/preview" allow="autoplay"></iframe> -->
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT5DgBoeBXoD9XDVYorned1HbJ_GIcwp6zjFt33eWkxV6iTpOLagSc4_SHFvpngjmK95sKDLkMIINBB/pub?embedded=true"></iframe>
+<iframe src="https://drive.google.com/file/d/1ps0rUub1ZZMRxDG0Mku8KcoxQL-zeQYJ/preview"></iframe>
