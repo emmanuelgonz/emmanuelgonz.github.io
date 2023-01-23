@@ -5,6 +5,12 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+</script>
 ---
 <!-- 
 {% include base_path %}
@@ -104,6 +110,8 @@ Teaching
   {% endfor %}</ul> -->
 
 <!-- <iframe src="https://drive.google.com/file/d/1ps0rUub1ZZMRxDG0Mku8KcoxQL-zeQYJ/preview" allow="autoplay"></iframe> -->
-<iframe src="https://drive.google.com/file/d/1ofwPmuYGpRtEtt97_FGfdgwp0J7QaeES/preview" width="640" height="480" allow="autoplay"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/1ofwPmuYGpRtEtt97_FGfdgwp0J7QaeES/preview" width="640" height="480" allow="autoplay"></iframe> -->
+
+<iframe src="https://drive.google.com/file/d/1ofwPmuYGpRtEtt97_FGfdgwp0J7QaeES/preview" frameborder="0" scrolling="no" allow="autoplay" onload="resizeIframe(this)" /></iframe>
 
 [Click here](https://drive.google.com/u/0/uc?id=1ofwPmuYGpRtEtt97_FGfdgwp0J7QaeES&export=download) to download a PDF copy of my CV. 
