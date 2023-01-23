@@ -10,5 +10,7 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
 ## The University of Arizona
+- Plant Science 429: Advanced Concepts in Cyberinfrastructure
 - Plant Science 170C2: Biotechnology & Sustainability (Spring 2023)
