@@ -55,7 +55,9 @@ Raw 3D laser scanner data is processed using a variety of containers, which resu
 
 </figure>
 
-## Fresh weight measurements
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqbAArwr3nk3WNMr6tDgkRyOnfuNgcFvEqP2acsWcPjFr23UiiWGJmNoSszjjtUVbGImbiNsyWNMHv/embed?start=true&loop=true&delayms=60000" frameborder="0" width="6912" height="5213" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<!-- ## Fresh weight measurements
 
 At the end of the growing season, each plant within a plot was destructively harvested, weighed, and placed in a drying oven. Fresh weights were collected within an hour of harvesting; these values were then used to calculate the average weight per plant by dividing fresh weight by the total number of plants within a plot (**Figs. 3, 5**). Reported convex hull volumes from differing versions of Open3D showed non-linear trends, indicating the relationship between plants in a scan has changed (**Fig. 4**)
 
@@ -149,4 +151,4 @@ Phenomic data is both visual (images/point clouds) and numerical (extracted phen
 <figcaption align = "center"><b>Video 1.</b><i> Individual plants visualized in a virtual reality (VR) environment alongside numerical time-series data.</i>
 </figcaption>
 
-</figure>
+</figure> -->
