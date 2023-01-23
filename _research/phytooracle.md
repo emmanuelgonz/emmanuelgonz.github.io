@@ -55,23 +55,7 @@ Raw 3D laser scanner data is processed using a variety of containers, which resu
 
 </figure>
 
-
-
-
-<html lang="en-US">
-  <head>
-    <!-- <meta charset="utf-8" />
-    <title>My test page</title> -->
-    <script>
-      function resizeIframe(obj) {
-        obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-      }
-    </script>
-  </head>
-  <body>
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqbAArwr3nk3WNMr6tDgkRyOnfuNgcFvEqP2acsWcPjFr23UiiWGJmNoSszjjtUVbGImbiNsyWNMHv/embed?start=true&loop=true&delayms=60000" frameborder="0" scrolling="no" onload="resizeIframe(this)" /></iframe>
-  </body>
-</html>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqbAArwr3nk3WNMr6tDgkRyOnfuNgcFvEqP2acsWcPjFr23UiiWGJmNoSszjjtUVbGImbiNsyWNMHv/embed?start=true&loop=true&delayms=60000" frameborder="0" width="4608" height="3485" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <!-- ## Fresh weight measurements
 
