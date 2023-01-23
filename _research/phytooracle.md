@@ -55,7 +55,7 @@ Raw 3D laser scanner data is processed using a variety of containers, which resu
 
 </figure>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqbAArwr3nk3WNMr6tDgkRyOnfuNgcFvEqP2acsWcPjFr23UiiWGJmNoSszjjtUVbGImbiNsyWNMHv/embed?start=true&loop=true&delayms=3000" frameborder="0" width="2304" height="1757" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqbAArwr3nk3WNMr6tDgkRyOnfuNgcFvEqP2acsWcPjFr23UiiWGJmNoSszjjtUVbGImbiNsyWNMHv/embed?start=true&loop=true&delayms=3000" frameborder="0" width="1152" height="878.5" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Conclusion
 
