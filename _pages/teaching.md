@@ -11,10 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-As a graduate student, I have served as teaching assistant to two courses in the School of Plant Sciences.
+As a graduate student, I have served as teaching assistant to two courses in the School of Plant Sciences at the University of Arizona.
 
 ## The University of Arizona
 - Plant Science 429: Advanced Concepts in Cyberinfrastructure (Fall 2021)
   - Focus on scientific computing in plant science research. Topics included high performance computing, applications of machine learning, and collaboration across academic disciplines.
 - Plant Science 170C2: Biotechnology & Sustainability (Spring 2023)
-  - Focus on the role of biotechnology in agriculture and healthcare, with discussions on applying biotechnology sustainabily while meeting the needs of a growing population.
+  - Focus on the role of biotechnology in agriculture and healthcare, with discussions on sustainable applications of biotechnology to meet the needs of a growing population.
