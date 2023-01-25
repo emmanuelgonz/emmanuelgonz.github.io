@@ -5,7 +5,7 @@ excerpt: "<img src='/images/research/logo-no-background.png' alt=''>"
 collection: research
 author_profile: False
 # toc: true
-order_number: 10
+order_number: 2
 header:
   og_image: 'research/logo-no-background.png'
 ---
