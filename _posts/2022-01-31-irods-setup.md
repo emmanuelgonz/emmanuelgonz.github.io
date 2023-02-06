@@ -64,14 +64,10 @@ iRODS is open source data management software used by research groups, such as [
     wget https://raw.githubusercontent.com/emmanuelgonz/emmanuelgonz.github.io/master/files/install_irods_copy.sh 
     ```
 
-    ```
-    chmod 755 install_irods.sh
-    ```
-
 2. Run the installation script:
    
    ```bash
-   sudo ./install_irods.sh
+   sudo ./install_irods_copy.sh
    ```
 
 3. Log in to iRODS:
