@@ -61,7 +61,7 @@ iRODS is open source data management software used by research groups, such as [
 1. Download the iRODS installation shell script and give it executable permissions:
 
     ```bash
-    wget https://raw.githubusercontent.com/emmanuelgonz/emmanuelgonz.github.io/master/files/install_irods.sh 
+    wget https://raw.githubusercontent.com/emmanuelgonz/emmanuelgonz.github.io/master/files/install_irods_copy.sh 
     ```
 
     ```
