@@ -170,18 +170,17 @@ We need to set up an SSH key to easily push changes to your repos.
 1. Download the iRODS installation shell script and give it executable permissions:
 
     ```bash
-    wget https://raw.githubusercontent.com/emmanuelgonz/emmanuelgonz.github.io/master/files/install_irods.sh 
-    ```
-
-    ```
-    chmod 755 install_irods.sh
+    wget https://raw.githubusercontent.com/emmanuelgonz/emmanuelgonz.github.io/master/files/install_irods_copy.sh 
     ```
 
 2. Run the installation script:
-   
-   ```bash
-   sudo ./install_irods.sh
-   ```
+    ```bash
+     chmod 755 install_irods_copy.sh
+     ```
+
+    ```bash
+    sudo ./install_irods_copy.sh
+    ```
 
 3. Log in to iRODS:
    
