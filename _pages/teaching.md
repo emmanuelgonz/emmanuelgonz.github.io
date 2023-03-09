@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-As a graduate student, I have served as Teaching Assistant/Associate to two courses in the School of Plant Sciences at the University of Arizona.
+<!-- As a graduate student, I have served as Teaching Assistant/Associate to two courses in the School of Plant Sciences at the University of Arizona. -->
 
 ## The University of Arizona
 - Plant Science 429: Advanced Concepts in Cyberinfrastructure (Fall 2021, Teaching Assistant)
