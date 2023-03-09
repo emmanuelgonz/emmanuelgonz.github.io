@@ -2,7 +2,7 @@
 title: "MegaStitch: Robust Large Scale Image Stitching"
 collection: publications
 date: 2022-01-11
-permalink: /publication/2021-MegaStitch
+# permalink: /publication/2021-MegaStitch
 venue: 'IEEE Transactions on Geoscience and Remote Sensing <b>[Impact Factor 8.1]</b>'
 # paperurl: 'https://emmanuelgonz.github.io/files/MegaStitch_Robust_Large_Scale_Image_Stitching.pdf'
 link: 'https://doi.org/10.1109/TGRS.2022.3141907'
