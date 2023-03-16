@@ -9,6 +9,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Extension"
+    url: /extension/
+
   - title: "Talks"
     url: /talks/    
 
