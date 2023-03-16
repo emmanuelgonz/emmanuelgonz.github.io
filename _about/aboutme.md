@@ -13,7 +13,4 @@ My grandfather and mother taught me to reach for the stars, so as a child, I ine
 
 During my undergraduate studies, I reflected on my target career path. I found out early on that I wanted to become a scientist, and I began taking courses in Biology, Chemistry, and Physics. I hated Physics but loved Chemistry, so I considered pursuing chemistry further. After taking multiple Biology courses, I was hooked - I enjoyed learning about the way things worked in living things. I then set my sights on plant science, particularly due to my family's background in agriculture. I had the wonderful experience of interning at the Boyce Thompson Institute, where my decision to pursue plant science was reinforced.
 
-I am the first in my family to pursue a PhD. I made this decision for multiple reasons: (i) to challenge myself, (ii) to make use of the opportunities that I have but were not available to my family, (iii) to be a good role model to my nephews. These three reasons drive me each day, allowing me to invest "my best" in everything I do.
-
-
-
+I am the first in my family to pursue a PhD. I made this decision for multiple reasons: (i) to challenge myself, (ii) to make use of the opportunities that I have but were not available to my family, (iii) to be a good role model to my nephews. These three reasons drive me each day to invest "my best" in everything I do.
