@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenido/Welcome! My life experiences taught me that we grow the most during uncomfortable circumstances. I purposefully challenge myself and seek projects that push me beyond my perceived limits. This approach has allowed me to develop diverse, transdisciplinary skills, and today, I consider myself a hybrid: part plant scientist, part data scientist. 
+Bienvenido/Welcome! My life experiences taught me that we grow the most during uncomfortable circumstances. I purposefully challenge myself by seeking projects that push me beyond my perceived limits. This approach has allowed me to develop diverse, transdisciplinary skills, and today, I consider myself a hybrid: part plant scientist, part data scientist. 
 
 <p align="center"><img title="Emmanuel: part plant scientist, part data scientist" alt="" src="images/plant_data_scientist.png"></p> 
 
@@ -36,7 +36,3 @@ I apply my scientific programming and image processing skills to generate [point
 <center><iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed'></iframe> <iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/614ebf2653917645dedcb071/embed'></iframe></center>
 <center><iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/615135625391766974dcb075/embed'></iframe> <iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/6146910c5391763d29dcb020/embed'></iframe></center>
 
-## Background
-My grandfather emigrated from Mexico to the United States at the start of the [Bracero program](https://www.labor.ucla.edu/what-we-do/research-tools/the-bracero-program/). He worked in agricultural fields in and around El Centro, CA to provide for his family back in Mexicali, Baja California, Mexico. After a few years of residing in the United States, he acquired citizenship for himself and his family. My mother went on to earn an A.S degree, and she opened a daycare center without knowing much English and being a single mother. 
-
-My grandfather and mother taught me to reach for the stars, so as a child, I inevitability developed an interest in astronomy. My mother bought me a telescope, and boy was I thrilled! I would look up at the stars with a stargazer's book in hand wondering how far I could see. I was lucky to have such amazing, influential role models that instilled hard work, grit, and curiosity in me; I truly stand on the shoulders of giants. Although I did not end up pursuing astronomy, I now use a different lens with the same level of curiosity.
