@@ -12,7 +12,6 @@ header:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQh_eHUmM5R7JxMEeXWd9Y10E9ZKLaqQ9FYkzmGlezRMt5WGITnnOYlXpvWcQVPa1voVQ0UO1btS1nP/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="576" height="878.5" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
-
 # Calculate the soft thresholding power (beta)
 
 ``` r
@@ -167,11 +166,11 @@ plot(datExpr_tree, main = "Sample clustering", sub = "", xlab = "",
 # for first approches
 singleBlockMEs = moduleEigengenes(datExpr, moduleColors)$eigengenes
 blockwiseMEs = moduleEigengenes(datExpr, bwModuleColors)$eigengenes
+```
 
-# Now match the eigengens by name and calcualte the
-# correlation of the corresponding eigengenes
-single2blockwise = match(names(singleBlockMEs), names(blockwiseMEs))
+## Blockwise MEs
 
+``` r
 blockwiseMEs
 ```
 
@@ -304,8 +303,3 @@ blockwiseMEs
     ## VIR_7153_D_10_WW           0.19826660 -0.1623828870
     ## VIR_7223_WW                0.10518185 -0.1556589588
     ## WESTERN_STORMPROOF_WW      0.11719956 -0.1437505074
-
-``` r
-# signif(diag(cor(blockwiseMEs[, single2blockwise],
-# singleBlockMEs)), 3)
-```
