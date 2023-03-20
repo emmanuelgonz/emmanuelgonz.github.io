@@ -49,7 +49,7 @@ text(sft$fitIndices[, 1], sft$fitIndices[, 5], labels = powers,
     cex = cex1, col = "red")
 ```
 
-![](files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](/files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
 ``` r
 par(mfrow = c(1, 2))
@@ -57,7 +57,7 @@ hist(k)
 scaleFreePlot(k, main = "Check Scale free topology\n")
 ```
 
-![](files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](/files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 # Blockwise module detection
 
@@ -74,7 +74,7 @@ plotDendroAndColors(net$dendrograms[[1]], mergedColors[net$blockGenes[[1]]],
     guideHang = 0.05)
 ```
 
-![](files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](/files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
 ``` r
 moduleLabels = net$colors
@@ -102,14 +102,14 @@ plotDendroAndColors(geneTree, cbind(moduleColors, bwModuleColors),
     dendroLabels = FALSE, hang = 0.03, addGuide = TRUE, guideHang = 0.05)
 ```
 
-![](files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](/files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
 ``` r
 figure <- plotDendroAndColors(geneTree, bwModuleColors, "", main = "Single block gene dendrogram and module colors",
     dendroLabels = FALSE, hang = 0.03, addGuide = TRUE, guideHang = 0.05)
 ```
 
-![](files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](/files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
 ``` r
 class(figure)
@@ -139,7 +139,7 @@ MEDissThres = 0.25
 abline(h = MEDissThres, col = "red")
 ```
 
-![](files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-8-1.png)
+![](/files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-8-1.png)
 
 ``` r
 merge = mergeCloseModules(datExpr, bwModuleColors, cutHeight = MEDissThres,
@@ -159,7 +159,7 @@ plot(datExpr_tree, main = "Sample clustering", sub = "", xlab = "",
     cex.lab = 2, cex.axis = 1, cex.main = 1, cex.lab = 1, cex = 0.5)
 ```
 
-![](files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](/files/wgcna_automatic_blockwise_report_files/figure-markdown_github/unnamed-chunk-9-1.png)
 
 ``` r
 # Verify epigenegenes of modules in both approaches are
