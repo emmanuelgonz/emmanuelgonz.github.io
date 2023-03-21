@@ -123,14 +123,6 @@ dynamicMods = cutreeDynamic(dendro = geneTree, distM = dissTOM,deepSplit = 2, pa
     ##  ..done.
 
 ``` r
-table(dynamicMods)
-```
-
-    ## dynamicMods
-    ##   0   1   2   3   4   5   6   7   8   9  10 
-    ## 340 326 257 235 183 176 171 115 104 101  93
-
-``` r
 #Plot the module assignment under the gene dendrogram
 #How to convert numeric tables into colors
 dynamicColors = labels2colors(dynamicMods)
