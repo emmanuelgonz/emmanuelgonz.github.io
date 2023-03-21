@@ -12,7 +12,8 @@ header:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQh_eHUmM5R7JxMEeXWd9Y10E9ZKLaqQ9FYkzmGlezRMt5WGITnnOYlXpvWcQVPa1voVQ0UO1btS1nP/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="576" height="878.5" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
-# Calculate the soft thresholding power (beta)
+
+# Soft Thresholding Power
 
 ``` r
 # Set powers to sample
@@ -58,7 +59,7 @@ scaleFreePlot(k, main = "Check Scale free topology\n")
 
 ![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
-# Plot clustereing among samples
+# Clustering Among Samples
 
 ``` r
 # Cluster tress (check if any outliers existed among
@@ -71,7 +72,7 @@ plot(datExpr_tree, main = "Sample clustering", sub = "", xlab = "",
 
 ![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
-# AUTOMATIC NETWORK CONSTRUCTION & MODULE DETECTION
+# Automatic Network Construction & Module Detection
 
 ``` r
 net = blockwiseModules(datExpr, maxBlockSize = 5000, power = 30,
@@ -95,7 +96,7 @@ MEs = net$MEs
 geneTree = net$dendrograms[[1]]
 ```
 
-#STEP-BY-STEP GENE NETWORK CONSTRUCTION & MODULE IDENTIFICATION
+# Step-By-Step Network Construction & Module Detection
 
 ``` r
 softPower = sft$powerEstimate; #6;
@@ -118,12 +119,8 @@ dissTOM = 1-TOM
 geneTree = hclust(as.dist(dissTOM), method = "average");
 
 #Plot the dendogram
-plot(geneTree, xlab="", sub="", main = "Gene clustering on TOM-based dissimilarity", labels = FALSE, hang = 0.04);
-```
+# plot(geneTree, xlab="", sub="", main = "Gene clustering on TOM-based dissimilarity", labels = FALSE, hang = 0.04);
 
-![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-7-1.png)
-
-``` r
 #Set module size relatively high
 minModuleSize = 30;
 
@@ -143,7 +140,7 @@ dynamicColors = labels2colors(dynamicMods)
 plotDendroAndColors(geneTree, dynamicColors, "Dynamic Tree Cut",dendroLabels = FALSE, hang = 0.03,addGuide = TRUE, guideHang = 0.05,main = "Gene dendrogram and module colors")
 ```
 
-![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-7-2.png)
+![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
 ``` r
 #2.B.5 Merge modules whose expression profiles are very similar
@@ -184,7 +181,7 @@ mergedMEs = merge$newMEs;
 plotDendroAndColors(geneTree, cbind(dynamicColors, mergedColors), c("Dynamic Tree Cut", "Merged dynamic"), dendroLabels = FALSE, hang = 0.03, addGuide = TRUE, guideHang = 0.05)
 ```
 
-![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-7-3.png)![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-7-4.png)
+![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-7-2.png)![](/files/wgcna_tri_report_files/figure-markdown_github/unnamed-chunk-7-3.png)
 
 ``` r
 #Save relevant colors for subsequent analysis
@@ -205,7 +202,7 @@ as.data.frame(table(moduleColors))
     ## 2         grey  340
     ## 3      magenta 1172
 
-# DEALILNG WITH LARGE DATA SETS: BLOCK-WISE NETWORK CONSTRUCTION & MODULE DETECTION
+# Block-wise Network Construction & Module Detection
 
 ``` r
 bwnet = blockwiseModules(datExpr, maxBlockSize = 5000, power = 30,
