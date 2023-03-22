@@ -1,7 +1,7 @@
 ---
 title: "Scalable, Modular Phenomics Pipelines"
 # layout: single-portfolio
-excerpt: "<img src='/images/research/IMG_0102.PNG' alt='' width="400" height="400">"
+excerpt: "<img src='/images/research/IMG_0102.PNG' alt=''>"
 collection: research
 author_profile: False
 # toc: true
