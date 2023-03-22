@@ -1,5 +1,5 @@
 ---
-title: "PhytoOracle"
+title: "Scalable, Modular Phenomics Pipelines"
 # layout: single-portfolio
 excerpt: "<img src='/images/research/IMG_0102.PNG' alt=''>"
 collection: research
