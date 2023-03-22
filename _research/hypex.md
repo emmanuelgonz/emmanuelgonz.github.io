@@ -1,7 +1,7 @@
 ---
 title: "Gene Expression Prediction"
 # layout: single-portfolio
-excerpt: "<img src='/images/research/cotton.png' style="width:100; height:auto;">"
+excerpt: "<img src='/images/research/cotton.png' style="width:auto; height:100;">"
 collection: research
 author_profile: False
 # toc: true
