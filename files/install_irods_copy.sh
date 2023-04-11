@@ -11,11 +11,11 @@ sudo apt-get update && sudo apt-get upgrade -y
 ###
 # 2. Install python-urlib3, python-requests and libssl1.0.0
 sudo wget -c \
-  http://security.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
+  http://security.ubuntu.com/ubuntu/pool/main/o/openssl/libssl1.1_1.1.1f-1ubuntu2.17_amd64.deb
 sudo apt install \
-  ./libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
+  ./libssl1.1_1.1.1f-1ubuntu2.17_amd64.deb
 rm -rf \
-  ./libssl1.1_1.1.1f-1ubuntu2.16_amd64.deb
+  ./libssl1.1_1.1.1f-1ubuntu2.17_amd64.deb
 
 ###
 # 3. Install irods-icommands
