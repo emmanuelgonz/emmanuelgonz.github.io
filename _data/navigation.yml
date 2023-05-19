@@ -21,7 +21,7 @@ main:
   - title: "Blog"
     url: /posts/
     
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
     
   # - title: "Guide"
