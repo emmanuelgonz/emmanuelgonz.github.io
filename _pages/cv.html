@@ -2,19 +2,33 @@
 layout: archive
 title: ""
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-<section>
-  <h2>Resume</h2>
-  <iframe src="https://drive.google.com/file/d/1PAFFO1x3ERlt_wz_Xj6Y5m4zk_LwjXk2/preview" width="640" height="820" allow="autoplay"></iframe><br />
-  <a href="https://drive.google.com/u/0/uc?id=1PAFFO1x3ERlt_wz_Xj6Y5m4zk_LwjXk2&export=download" target="_self">Download a PDF copy of my resume.</a><br />
-</section>
+<style>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  @media (max-width: 600px) {
+    .container {
+      flex-direction: column;
+    }
+  }
+</style>
 
-<section>
-  <h2>Curriculum Vitae</h2>
-  <iframe src="https://drive.google.com/file/d/1ofwPmuYGpRtEtt97_FGfdgwp0J7QaeES/preview" width="640" height="820" allow="autoplay"></iframe><br />
-  <a href="https://drive.google.com/u/0/uc?id=1ofwPmuYGpRtEtt97_FGfdgwp0J7QaeES&export=download" target="_self">Download a PDF copy of my CV.</a><br />
-</section>
+<div class="container">
+  <section>
+    <h2>Resume</h2>
+    <iframe src="https://drive.google.com/file/d/1PAFFO1x3ERlt_wz_Xj6Y5m4zk_LwjXk2/preview" width="640" height="820" allow="autoplay"></iframe><br />
+    <a href="https://drive.google.com/u/0/uc?id=1PAFFO1x3ERlt_wz_Xj6Y5m4zk_LwjXk2&export=download" target="_self">Download a PDF copy of my resume.</a><br />
+  </section>
+
+  <section>
+    <h2>Curriculum Vitae</h2>
+    <iframe src="https://drive.google.com/file/d/1ofwPmuYGpRtEtt97_FGfdgwp0J7QaeES/preview" width="640" height="820" allow="autoplay"></iframe><br />
+    <a href="https://drive.google.com/u/0/uc?id=1ofwPmuYGpRtEtt97_FGfdgwp0J7QaeES&export=download" target="_self">Download a PDF copy of my CV.</a><br />
+  </section>
+</div>
