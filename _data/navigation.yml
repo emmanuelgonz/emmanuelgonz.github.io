@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
-  - title: "Extension"
-    url: /extension/
+  # - title: "Extension"
+  #   url: /extension/
 
   - title: "Talks"
     url: /talks/    
