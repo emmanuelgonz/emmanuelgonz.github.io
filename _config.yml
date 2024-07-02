@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : DSC05727_2_trans.jpg # Open Graph/Twitter default site image
+og_image                 : DSC05727_2_trans.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emmanuel Gonzalez"
-  avatar           : "DSC05727_2_trans.jpg"
+  avatar           : "DSC05727_2_trans.png"
   bio              : "Plant Science PhD Candidate | Image and Point Cloud Data Analyst | Team Mentor | Aspiring Agricultural Data Scientist" #focused on leveraging data science and computation to understand plant growth dynamics."
   location         : "Tucson, AZ"
   employer         : 
