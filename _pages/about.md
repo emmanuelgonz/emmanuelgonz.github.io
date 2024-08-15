@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome/Bienvenido! My life has taught me that growth often comes from discomfort. I embrace this by seeking out challenges that push me beyond my perceived limits. This approach has allowed me to develop a diverse set of transdisciplinary skills. Today, I am a hybrid: part plant scientist, part data scientist.
+Welcome/Bienvenido! My life has taught me that growth often comes from discomfort. I embrace this by seeking out challenges that push me beyond my perceived limits. This approach has allowed me to develop a diverse set of transdisciplinary skills. Today, I am a hybrid: part data scientist, part plant scientist. 
 
 <p align="center"><img title="Emmanuel: part plant scientist, part data scientist" alt="" src="images/plant_data_scientist.png"></p> 
 
@@ -17,6 +17,8 @@ Welcome/Bienvenido! My life has taught me that growth often comes from discomfor
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/emmanuelmgonzalez/30min_meeting?hide_gdpr_banner=1', text: 'Schedule a meeting with me!', color: '#53951c', textColor: '#ffffff', branding: true }); }</script>
 <!-- Calendly badge widget end -->
+
+I am currently a Research Scientist in the School of Computing and Augmented Intelligence at Arizona State University. My research focuses on developing computational frameworks for scientific research, including the [New Observing Strategies Testbed (NOS-T)](https://github.com/code-lab-org/nost-tools), a digital engineering environment to test and develop observing strategies.
 
 I received my B.S. in Biology from [Pacific Lutheran University](https://www.plu.edu/). My passion for plant science was sparked in the forests of Washington state and grew during a summer internship at [Dr. Jim Giovannoni's lab](https://btiscience.org/jim-giovannoni/) at the [Boyce Thompson Institute](https://btiscience.org/). I am now a member of the [Pauli lab](https://thepaulilab.com/) at the [University *of* Arizona's School of Plant Sciences](https://cals.arizona.edu/spls/home), where I work with data from the [Field Scanalyzer](https://news.arizona.edu/story/world-s-largest-robotic-field-scanner-now-place). My expertise includes drought stress, plant phenomics, scientific computing, and applied machine learning. My interest in data science began early in my graduate studies and grew as I taught myself computer programming and developed phenomic data processing pipelines. These skills now allow me to explore questions that were once unanswerable due to a lack of data or methods for extracting information from it.
 
