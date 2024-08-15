@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emmanuel Gonzalez"
+title                    : "Emmanuel Miguel Gonzalez, PhD"
 title_separator          : "-"
-name                     : &name "Emmanuel Gonzalez"
-description              : &description "Plant Science PhD Candidate | Image and Point Cloud Data Analyst | Team Mentor | Aspiring Agricultural Data Scientist"
+name                     : &name "Emmanuel Miguel Gonzalez, PhD"
+description              : &description "Computational Research Scientist | Software Engineer | Solutions Developer | Team Mentor | PhD in Plant Science"
 url                      : https://emmanuelgonz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "emmanuelgonz/emmanuelgonz.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emmanuel Gonzalez"
+  name             : "Emmanuel Miguel Gonzalez, PhD"
   avatar           : "DSC05727_2_trans.png"
-  bio              : "Plant Science PhD Candidate | Image and Point Cloud Data Analyst | Team Mentor | Aspiring Agricultural Data Scientist" #focused on leveraging data science and computation to understand plant growth dynamics."
+  bio              : "Computational Research Scientist | Software Engineer | Solutions Developer | Team Mentor | PhD in Plant Science" #focused on leveraging data science and computation to understand plant growth dynamics."
   location         : "Tucson, AZ"
   employer         : 
   pubmed           : 
@@ -99,7 +99,7 @@ author:
   github           : "emmanuelgonz"
   google_plus      :
   keybase          :
-  instagram        : "curious.plant.scientist"
+  instagram        : "curious.comp.scientist"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "emmanuelmgonzalez"
