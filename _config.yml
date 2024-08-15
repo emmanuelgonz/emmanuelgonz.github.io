@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emmanuel Miguel Gonzalez, PhD"
+title                    : "Emmanuel Gonzalez, PhD"
 title_separator          : "-"
-name                     : &name "Emmanuel Miguel Gonzalez, PhD"
+name                     : &name "Emmanuel Gonzalez, PhD"
 description              : &description "Computational Research Scientist | Software Engineer | Solutions Developer | Team Mentor | PhD in Plant Science"
 url                      : https://emmanuelgonz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : DSC05727_2_trans.png # Open Graph/Twitter default site image
+og_image                 : DSC05727_2.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emmanuel Miguel Gonzalez, PhD"
-  avatar           : "DSC05727_2_trans.png"
+  name             : "Emmanuel Gonzalez, PhD"
+  avatar           : "DSC05727_2.jpg"
   bio              : "Computational Research Scientist | Software Engineer | Solutions Developer | Team Mentor | PhD in Plant Science" #focused on leveraging data science and computation to understand plant growth dynamics."
-  location         : "Tucson, AZ"
+  location         : "Tempe, AZ"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VHqrBQsAAAAJ"
