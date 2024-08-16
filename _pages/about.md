@@ -11,7 +11,7 @@ redirect_from:
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/emmanuelmgonzalez/chat-with-emmanuel', text: 'Schedule a meeting with me!', color: '#53951c', textColor: '#ffffff', branding: undefined }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/emmanuelmgonzalez/chat-with-emmanuel?hide_event_type_details=1', text: 'Schedule a meeting with me!', color: '#53951c', textColor: '#ffffff', branding: undefined }); }</script>
 <!-- Calendly badge widget end -->
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="images/AdobeStock_594956182.jpeg" width=400>
