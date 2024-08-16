@@ -25,6 +25,6 @@ I am currently a Research Scientist in the [School of Computing and Augmented In
 
 I earned my Ph.D. in [Dr. Duke Pauli's lab](https://thepaulilab.com/) at the [University *of* Arizona's School of Plant Sciences](https://spls.arizona.edu/). My doctoral research produced tools and algorithms that expanded the scope of research questions in plant science through the integration of data and computer science. I am passionate about working with cross-functional teams to develop solutions for significant challenges, including climate change.
 
-<p align='center'><i>Watch me open a Wall Street Journal feature!</i></p>
+<!-- <p align='center'><i>Watch me open a Wall Street Journal feature!</i></p>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/da2gKRdMeXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/da2gKRdMeXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> -->
