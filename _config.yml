@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emmanuel Gonzalez, PhD"
+title                    : "Emmanuel Gonzalez"
 title_separator          : "-"
-name                     : &name "Emmanuel Gonzalez, PhD"
+name                     : &name "Emmanuel Gonzalez"
 description              : &description "Computational Research Scientist | Software Engineer | Solutions Developer | Team Mentor | PhD in Plant Science"
 url                      : https://emmanuelgonz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
