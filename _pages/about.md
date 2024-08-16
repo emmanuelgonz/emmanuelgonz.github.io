@@ -19,11 +19,9 @@ redirect_from:
 I am currently a Research Scientist in the [School of Computing and Augmented Intelligence](https://scai.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research focuses on developing computational frameworks to advance scientific research. I oversee the [New Observing Strategies Testbed (NOS-T)](https://github.com/code-lab-org/nost-tools), a digital engineering environment for testing and developing observing strategies, within Dr. Paul Grogan's [Collective Design (CoDe)](https://labs.engineering.asu.edu/code-lab/) Lab.
 
 
-<!-- <img style="float: left; padding: 10px 10px 10px 10px;" src="images/tpg_animation.png" width=400> -->
+<img style="float: left; padding: 10px 10px 10px 10px;" src="images/tpg_animation.png" width=400>
 
-<!-- <center><iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/614e042b53917621eadcb06f/embed'></iframe> <iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed'></iframe></center> -->
-
-<iframe style="float: left;" width="350" height="200" src='https://www.pointbox.xyz/clouds/614e042b53917621eadcb06f/embed'></iframe>
+<!-- <iframe style="float: left;" width="350" height="200" src='https://www.pointbox.xyz/clouds/614e042b53917621eadcb06f/embed'></iframe> -->
 
 I earned my Ph.D. in [Dr. Duke Pauli's lab](https://thepaulilab.com/) at the [University *of* Arizona's School of Plant Sciences](https://spls.arizona.edu/). My doctoral research produced tools and algorithms that expanded the scope of research questions in plant science through the integration of data and computer science. I am passionate about working with cross-functional teams to develop solutions for significant challenges, including climate change.
 
