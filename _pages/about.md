@@ -23,7 +23,7 @@ I am currently a Research Scientist in the [School of Computing and Augmented In
 
 <!-- <center><iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/614e042b53917621eadcb06f/embed'></iframe> <iframe width="350" height="250" src='https://www.pointbox.xyz/clouds/614808f5539176dcd8dcb026/embed'></iframe></center> -->
 
-<iframe style="float: left; padding: 10px 10px 10px 10px;" width="350" height="250" src='https://www.pointbox.xyz/clouds/614e042b53917621eadcb06f/embed'></iframe>
+<iframe style="float: left;" width="350" height="200" src='https://www.pointbox.xyz/clouds/614e042b53917621eadcb06f/embed'></iframe>
 
 I earned my Ph.D. in [Dr. Duke Pauli's lab](https://thepaulilab.com/) at the [University *of* Arizona's School of Plant Sciences](https://spls.arizona.edu/). My doctoral research produced tools and algorithms that expanded the scope of research questions in plant science through the integration of data and computer science. I am passionate about working with cross-functional teams to develop solutions for significant challenges, including climate change.
 
