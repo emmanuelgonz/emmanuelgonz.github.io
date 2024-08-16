@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emmanuel Gonzalez, PhD"
+  name             : "Emmanuel Gonzalez"
   avatar           : "DSC05727_2.jpg"
   bio              : "Computational Research Scientist | Software Engineer | Solutions Developer | Team Mentor | PhD in Plant Science" #focused on leveraging data science and computation to understand plant growth dynamics."
   location         : "Tempe, AZ"
