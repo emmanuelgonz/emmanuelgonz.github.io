@@ -16,12 +16,11 @@ redirect_from:
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="images/AdobeStock_594956182.jpeg" width=400>
 
-I am currently a Research Scientist in the [School of Computing and Augmented Intelligence](https://scai.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research focuses on developing computational frameworks to advance Earth and space science research. I oversee the [New Observing Strategies Testbed (NOS-T)](https://github.com/code-lab-org/nost-tools), a digital engineering environment for testing and developing observing strategies, within Dr. Paul Grogan's [Collective Design (CoDe)](https://labs.engineering.asu.edu/code-lab/) Lab.
-
+I am currently a Research Scientist in the [School of Computing and Augmented Intelligence](https://scai.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research focuses on developing computational frameworks to advance Earth and space science research. I oversee the [New Observing Strategies Testbed (NOS-T)](https://github.com/code-lab-org/nost-tools) project, a digital engineering environment for testing and developing observing strategies, within Dr. Paul Grogan's [Collective Design (CoDe)](https://labs.engineering.asu.edu/code-lab/) Lab. I am passionate about working with cross-functional teams to develop innovative science and engineering solutions for major global challenges, such as climate change.
 
 <img style="float: left; padding: 10px 10px 10px 10px;" src="images/tpg_animation.png" width=400>
 
 <!-- <iframe style="float: left;" width="350" height="200" src='https://www.pointbox.xyz/clouds/614e042b53917621eadcb06f/embed'></iframe> -->
 
-I earned my Ph.D. in [Dr. Duke Pauli's lab](https://thepaulilab.com/) at the [University *of* Arizona's School of Plant Sciences](https://spls.arizona.edu/). My doctoral research produced tools and algorithms that expanded the scope of research questions in plant science through the integration of data and computer science. I am passionate about working with cross-functional teams to develop solutions for significant challenges, including climate change.
+I earned my Ph.D. in [Dr. Duke Pauli's lab](https://thepaulilab.com/) at the [University *of* Arizona's School of Plant Sciences](https://spls.arizona.edu/). My doctoral research produced tools and algorithms that expanded the scope of research questions in plant science through the integration of data and computer science. During my graduate studies, I mentored over 20 undergraduate students, delivered more than 30 science talks and hands-on workshops, and published 7 peer-reviewed journal articles. Additionally, I developed transdisciplinary skills that enable me to collaborate effectively with cross-functional teams.
 
